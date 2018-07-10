@@ -1,0 +1,24 @@
+{
+  "name": "js-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js-scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasilPaul/js-web-scraping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasilPaul/js-web-scraping/issues"
+  },
+  "homepage": "https://github.com/wasilPaul/js-web-scraping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.1.2"
+  }
+}
