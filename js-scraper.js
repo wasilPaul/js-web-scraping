@@ -1,19 +1,19 @@
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 
-const url = `http://kodeturbo.com/index.php`
+const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`,`&do=cars`, `&model=`]
 
 const searchTurbin = `?do=turbo&oem=` // turbin search url+search+idNumber
 
-//?marka=Chevrolet&do=cars
-//${url}
 
 // function resarch all marks on website
-function searchMarks() {
+function searchAllSerialNumbers() {
+
     const allMarks = []
-    let blala = []
+    let modelType = []
     const allTurb = []
-    fetch(`http://kodeturbo.com/index.php?marka=Alpina&do=cars`)
+
+    fetch(`${url[0]}${url[1]}Alpina${url[3]}`)
         .then(resp => resp.text())
         .then(body => {
             const $ = cheerio.load(body)
@@ -24,21 +24,21 @@ function searchMarks() {
             //console.log(allMarks)
             return allMarks
         })
-        .then(() => blala = allMarks.map(x => x[2].trim().replace(/ /gi, '%20')))
-        .then(() => console.log(blala))
-        .then(() => fetch(`http://kodeturbo.com/index.php?do=cars2&marka=Alpina&model=${blala[1]}`)
+        .then(() => modelType = allMarks.map(x => x[2].trim().replace(/ /gi, '%20')))
+        .then(() => console.log(modelType))
+        .then(() => fetch(`${url[0]}${url[2]}Alpina${url[4]}${modelType[1]}`)
             .then(resp => resp.text())
             .then(body => {
                 const $ = cheerio.load(body)
                 $(`a`).each(function (i, turb) {
                     const $turb = $(turb)
-                    allTurb.push($turb.text())
+                    allTurb.push([modelType[1],$turb.text()])
                 })
-                console.log(allTurb)
-                return allTurb
+                console.log(allTurb.filter(x => x[1] != ''))
+                return allTurb 
             }))
 }
-searchMarks()
+searchAllSerialNumbers()
 
 
 
