@@ -1,10 +1,7 @@
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 
-const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`,`&do=cars`, `&model=`]
-
-const searchTurbin = `?do=turbo&oem=` // turbin search url+search+idNumber
-
+const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`]
 
 // function resarch all marks on website
 function searchAllSerialNumbers() {
@@ -19,7 +16,7 @@ function searchAllSerialNumbers() {
             const $ = cheerio.load(body)
             $(`tr`).each(function (i, mark) {
                 const $mark = $(mark)
-                allMarks.push($mark.text().split('\n'))  //.replace(/ /gi, '%20'))
+                allMarks.push($mark.text().split('\n'))
             })
             //console.log(allMarks)
             return allMarks
@@ -32,10 +29,10 @@ function searchAllSerialNumbers() {
                 const $ = cheerio.load(body)
                 $(`a`).each(function (i, turb) {
                     const $turb = $(turb)
-                    allTurb.push([modelType[1],$turb.text()])
+                    allTurb.push([modelType[1], $turb.text()])
                 })
                 console.log(allTurb.filter(x => x[1] != ''))
-                return allTurb 
+                return allTurb
             }))
 }
 searchAllSerialNumbers()
