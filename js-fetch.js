@@ -1,10 +1,7 @@
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 
-
 const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`]
-
-
 
 async function getMA() {
 
@@ -22,7 +19,6 @@ async function getMA() {
     })
     
 }
-
 
 
 getMA()

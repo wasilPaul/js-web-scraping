@@ -8,7 +8,7 @@ function searchAllSerialNumbers() {
 
     const allMarks = []
     let modelType = []
-    const allTurb = []
+
 
     fetch(`${url[0]}${url[1]}Alpina${url[3]}`)
         .then(resp => resp.text())
@@ -23,17 +23,18 @@ function searchAllSerialNumbers() {
         })
         .then(() => modelType = allMarks.map(x => x[2].trim().replace(/ /gi, '%20')))
         .then(() => console.log(modelType))
-        .then(() => fetch(`${url[0]}${url[2]}Alpina${url[4]}${modelType[1]}`)
+        .then(() => modelType.forEach(x => fetch(`${url[0]}${url[2]}Alpina${url[4]}${x}`)
             .then(resp => resp.text())
             .then(body => {
+                const allTurb = []
                 const $ = cheerio.load(body)
                 $(`a`).each(function (i, turb) {
                     const $turb = $(turb)
-                    allTurb.push([modelType[1], $turb.text()])
+                    allTurb.push({model: x, turb: $turb.text()})
                 })
-                console.log(allTurb.filter(x => x[1] != ''))
+                console.log(allTurb.filter(x => x.turb != ''))
                 return allTurb
-            }))
+            })))
 }
 searchAllSerialNumbers()
 
