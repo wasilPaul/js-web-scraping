@@ -1,9 +1,11 @@
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
+const fs = require('fs')
 
 const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`]
 const allBrands = []
-let allMarks = []
+let allModels = []
+let allParameters = []
 
 async function getBrands() {
     const brands = await fetch(`${url[0]}`)
@@ -12,36 +14,60 @@ async function getBrands() {
     $(`option`).each(function (i, brand) {
         const $brand = $(brand)
         allBrands.push($brand.text())
+        //fs.writeFile(`./file10.js`, allBrands, `utf8`)
         return allBrands
     })
     console.log(allBrands)
 }
 
-
-function getModel() {
-    const inAllMarks = []
+function getModels() {
+    const inAllModels = []
     allBrands.forEach(async function (brand) {
-
-        const mark = await fetch(`${url[0]}${url[1]}${brand}${url[3]}`).then(resp => resp.text())
-        const $ = cheerio.load(mark)
-        $(`tr`).each(function (i, mark) {
+        const model = await fetch(`${url[0]}${url[1]}${brand}${url[3]}`).then(resp => resp.text())
+        const $ = cheerio.load(model)
+        $(`tr`).each(function (i, model) {
             if (i != 0) {
-                const $mark = $(mark)
-                inAllMarks.push($mark.text().split('\n'))
+                const $model = $(model)
+                inAllModels.push($model.text().split('\n'))
             }
-            return inAllMarks
+            //return inAllModels
         })
-        allMarks = inAllMarks.map(x =>
-            x.map(x =>
-                x.trim()).filter(x => x != ''))
-        console.log(allMarks)
+        allModels = inAllModels
+            .map(x =>
+                x.map(x =>
+                    x.trim()).filter(x => x != ''))
+            .map(x => { return { marka: x[0], model: x[1].replace(/ /gi, '%20') } })
+        console.log(allModels)
+        
+        return allModels
+    })
+}
+//http://kodeturbo.com/index.php?do=cars2&marka=Alfa-Romeo&model=145%201.9%20JTD
 
+function getModelsParameters() {
+    inAllParameters = []
+    allModels.forEach(async function (model) {
+        const parameter = await fetch(`${url[0]}${url[2]}${model.marka}${url[4]}${model.model}`).then(resp => resp.text())
+        console.log(parameter)
+        const $ = cheerio.load(parameter)
+        $(`tr`).each(function (i, parameter) {
+            const $parameter = $(parameter)
+            if (i != 0) {
+                inAllParameters.push($parameter.text())
+            }
+            console.log(inAllParameters)
+            
+            return inAllParameters
+        })
     })
 }
 
 async function getALL() {
     await getBrands()
-    await getModel()
+    await getModels()
+    await getModelsParameters()
+
 }
 
 getALL()
+
