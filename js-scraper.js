@@ -62,3 +62,4 @@ searchAllSerialNumbers()
 //         return allMarks
 //     })
 
+//po kolei ściągnij zapisz do pliku pobierz 

@@ -1,0 +1,9727 @@
+[
+  {
+    "nr": 0,
+    "marka": "DDC",
+    "model": "Series%2060"
+  },
+  {
+    "nr": 1,
+    "marka": "Daihatsu",
+    "model": "Charade%20II%201,0%20Turbo%20(G11)"
+  },
+  {
+    "nr": 2,
+    "marka": "Daihatsu",
+    "model": "Charade%20III%201,0%20Gti%20(%20G100)"
+  },
+  {
+    "nr": 3,
+    "marka": "Daihatsu",
+    "model": "Charade%20III%201,0%20Turbo%20(G100)"
+  },
+  {
+    "nr": 4,
+    "marka": "Daihatsu",
+    "model": "Copen"
+  },
+  {
+    "nr": 5,
+    "marka": "Daihatsu",
+    "model": "Mira"
+  },
+  {
+    "nr": 6,
+    "marka": "Daihatsu",
+    "model": "Move%20SR-XX"
+  },
+  {
+    "nr": 7,
+    "marka": "Daihatsu",
+    "model": "Rocky%202,7%20TD%20(F75)"
+  },
+  {
+    "nr": 8,
+    "marka": "Daihatsu",
+    "model": "Rocky%202,8%20TD%20(F70)"
+  },
+  {
+    "nr": 9,
+    "marka": "Daihatsu",
+    "model": "Rocky%20Hard%20Top%202,8%20TD%20(F7,F8)"
+  },
+  {
+    "nr": 10,
+    "marka": "Daihatsu",
+    "model": "Rocky%20Soft%20Top%202,8%20TD%20(F7,F8)"
+  },
+  {
+    "nr": 11,
+    "marka": "Deutz",
+    "model": "Diverse"
+  },
+  {
+    "nr": 12,
+    "marka": "Deutz",
+    "model": "Gabelstapler"
+  },
+  {
+    "nr": 13,
+    "marka": "Deutz",
+    "model": "Generator"
+  },
+  {
+    "nr": 14,
+    "marka": "Deutz",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 15,
+    "marka": "Deutz",
+    "model": "LKW"
+  },
+  {
+    "nr": 16,
+    "marka": "Deutz",
+    "model": "Marine"
+  },
+  {
+    "nr": 17,
+    "marka": "Deutz",
+    "model": "Schiff"
+  },
+  {
+    "nr": 18,
+    "marka": "Deutz",
+    "model": "Traktor"
+  },
+  {
+    "nr": 19,
+    "marka": "Deutz",
+    "model": "Traktor%20305"
+  },
+  {
+    "nr": 20,
+    "marka": "DAF",
+    "model": "1100"
+  },
+  {
+    "nr": 21,
+    "marka": "DAF",
+    "model": "1300"
+  },
+  {
+    "nr": 22,
+    "marka": "DAF",
+    "model": "1700"
+  },
+  {
+    "nr": 23,
+    "marka": "DAF",
+    "model": "1800"
+  },
+  {
+    "nr": 24,
+    "marka": "DAF",
+    "model": "1900"
+  },
+  {
+    "nr": 25,
+    "marka": "DAF",
+    "model": "2100"
+  },
+  {
+    "nr": 26,
+    "marka": "DAF",
+    "model": "2300"
+  },
+  {
+    "nr": 27,
+    "marka": "DAF",
+    "model": "2500"
+  },
+  {
+    "nr": 28,
+    "marka": "DAF",
+    "model": "2800"
+  },
+  {
+    "nr": 29,
+    "marka": "DAF",
+    "model": "3300"
+  },
+  {
+    "nr": 30,
+    "marka": "DAF",
+    "model": "3600"
+  },
+  {
+    "nr": 31,
+    "marka": "DAF",
+    "model": "400"
+  },
+  {
+    "nr": 32,
+    "marka": "DAF",
+    "model": "95XF"
+  },
+  {
+    "nr": 33,
+    "marka": "DAF",
+    "model": "95XF%20.380"
+  },
+  {
+    "nr": 34,
+    "marka": "DAF",
+    "model": "95XF%20.420"
+  },
+  {
+    "nr": 35,
+    "marka": "DAF",
+    "model": "95XF%20.430"
+  },
+  {
+    "nr": 36,
+    "marka": "DAF",
+    "model": "95XF%20.475"
+  },
+  {
+    "nr": 37,
+    "marka": "DAF",
+    "model": "95XF%20.480"
+  },
+  {
+    "nr": 38,
+    "marka": "DAF",
+    "model": "95XF%20.530"
+  },
+  {
+    "nr": 39,
+    "marka": "DAF",
+    "model": "Bus"
+  },
+  {
+    "nr": 40,
+    "marka": "DAF",
+    "model": "CF75"
+  },
+  {
+    "nr": 41,
+    "marka": "DAF",
+    "model": "CF85"
+  },
+  {
+    "nr": 42,
+    "marka": "DAF",
+    "model": "CF85%20.340"
+  },
+  {
+    "nr": 43,
+    "marka": "DAF",
+    "model": "FA%2095%20.310"
+  },
+  {
+    "nr": 44,
+    "marka": "DAF",
+    "model": "FA%2095%20.350"
+  },
+  {
+    "nr": 45,
+    "marka": "DAF",
+    "model": "FA%2095%20.380"
+  },
+  {
+    "nr": 46,
+    "marka": "DAF",
+    "model": "FA%2095%20.400"
+  },
+  {
+    "nr": 47,
+    "marka": "DAF",
+    "model": "FA%2095%20.430"
+  },
+  {
+    "nr": 48,
+    "marka": "DAF",
+    "model": "FT%2095%20.330"
+  },
+  {
+    "nr": 49,
+    "marka": "DAF",
+    "model": "Generator"
+  },
+  {
+    "nr": 50,
+    "marka": "DAF",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 51,
+    "marka": "DAF",
+    "model": "LF%2045/55"
+  },
+  {
+    "nr": 52,
+    "marka": "DAF",
+    "model": "Truck"
+  },
+  {
+    "nr": 53,
+    "marka": "DAF",
+    "model": "XF105"
+  },
+  {
+    "nr": 54,
+    "marka": "DAF",
+    "model": "XF95%20.380"
+  },
+  {
+    "nr": 55,
+    "marka": "DAF",
+    "model": "XF95%20.430"
+  },
+  {
+    "nr": 56,
+    "marka": "DAF",
+    "model": "XF95%20.480"
+  },
+  {
+    "nr": 57,
+    "marka": "DAF",
+    "model": "XF95%20.530"
+  },
+  {
+    "nr": 58,
+    "marka": "Hanomag",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 59,
+    "marka": "GM",
+    "model": "Cadillac%20BLS%201.9%20D"
+  },
+  {
+    "nr": 60,
+    "marka": "GM",
+    "model": "GMC/Chevrolet%20Pick-up"
+  },
+  {
+    "nr": 61,
+    "marka": "GM",
+    "model": "Nutzfahrzeug"
+  },
+  {
+    "nr": 62,
+    "marka": "GM",
+    "model": "Savana%203500"
+  },
+  {
+    "nr": 63,
+    "marka": "GM",
+    "model": "Sierra%202500%20HD"
+  },
+  {
+    "nr": 64,
+    "marka": "GM",
+    "model": "Sierra%203500"
+  },
+  {
+    "nr": 65,
+    "marka": "GM",
+    "model": "Tracker"
+  },
+  {
+    "nr": 66,
+    "marka": "Hino",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 67,
+    "marka": "Hino",
+    "model": "Gabelstapler"
+  },
+  {
+    "nr": 68,
+    "marka": "Hino",
+    "model": "Profia%20700"
+  },
+  {
+    "nr": 69,
+    "marka": "Hino",
+    "model": "Truck"
+  },
+  {
+    "nr": 70,
+    "marka": "Holder",
+    "model": "Traktor"
+  },
+  {
+    "nr": 71,
+    "marka": "Dodge",
+    "model": "Avenger%202.0%20CRD"
+  },
+  {
+    "nr": 72,
+    "marka": "Dodge",
+    "model": "Caliber%202.0%20CRD"
+  },
+  {
+    "nr": 73,
+    "marka": "Dodge",
+    "model": "Caliber%202.4%20SRT-4"
+  },
+  {
+    "nr": 74,
+    "marka": "Dodge",
+    "model": "Caliber%20CRD"
+  },
+  {
+    "nr": 75,
+    "marka": "Dodge",
+    "model": "Journey%202.0%20CRD"
+  },
+  {
+    "nr": 76,
+    "marka": "Dodge",
+    "model": "Neon%20SRT"
+  },
+  {
+    "nr": 77,
+    "marka": "Dodge",
+    "model": "Nitro%202.8%20CRD"
+  },
+  {
+    "nr": 78,
+    "marka": "Dodge",
+    "model": "Ram%202500/3500%20Cummins"
+  },
+  {
+    "nr": 79,
+    "marka": "Dodge",
+    "model": "Sprinter"
+  },
+  {
+    "nr": 80,
+    "marka": "Honda",
+    "model": "Accord%202.0%20TCI/E"
+  },
+  {
+    "nr": 81,
+    "marka": "Honda",
+    "model": "Accord%202.2%20i-CTDi"
+  },
+  {
+    "nr": 82,
+    "marka": "Honda",
+    "model": "Civic%201.6%20i-DTEC"
+  },
+  {
+    "nr": 83,
+    "marka": "Honda",
+    "model": "Civic%201.7%20CTDi"
+  },
+  {
+    "nr": 84,
+    "marka": "Honda",
+    "model": "Civic%202.0%20i%20TDI"
+  },
+  {
+    "nr": 85,
+    "marka": "Honda",
+    "model": "Civic%202.2%20i-CTDi"
+  },
+  {
+    "nr": 86,
+    "marka": "Honda",
+    "model": "CR-V%202.2%20i-CTDi"
+  },
+  {
+    "nr": 87,
+    "marka": "Honda",
+    "model": "CR-V%202.2%20i-DTEC"
+  },
+  {
+    "nr": 88,
+    "marka": "Honda",
+    "model": "Diverse"
+  },
+  {
+    "nr": 89,
+    "marka": "Honda",
+    "model": "FR-V%202.2%20i-CTDi"
+  },
+  {
+    "nr": 90,
+    "marka": "Jaguar",
+    "model": "S%20Type%202.7%20TDVi"
+  },
+  {
+    "nr": 91,
+    "marka": "Jaguar",
+    "model": "S%20Type%202.7D"
+  },
+  {
+    "nr": 92,
+    "marka": "Jaguar",
+    "model": "X%20Type%202.0%20D"
+  },
+  {
+    "nr": 93,
+    "marka": "Jaguar",
+    "model": "X%20Type%202.0%20TDCi"
+  },
+  {
+    "nr": 94,
+    "marka": "Jaguar",
+    "model": "X%20Type%202.2%20D"
+  },
+  {
+    "nr": 95,
+    "marka": "Jaguar",
+    "model": "XF%202.7%20TDVi"
+  },
+  {
+    "nr": 96,
+    "marka": "Jaguar",
+    "model": "XJ%202.7%20TDVi"
+  },
+  {
+    "nr": 97,
+    "marka": "Hyundai",
+    "model": "Accent%201.5%20CRDI"
+  },
+  {
+    "nr": 98,
+    "marka": "Hyundai",
+    "model": "Chrorus%20Bus"
+  },
+  {
+    "nr": 99,
+    "marka": "Hyundai",
+    "model": "Coupe%20S"
+  },
+  {
+    "nr": 100,
+    "marka": "Hyundai",
+    "model": "Elantra%202.0%20CRDi"
+  },
+  {
+    "nr": 101,
+    "marka": "Hyundai",
+    "model": "Gallopper%202.5%20TD"
+  },
+  {
+    "nr": 102,
+    "marka": "Hyundai",
+    "model": "Gallopper%202.5%20TDI"
+  },
+  {
+    "nr": 103,
+    "marka": "Hyundai",
+    "model": "Getz%201.5%20CRDi"
+  },
+  {
+    "nr": 104,
+    "marka": "Hyundai",
+    "model": "Grandeur%202.2%20CRDI"
+  },
+  {
+    "nr": 105,
+    "marka": "Hyundai",
+    "model": "H-1"
+  },
+  {
+    "nr": 106,
+    "marka": "Hyundai",
+    "model": "H-1%202.5%20TD"
+  },
+  {
+    "nr": 107,
+    "marka": "Hyundai",
+    "model": "H-1%20CRDI"
+  },
+  {
+    "nr": 108,
+    "marka": "Hyundai",
+    "model": "i20%201.6%20CRDi"
+  },
+  {
+    "nr": 109,
+    "marka": "Hyundai",
+    "model": "i30%201.6%20CRDI"
+  },
+  {
+    "nr": 110,
+    "marka": "Hyundai",
+    "model": "ix55%203.0%20V6%20CRDi"
+  },
+  {
+    "nr": 111,
+    "marka": "Hyundai",
+    "model": "Matrix%201.5%20CRDi"
+  },
+  {
+    "nr": 112,
+    "marka": "Hyundai",
+    "model": "Matrix%201.5%20CRDi%20VGT"
+  },
+  {
+    "nr": 113,
+    "marka": "Hyundai",
+    "model": "Mighty%20Truck"
+  },
+  {
+    "nr": 114,
+    "marka": "Hyundai",
+    "model": "Santa%20Fe%202.0%20CRDi"
+  },
+  {
+    "nr": 115,
+    "marka": "Hyundai",
+    "model": "Santa%20Fe%202.2%20CRDi"
+  },
+  {
+    "nr": 116,
+    "marka": "Hyundai",
+    "model": "Sonata%202.0%20CRDi"
+  },
+  {
+    "nr": 117,
+    "marka": "Hyundai",
+    "model": "Starex"
+  },
+  {
+    "nr": 118,
+    "marka": "Hyundai",
+    "model": "Starex%202.5%20TD"
+  },
+  {
+    "nr": 119,
+    "marka": "Hyundai",
+    "model": "Starex%20CRDI"
+  },
+  {
+    "nr": 120,
+    "marka": "Hyundai",
+    "model": "Terracan%202.9%20CRDi"
+  },
+  {
+    "nr": 121,
+    "marka": "Hyundai",
+    "model": "Trajet%202.0%20CRDi"
+  },
+  {
+    "nr": 122,
+    "marka": "Hyundai",
+    "model": "Tucson%202.0%20CRDi"
+  },
+  {
+    "nr": 123,
+    "marka": "Hyundai",
+    "model": "Van/Light%20Duty%20Truck"
+  },
+  {
+    "nr": 124,
+    "marka": "Hyundai",
+    "model": "Veloster"
+  },
+  {
+    "nr": 125,
+    "marka": "Hyundai",
+    "model": "Veracruz%203.0%20TCI"
+  },
+  {
+    "nr": 126,
+    "marka": "Hyundai",
+    "model": "XG%202.2%20CRDI"
+  },
+  {
+    "nr": 127,
+    "marka": "Jenbach",
+    "model": "Generator"
+  },
+  {
+    "nr": 128,
+    "marka": "Iveco",
+    "model": "Auslieferfahrzeug"
+  },
+  {
+    "nr": 129,
+    "marka": "Iveco",
+    "model": "B120"
+  },
+  {
+    "nr": 130,
+    "marka": "Iveco",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 131,
+    "marka": "Iveco",
+    "model": "Baumaschine%20Allis%20Chalmers"
+  },
+  {
+    "nr": 132,
+    "marka": "Iveco",
+    "model": "CNG"
+  },
+  {
+    "nr": 133,
+    "marka": "Iveco",
+    "model": "Cursor%2010"
+  },
+  {
+    "nr": 134,
+    "marka": "Iveco",
+    "model": "Cursor%2013"
+  },
+  {
+    "nr": 135,
+    "marka": "Iveco",
+    "model": "Cursor%208"
+  },
+  {
+    "nr": 136,
+    "marka": "Iveco",
+    "model": "Daily"
+  },
+  {
+    "nr": 137,
+    "marka": "Iveco",
+    "model": "Daily%202.3%20TD"
+  },
+  {
+    "nr": 138,
+    "marka": "Iveco",
+    "model": "Daily%202.8%20TD"
+  },
+  {
+    "nr": 139,
+    "marka": "Iveco",
+    "model": "Daily%203.0%20HPI"
+  },
+  {
+    "nr": 140,
+    "marka": "Iveco",
+    "model": "Daily%203.0%20HPT"
+  },
+  {
+    "nr": 141,
+    "marka": "Iveco",
+    "model": "Daily%20New%20Turbo%20Daily"
+  },
+  {
+    "nr": 142,
+    "marka": "Iveco",
+    "model": "Daily%20Turbo%20Daily"
+  },
+  {
+    "nr": 143,
+    "marka": "Iveco",
+    "model": "Eurocargo"
+  },
+  {
+    "nr": 144,
+    "marka": "Iveco",
+    "model": "Eurostar%20/Eurotech"
+  },
+  {
+    "nr": 145,
+    "marka": "Iveco",
+    "model": "Eurostar%20V8"
+  },
+  {
+    "nr": 146,
+    "marka": "Iveco",
+    "model": "EuroTech%20190E42"
+  },
+  {
+    "nr": 147,
+    "marka": "Iveco",
+    "model": "EuroTech%20440E38"
+  },
+  {
+    "nr": 148,
+    "marka": "Iveco",
+    "model": "EuroTech%20440E42"
+  },
+  {
+    "nr": 149,
+    "marka": "Iveco",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 150,
+    "marka": "Iveco",
+    "model": "Marine"
+  },
+  {
+    "nr": 151,
+    "marka": "Iveco",
+    "model": "Multicar-Sta??enkehrmaschine%20M26%20WAK45%204x4"
+  },
+  {
+    "nr": 152,
+    "marka": "Iveco",
+    "model": "Tector"
+  },
+  {
+    "nr": 153,
+    "marka": "Iveco",
+    "model": "Tector%206"
+  },
+  {
+    "nr": 154,
+    "marka": "Iveco",
+    "model": "Traktor"
+  },
+  {
+    "nr": 155,
+    "marka": "Iveco",
+    "model": "Turbostar"
+  },
+  {
+    "nr": 156,
+    "marka": "JCB",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 157,
+    "marka": "Komatsu",
+    "model": "465-5"
+  },
+  {
+    "nr": 158,
+    "marka": "Komatsu",
+    "model": "LW250-5"
+  },
+  {
+    "nr": 159,
+    "marka": "Komatsu",
+    "model": "PC130%20-7"
+  },
+  {
+    "nr": 160,
+    "marka": "Komatsu",
+    "model": "PC150"
+  },
+  {
+    "nr": 161,
+    "marka": "Komatsu",
+    "model": "PC200"
+  },
+  {
+    "nr": 162,
+    "marka": "Komatsu",
+    "model": "PC220"
+  },
+  {
+    "nr": 163,
+    "marka": "Komatsu",
+    "model": "PC290"
+  },
+  {
+    "nr": 164,
+    "marka": "Komatsu",
+    "model": "PC300"
+  },
+  {
+    "nr": 165,
+    "marka": "Komatsu",
+    "model": "PC400"
+  },
+  {
+    "nr": 166,
+    "marka": "Komatsu",
+    "model": "Radlader"
+  },
+  {
+    "nr": 167,
+    "marka": "Komatsu",
+    "model": "WA300"
+  },
+  {
+    "nr": 168,
+    "marka": "Komatsu",
+    "model": "WA350"
+  },
+  {
+    "nr": 169,
+    "marka": "Komatsu",
+    "model": "WA350%20-%203"
+  },
+  {
+    "nr": 170,
+    "marka": "Komatsu",
+    "model": "WA450"
+  },
+  {
+    "nr": 171,
+    "marka": "Komatsu",
+    "model": "WA480"
+  },
+  {
+    "nr": 172,
+    "marka": "Komatsu",
+    "model": "WA700"
+  },
+  {
+    "nr": 173,
+    "marka": "Kubota",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 174,
+    "marka": "Kubota",
+    "model": "Marine%205.250%20TDI"
+  },
+  {
+    "nr": 175,
+    "marka": "Kubota",
+    "model": "Traktor"
+  },
+  {
+    "nr": 176,
+    "marka": "Isuzu",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 177,
+    "marka": "Isuzu",
+    "model": "D-MAX%202.5%20TD"
+  },
+  {
+    "nr": 178,
+    "marka": "Isuzu",
+    "model": "D-MAX%203.0%20CRD"
+  },
+  {
+    "nr": 179,
+    "marka": "Isuzu",
+    "model": "D-MAX%203.0%20TD"
+  },
+  {
+    "nr": 180,
+    "marka": "Isuzu",
+    "model": "Gemini%201,5%20TD%20(JT)"
+  },
+  {
+    "nr": 181,
+    "marka": "Isuzu",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 182,
+    "marka": "Isuzu",
+    "model": "KB%20300%20TD"
+  },
+  {
+    "nr": 183,
+    "marka": "Isuzu",
+    "model": "Marine"
+  },
+  {
+    "nr": 184,
+    "marka": "Isuzu",
+    "model": "Midi%20Bus%202,0%20TD%20(98000)"
+  },
+  {
+    "nr": 185,
+    "marka": "Isuzu",
+    "model": "Midi%20Bus%202,4%20TD%20(98000/N)"
+  },
+  {
+    "nr": 186,
+    "marka": "Isuzu",
+    "model": "MPR%202,8"
+  },
+  {
+    "nr": 187,
+    "marka": "Isuzu",
+    "model": "NKR%20%203.0%20TDI"
+  },
+  {
+    "nr": 188,
+    "marka": "Isuzu",
+    "model": "NKR%203.0%20TDI"
+  },
+  {
+    "nr": 189,
+    "marka": "Isuzu",
+    "model": "NPR%203.0%20TDI"
+  },
+  {
+    "nr": 190,
+    "marka": "Isuzu",
+    "model": "NQR%2075L"
+  },
+  {
+    "nr": 191,
+    "marka": "Isuzu",
+    "model": "Piazza%202,0%20Turbo"
+  },
+  {
+    "nr": 192,
+    "marka": "Isuzu",
+    "model": "Rodeo%202.5%20TD"
+  },
+  {
+    "nr": 193,
+    "marka": "Isuzu",
+    "model": "Rodeo%202.8%20TD"
+  },
+  {
+    "nr": 194,
+    "marka": "Isuzu",
+    "model": "Rodeo%203.0%20TD"
+  },
+  {
+    "nr": 195,
+    "marka": "Isuzu",
+    "model": "Trooper"
+  },
+  {
+    "nr": 196,
+    "marka": "Isuzu",
+    "model": "Trooper%20%202,8"
+  },
+  {
+    "nr": 197,
+    "marka": "Isuzu",
+    "model": "Trooper%202,8%20TD%20(UBS55)"
+  },
+  {
+    "nr": 198,
+    "marka": "Isuzu",
+    "model": "Trooper%202,8%20TDInterc(UBS55)"
+  },
+  {
+    "nr": 199,
+    "marka": "Isuzu",
+    "model": "Trooper%203,0%20TD%20Interc."
+  },
+  {
+    "nr": 200,
+    "marka": "Isuzu",
+    "model": "Trooper%203,1%20TD"
+  },
+  {
+    "nr": 201,
+    "marka": "Isuzu",
+    "model": "Trooper%20Soft%20Top%202,2%20TD%20(UBS52)"
+  },
+  {
+    "nr": 202,
+    "marka": "KHD",
+    "model": "BF4L1011"
+  },
+  {
+    "nr": 203,
+    "marka": "KHD",
+    "model": "BF4L913"
+  },
+  {
+    "nr": 204,
+    "marka": "KHD",
+    "model": "BF4M1012%20C/E"
+  },
+  {
+    "nr": 205,
+    "marka": "KHD",
+    "model": "BF4M1012C,%20E/E,%20EC,"
+  },
+  {
+    "nr": 206,
+    "marka": "KHD",
+    "model": "BF4M913"
+  },
+  {
+    "nr": 207,
+    "marka": "KHD",
+    "model": "BF6L913"
+  },
+  {
+    "nr": 208,
+    "marka": "KHD",
+    "model": "BF6M1012%20E/C"
+  },
+  {
+    "nr": 209,
+    "marka": "KHD",
+    "model": "BF6M1013"
+  },
+  {
+    "nr": 210,
+    "marka": "KHD",
+    "model": "BF6M1013CP%20/%20EC/ECP"
+  },
+  {
+    "nr": 211,
+    "marka": "KHD",
+    "model": "BF6M1013EC"
+  },
+  {
+    "nr": 212,
+    "marka": "KHD",
+    "model": "BF8L413/513"
+  },
+  {
+    "nr": 213,
+    "marka": "KHD",
+    "model": "BF8L513"
+  },
+  {
+    "nr": 214,
+    "marka": "KHD",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 215,
+    "marka": "KHD",
+    "model": "Lkw"
+  },
+  {
+    "nr": 216,
+    "marka": "KHD",
+    "model": "Lkw/Industriemotor"
+  },
+  {
+    "nr": 217,
+    "marka": "KHD",
+    "model": "Off%20Highway"
+  },
+  {
+    "nr": 218,
+    "marka": "Lotus",
+    "model": "ESPRIT%2016V"
+  },
+  {
+    "nr": 219,
+    "marka": "Lotus",
+    "model": "Esprit%20Bi-Turbo"
+  },
+  {
+    "nr": 220,
+    "marka": "Liebherr",
+    "model": "Aggregat"
+  },
+  {
+    "nr": 221,
+    "marka": "Liebherr",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 222,
+    "marka": "Liebherr",
+    "model": "Generator"
+  },
+  {
+    "nr": 223,
+    "marka": "Liebherr",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 224,
+    "marka": "Liebherr",
+    "model": "Industriemotor%20left%20side"
+  },
+  {
+    "nr": 225,
+    "marka": "Liebherr",
+    "model": "Industriemotor%20right%20side"
+  },
+  {
+    "nr": 226,
+    "marka": "Liebherr",
+    "model": "Mobilkran"
+  },
+  {
+    "nr": 227,
+    "marka": "Liebherr",
+    "model": "Mobilkran%20LTM%201060/1080"
+  },
+  {
+    "nr": 228,
+    "marka": "Liebherr",
+    "model": "Off-Highway"
+  },
+  {
+    "nr": 229,
+    "marka": "Liebherr",
+    "model": "Planierraupe"
+  },
+  {
+    "nr": 230,
+    "marka": "Liebherr",
+    "model": "Planierraupe%20L541"
+  },
+  {
+    "nr": 231,
+    "marka": "Lombardini",
+    "model": "CHD%20Industriemotor"
+  },
+  {
+    "nr": 232,
+    "marka": "Lombardini",
+    "model": "Focs%20Industriemotor"
+  },
+  {
+    "nr": 233,
+    "marka": "Lombardini",
+    "model": "Focs%20Marine"
+  },
+  {
+    "nr": 234,
+    "marka": "Lombardini",
+    "model": "Focs%20Traktor"
+  },
+  {
+    "nr": 235,
+    "marka": "Mercedes-NFZ",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 236,
+    "marka": "Mercedes-NFZ",
+    "model": "Schiff"
+  },
+  {
+    "nr": 237,
+    "marka": "Maserati",
+    "model": "228"
+  },
+  {
+    "nr": 238,
+    "marka": "Maserati",
+    "model": "228%20Karif"
+  },
+  {
+    "nr": 239,
+    "marka": "Maserati",
+    "model": "3200%20GT"
+  },
+  {
+    "nr": 240,
+    "marka": "Maserati",
+    "model": "Bi%20Turbo"
+  },
+  {
+    "nr": 241,
+    "marka": "Maserati",
+    "model": "Bi%20Turbo%20222"
+  },
+  {
+    "nr": 242,
+    "marka": "Maserati",
+    "model": "Ghibli"
+  },
+  {
+    "nr": 243,
+    "marka": "Maserati",
+    "model": "Quattroporte%20IV"
+  },
+  {
+    "nr": 244,
+    "marka": "Maserati",
+    "model": "Shamal"
+  },
+  {
+    "nr": 245,
+    "marka": "Alpina",
+    "model": "530%20D%20(E39)"
+  },
+  {
+    "nr": 246,
+    "marka": "Alpina",
+    "model": "B7%20(F01%20/%20F02)"
+  },
+  {
+    "nr": 247,
+    "marka": "Bentley",
+    "model": "Continental%20GT"
+  },
+  {
+    "nr": 248,
+    "marka": "Bentley",
+    "model": "Continental%20GT%20Speed"
+  },
+  {
+    "nr": 249,
+    "marka": "Cadillac",
+    "model": "SRX%202.8%20T%20V6"
+  },
+  {
+    "nr": 250,
+    "marka": "Alfa-Romeo",
+    "model": "145%201.9%20JTD"
+  },
+  {
+    "nr": 251,
+    "marka": "Alfa-Romeo",
+    "model": "145%201.9%20TD"
+  },
+  {
+    "nr": 252,
+    "marka": "Alfa-Romeo",
+    "model": "146%201.9%20JTD"
+  },
+  {
+    "nr": 253,
+    "marka": "Alfa-Romeo",
+    "model": "146%201.9%20TD"
+  },
+  {
+    "nr": 254,
+    "marka": "Alfa-Romeo",
+    "model": "147%201.9%20JTD"
+  },
+  {
+    "nr": 255,
+    "marka": "Alfa-Romeo",
+    "model": "155%201.9%20TD"
+  },
+  {
+    "nr": 256,
+    "marka": "Alfa-Romeo",
+    "model": "155%202.0%20Turbo%20Q4"
+  },
+  {
+    "nr": 257,
+    "marka": "Alfa-Romeo",
+    "model": "155%202.5%20TD"
+  },
+  {
+    "nr": 258,
+    "marka": "Alfa-Romeo",
+    "model": "156%201.9%20JTD"
+  },
+  {
+    "nr": 259,
+    "marka": "Alfa-Romeo",
+    "model": "156%201.9%20JTDM"
+  },
+  {
+    "nr": 260,
+    "marka": "Alfa-Romeo",
+    "model": "156%202.4%20JTD"
+  },
+  {
+    "nr": 261,
+    "marka": "Alfa-Romeo",
+    "model": "159%201.8%20TBi%2016V"
+  },
+  {
+    "nr": 262,
+    "marka": "Alfa-Romeo",
+    "model": "159%201.9%20JTDM"
+  },
+  {
+    "nr": 263,
+    "marka": "Alfa-Romeo",
+    "model": "159%202.0%20JTDM"
+  },
+  {
+    "nr": 264,
+    "marka": "Alfa-Romeo",
+    "model": "159%202.4%20JTDM"
+  },
+  {
+    "nr": 265,
+    "marka": "Alfa-Romeo",
+    "model": "164%202.0%20T"
+  },
+  {
+    "nr": 266,
+    "marka": "Alfa-Romeo",
+    "model": "164%202.5%20TD"
+  },
+  {
+    "nr": 267,
+    "marka": "Alfa-Romeo",
+    "model": "166%202.0%20V6%20TURBO"
+  },
+  {
+    "nr": 268,
+    "marka": "Alfa-Romeo",
+    "model": "166%202.4%20JTD"
+  },
+  {
+    "nr": 269,
+    "marka": "Alfa-Romeo",
+    "model": "33%201,8%20TD%20%20%20%20%20(905)"
+  },
+  {
+    "nr": 270,
+    "marka": "Alfa-Romeo",
+    "model": "33%201,8%20TD%20%20%20%20%20(907A)"
+  },
+  {
+    "nr": 271,
+    "marka": "Alfa-Romeo",
+    "model": "75%201,8%20Turbo%20(162B)"
+  },
+  {
+    "nr": 272,
+    "marka": "Alfa-Romeo",
+    "model": "90%202,4%20TD"
+  },
+  {
+    "nr": 273,
+    "marka": "Alfa-Romeo",
+    "model": "Brera%202.4%20JTDM"
+  },
+  {
+    "nr": 274,
+    "marka": "Alfa-Romeo",
+    "model": "Giulietta%201.4%20TB"
+  },
+  {
+    "nr": 275,
+    "marka": "Alfa-Romeo",
+    "model": "Giulietta%201.6%20JTDM"
+  },
+  {
+    "nr": 276,
+    "marka": "Alfa-Romeo",
+    "model": "Giulietta%202.0%20JTDM"
+  },
+  {
+    "nr": 277,
+    "marka": "Alfa-Romeo",
+    "model": "GT%201.9%20JTD"
+  },
+  {
+    "nr": 278,
+    "marka": "Alfa-Romeo",
+    "model": "GTV%202,0%20V6%20Turbo"
+  },
+  {
+    "nr": 279,
+    "marka": "Alfa-Romeo",
+    "model": "MiTo%201.3%20JTDM"
+  },
+  {
+    "nr": 280,
+    "marka": "Alfa-Romeo",
+    "model": "MiTo%201.4%20TB"
+  },
+  {
+    "nr": 281,
+    "marka": "Alfa-Romeo",
+    "model": "MiTo%201.4%20TB%2016V"
+  },
+  {
+    "nr": 282,
+    "marka": "Alfa-Romeo",
+    "model": "MiTo%201.6%20JTDM"
+  },
+  {
+    "nr": 283,
+    "marka": "Alfa-Romeo",
+    "model": "Spider%202,0%20V6%20Turbo%20%20%20(916)"
+  },
+  {
+    "nr": 284,
+    "marka": "Case-IH",
+    "model": "Diverse"
+  },
+  {
+    "nr": 285,
+    "marka": "Case-IH",
+    "model": "Traktor"
+  },
+  {
+    "nr": 286,
+    "marka": "Case-IH",
+    "model": "Traktor%201246/1255/1255%20XL"
+  },
+  {
+    "nr": 287,
+    "marka": "Caterpillar",
+    "model": "Baumaschine"
+  },
+  {
+    "nr": 288,
+    "marka": "Chevrolet",
+    "model": "Captiva"
+  },
+  {
+    "nr": 289,
+    "marka": "Chevrolet",
+    "model": "Cruze%201.4%20Turbo%20ECOTEC"
+  },
+  {
+    "nr": 290,
+    "marka": "Chevrolet",
+    "model": "Express%203500"
+  },
+  {
+    "nr": 291,
+    "marka": "Chevrolet",
+    "model": "Lacetti%202.0%20D%20CDX"
+  },
+  {
+    "nr": 292,
+    "marka": "Chevrolet",
+    "model": "Nubira%202.0%20D%20CDX"
+  },
+  {
+    "nr": 293,
+    "marka": "Chevrolet",
+    "model": "Pick-up"
+  },
+  {
+    "nr": 294,
+    "marka": "Chevrolet",
+    "model": "Silverado%202500%20HD"
+  },
+  {
+    "nr": 295,
+    "marka": "Chevrolet",
+    "model": "Silverado%203500"
+  },
+  {
+    "nr": 296,
+    "marka": "Chrysler",
+    "model": "300C%20CRD"
+  },
+  {
+    "nr": 297,
+    "marka": "Chrysler",
+    "model": "Le%20Baron"
+  },
+  {
+    "nr": 298,
+    "marka": "Chrysler",
+    "model": "Le%20Baron%202,2%20i%20Turbo"
+  },
+  {
+    "nr": 299,
+    "marka": "Chrysler",
+    "model": "Le%20Baron%202,5%20i%20Turbo"
+  },
+  {
+    "nr": 300,
+    "marka": "Chrysler",
+    "model": "PT%20Cruiser%202,2%20CRD"
+  },
+  {
+    "nr": 301,
+    "marka": "Chrysler",
+    "model": "PT%20Cruiser%20Turbo%20GT"
+  },
+  {
+    "nr": 302,
+    "marka": "Chrysler",
+    "model": "Sebring%202.0%20CRD"
+  },
+  {
+    "nr": 303,
+    "marka": "Chrysler",
+    "model": "Voyager"
+  },
+  {
+    "nr": 304,
+    "marka": "Chrysler",
+    "model": "Voyager%202.5%20TD"
+  },
+  {
+    "nr": 305,
+    "marka": "Chrysler",
+    "model": "Voyager%20I%202.5%20TD%20%20(ES)"
+  },
+  {
+    "nr": 306,
+    "marka": "Chrysler",
+    "model": "Voyager%20II%20(GS)%202.5%20TD"
+  },
+  {
+    "nr": 307,
+    "marka": "Chrysler",
+    "model": "Voyager%20III%202.5%20CRD"
+  },
+  {
+    "nr": 308,
+    "marka": "Chrysler",
+    "model": "Voyager%20III%202.8%20CRD"
+  },
+  {
+    "nr": 309,
+    "marka": "Cummins",
+    "model": "Diverse"
+  },
+  {
+    "nr": 310,
+    "marka": "Cummins",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 311,
+    "marka": "Cummins",
+    "model": "Industriemotor%20Komatsu"
+  },
+  {
+    "nr": 312,
+    "marka": "Cummins",
+    "model": "LKW"
+  },
+  {
+    "nr": 313,
+    "marka": "Dacia",
+    "model": "Logan%201.5%20dCi"
+  },
+  {
+    "nr": 314,
+    "marka": "Daewoo",
+    "model": "Generator"
+  },
+  {
+    "nr": 315,
+    "marka": "Ferrari",
+    "model": "F40"
+  },
+  {
+    "nr": 316,
+    "marka": "Jeep",
+    "model": "Cherokee%202.1%20TD"
+  },
+  {
+    "nr": 317,
+    "marka": "Jeep",
+    "model": "Cherokee%202.5%20CRD"
+  },
+  {
+    "nr": 318,
+    "marka": "Jeep",
+    "model": "Cherokee%202.5%20TD"
+  },
+  {
+    "nr": 319,
+    "marka": "Jeep",
+    "model": "Cherokee%202.8%20CRD"
+  },
+  {
+    "nr": 320,
+    "marka": "Jeep",
+    "model": "Cherokee%203.0%20CRD"
+  },
+  {
+    "nr": 321,
+    "marka": "Jeep",
+    "model": "Compass%202.0%20CRD"
+  },
+  {
+    "nr": 322,
+    "marka": "Jeep",
+    "model": "Grand%20Cherokee%202.7%20CRD"
+  },
+  {
+    "nr": 323,
+    "marka": "Jeep",
+    "model": "Grand%20Cherokee%203.0%20CRD"
+  },
+  {
+    "nr": 324,
+    "marka": "Jeep",
+    "model": "Grand%20Cherokee%203.1%20TD"
+  },
+  {
+    "nr": 325,
+    "marka": "Jeep",
+    "model": "Liberty%20CRD"
+  },
+  {
+    "nr": 326,
+    "marka": "Jeep",
+    "model": "Patriot%202.0%20CRD"
+  },
+  {
+    "nr": 327,
+    "marka": "Jeep",
+    "model": "Wrangler%202.8%20CRD"
+  },
+  {
+    "nr": 328,
+    "marka": "Kawasaki",
+    "model": "GPZ%20750"
+  },
+  {
+    "nr": 329,
+    "marka": "John-Deere",
+    "model": "1950%20AS"
+  },
+  {
+    "nr": 330,
+    "marka": "John-Deere",
+    "model": "4.239"
+  },
+  {
+    "nr": 331,
+    "marka": "John-Deere",
+    "model": "4.239%20TL%2002"
+  },
+  {
+    "nr": 332,
+    "marka": "John-Deere",
+    "model": "4.239%20TT%20094"
+  },
+  {
+    "nr": 333,
+    "marka": "John-Deere",
+    "model": "4239%20D%20und%20T"
+  },
+  {
+    "nr": 334,
+    "marka": "John-Deere",
+    "model": "6.359"
+  },
+  {
+    "nr": 335,
+    "marka": "John-Deere",
+    "model": "6414"
+  },
+  {
+    "nr": 336,
+    "marka": "John-Deere",
+    "model": "6619A"
+  },
+  {
+    "nr": 337,
+    "marka": "John-Deere",
+    "model": "Diverse"
+  },
+  {
+    "nr": 338,
+    "marka": "John-Deere",
+    "model": "M?�hdrescher"
+  },
+  {
+    "nr": 339,
+    "marka": "John-Deere",
+    "model": "Tractor"
+  },
+  {
+    "nr": 340,
+    "marka": "John-Deere",
+    "model": "Tractor%206068"
+  },
+  {
+    "nr": 341,
+    "marka": "John-Deere",
+    "model": "Tractor%206800"
+  },
+  {
+    "nr": 342,
+    "marka": "John-Deere",
+    "model": "Tractor%208430%20Allrad"
+  },
+  {
+    "nr": 343,
+    "marka": "KIA",
+    "model": "Carens%20II%202.0%20CRDi"
+  },
+  {
+    "nr": 344,
+    "marka": "KIA",
+    "model": "Carnival%20I%202.9%20CRDI"
+  },
+  {
+    "nr": 345,
+    "marka": "KIA",
+    "model": "Carnival%20I%202.9%20TDI"
+  },
+  {
+    "nr": 346,
+    "marka": "KIA",
+    "model": "Carnival%20II%202.9%20CRDi"
+  },
+  {
+    "nr": 347,
+    "marka": "KIA",
+    "model": "Ceed%202.0%20CRDi"
+  },
+  {
+    "nr": 348,
+    "marka": "KIA",
+    "model": "Cerato%201.5%20CRDi"
+  },
+  {
+    "nr": 349,
+    "marka": "KIA",
+    "model": "Cerato%201.6%20CRDi"
+  },
+  {
+    "nr": 350,
+    "marka": "KIA",
+    "model": "Magentis%202.0%20CRDi"
+  },
+  {
+    "nr": 351,
+    "marka": "KIA",
+    "model": "Picanto%201.1%20CRDi"
+  },
+  {
+    "nr": 352,
+    "marka": "KIA",
+    "model": "Pregio%202.5%20TCI"
+  },
+  {
+    "nr": 353,
+    "marka": "KIA",
+    "model": "Retona%202.0%20TD"
+  },
+  {
+    "nr": 354,
+    "marka": "KIA",
+    "model": "Rio%201.5%20CRDi"
+  },
+  {
+    "nr": 355,
+    "marka": "KIA",
+    "model": "Sorento%202.5%20CRDi"
+  },
+  {
+    "nr": 356,
+    "marka": "KIA",
+    "model": "Sportage%20I%202.0%20TD"
+  },
+  {
+    "nr": 357,
+    "marka": "KIA",
+    "model": "Sportage%20I%202.5%20TD"
+  },
+  {
+    "nr": 358,
+    "marka": "KIA",
+    "model": "Sportage%20II%202.0%20CRDi"
+  },
+  {
+    "nr": 359,
+    "marka": "Mack",
+    "model": "LKW"
+  },
+  {
+    "nr": 360,
+    "marka": "Land-Rover",
+    "model": "Defender%202.4%20TDCi"
+  },
+  {
+    "nr": 361,
+    "marka": "Land-Rover",
+    "model": "Defender%202.5%20TD"
+  },
+  {
+    "nr": 362,
+    "marka": "Land-Rover",
+    "model": "Defender%202.5%20TDI"
+  },
+  {
+    "nr": 363,
+    "marka": "Land-Rover",
+    "model": "Defender%202.5%20TDI%20TD5"
+  },
+  {
+    "nr": 364,
+    "marka": "Land-Rover",
+    "model": "Discovery%20I%202.5%20TDI"
+  },
+  {
+    "nr": 365,
+    "marka": "Land-Rover",
+    "model": "Discovery%20II%202.5%20TD5"
+  },
+  {
+    "nr": 366,
+    "marka": "Land-Rover",
+    "model": "Discovery%20II%202.5%20TDI"
+  },
+  {
+    "nr": 367,
+    "marka": "Land-Rover",
+    "model": "Discovery%20III%202.7%20TdV6"
+  },
+  {
+    "nr": 368,
+    "marka": "Land-Rover",
+    "model": "Freelander%20I%202.0%20Di"
+  },
+  {
+    "nr": 369,
+    "marka": "Land-Rover",
+    "model": "Freelander%20I%202.0%20Td4"
+  },
+  {
+    "nr": 370,
+    "marka": "Land-Rover",
+    "model": "Freelander%20II%202.2%20TD4"
+  },
+  {
+    "nr": 371,
+    "marka": "Land-Rover",
+    "model": "Range%20Rover%202.4%20TDI"
+  },
+  {
+    "nr": 372,
+    "marka": "Land-Rover",
+    "model": "Range%20Rover%202.5%20TDI"
+  },
+  {
+    "nr": 373,
+    "marka": "Land-Rover",
+    "model": "Range%20Rover%202.7%20Sport"
+  },
+  {
+    "nr": 374,
+    "marka": "Land-Rover",
+    "model": "Range%20Rover%202.9%20TDI"
+  },
+  {
+    "nr": 375,
+    "marka": "Land-Rover",
+    "model": "Range%20Rover%203.6%20TDV8"
+  },
+  {
+    "nr": 376,
+    "marka": "Land-Rover",
+    "model": "Range%20Rover%203.6%20TDV8%20Sport"
+  },
+  {
+    "nr": 377,
+    "marka": "MAN",
+    "model": "Bus"
+  },
+  {
+    "nr": 378,
+    "marka": "MAN",
+    "model": "F%202000"
+  },
+  {
+    "nr": 379,
+    "marka": "MAN",
+    "model": "F%202000%20E"
+  },
+  {
+    "nr": 380,
+    "marka": "MAN",
+    "model": "F%207"
+  },
+  {
+    "nr": 381,
+    "marka": "MAN",
+    "model": "F%208"
+  },
+  {
+    "nr": 382,
+    "marka": "MAN",
+    "model": "F%209"
+  },
+  {
+    "nr": 383,
+    "marka": "MAN",
+    "model": "F%2090"
+  },
+  {
+    "nr": 384,
+    "marka": "MAN",
+    "model": "Generator"
+  },
+  {
+    "nr": 385,
+    "marka": "MAN",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 386,
+    "marka": "MAN",
+    "model": "L%202000"
+  },
+  {
+    "nr": 387,
+    "marka": "MAN",
+    "model": "L%202000%20Evo"
+  },
+  {
+    "nr": 388,
+    "marka": "MAN",
+    "model": "L%20CAB"
+  },
+  {
+    "nr": 389,
+    "marka": "MAN",
+    "model": "LE%202000"
+  },
+  {
+    "nr": 390,
+    "marka": "MAN",
+    "model": "M%202000%20Evo"
+  },
+  {
+    "nr": 391,
+    "marka": "MAN",
+    "model": "Schiff"
+  },
+  {
+    "nr": 392,
+    "marka": "MAN",
+    "model": "TGA"
+  },
+  {
+    "nr": 393,
+    "marka": "MAN",
+    "model": "TGL"
+  },
+  {
+    "nr": 394,
+    "marka": "MAN",
+    "model": "TGM"
+  },
+  {
+    "nr": 395,
+    "marka": "MAN",
+    "model": "TGS"
+  },
+  {
+    "nr": 396,
+    "marka": "MAN",
+    "model": "TGX"
+  },
+  {
+    "nr": 397,
+    "marka": "MAN",
+    "model": "Traktor"
+  },
+  {
+    "nr": 398,
+    "marka": "Mazda",
+    "model": "2%201.4%20MZ-CD"
+  },
+  {
+    "nr": 399,
+    "marka": "Mazda",
+    "model": "3%201.6%20DI"
+  },
+  {
+    "nr": 400,
+    "marka": "Mazda",
+    "model": "3%202.0%20CD"
+  },
+  {
+    "nr": 401,
+    "marka": "Mazda",
+    "model": "3%202.2%20MZR-CD"
+  },
+  {
+    "nr": 402,
+    "marka": "Mazda",
+    "model": "3%202.3%20MZR%20DISI"
+  },
+  {
+    "nr": 403,
+    "marka": "Mazda",
+    "model": "323"
+  },
+  {
+    "nr": 404,
+    "marka": "Mazda",
+    "model": "323%20DiTD"
+  },
+  {
+    "nr": 405,
+    "marka": "Mazda",
+    "model": "323%20GT-R"
+  },
+  {
+    "nr": 406,
+    "marka": "Mazda",
+    "model": "323%20Rally"
+  },
+  {
+    "nr": 407,
+    "marka": "Mazda",
+    "model": "5%202.0%20CD"
+  },
+  {
+    "nr": 408,
+    "marka": "Mazda",
+    "model": "6%202.2%20MZR-CD"
+  },
+  {
+    "nr": 409,
+    "marka": "Mazda",
+    "model": "6%20CD"
+  },
+  {
+    "nr": 410,
+    "marka": "Mazda",
+    "model": "6%20CiTD"
+  },
+  {
+    "nr": 411,
+    "marka": "Mazda",
+    "model": "6%20DiTD"
+  },
+  {
+    "nr": 412,
+    "marka": "Mazda",
+    "model": "6%20MZR%20DISI"
+  },
+  {
+    "nr": 413,
+    "marka": "Mazda",
+    "model": "626"
+  },
+  {
+    "nr": 414,
+    "marka": "Mazda",
+    "model": "626%20DiTD"
+  },
+  {
+    "nr": 415,
+    "marka": "Mazda",
+    "model": "B2500"
+  },
+  {
+    "nr": 416,
+    "marka": "Mazda",
+    "model": "CX-7%20MZR%20DISI"
+  },
+  {
+    "nr": 417,
+    "marka": "Mazda",
+    "model": "MPV%20II%20DI"
+  },
+  {
+    "nr": 418,
+    "marka": "Mazda",
+    "model": "MPV%20TD"
+  },
+  {
+    "nr": 419,
+    "marka": "Mazda",
+    "model": "Premacy%20DI"
+  },
+  {
+    "nr": 420,
+    "marka": "Mazda",
+    "model": "RX%207%20Turbo%20II"
+  },
+  {
+    "nr": 421,
+    "marka": "MWM",
+    "model": "Fendt%20Schlepper"
+  },
+  {
+    "nr": 422,
+    "marka": "MWM",
+    "model": "Generator"
+  },
+  {
+    "nr": 423,
+    "marka": "MWM",
+    "model": "TD%20226-4"
+  },
+  {
+    "nr": 424,
+    "marka": "MWM",
+    "model": "TD%20226-6"
+  },
+  {
+    "nr": 425,
+    "marka": "MWM",
+    "model": "TD%20226B-3"
+  },
+  {
+    "nr": 426,
+    "marka": "MWM",
+    "model": "TD%20226B-4"
+  },
+  {
+    "nr": 427,
+    "marka": "MWM",
+    "model": "TD%20226B4"
+  },
+  {
+    "nr": 428,
+    "marka": "MWM",
+    "model": "TD%20226B6"
+  },
+  {
+    "nr": 429,
+    "marka": "MWM",
+    "model": "Traktor"
+  },
+  {
+    "nr": 430,
+    "marka": "Audi",
+    "model": "100%202.0%20TD"
+  },
+  {
+    "nr": 431,
+    "marka": "Audi",
+    "model": "100%202.2%20E%20Turbo"
+  },
+  {
+    "nr": 432,
+    "marka": "Audi",
+    "model": "100%202.5%20TDI"
+  },
+  {
+    "nr": 433,
+    "marka": "Audi",
+    "model": "200%202.2%20E%20Turbo"
+  },
+  {
+    "nr": 434,
+    "marka": "Audi",
+    "model": "200%205Turbo"
+  },
+  {
+    "nr": 435,
+    "marka": "Audi",
+    "model": "80%201.6%20TD%20(B2)"
+  },
+  {
+    "nr": 436,
+    "marka": "Audi",
+    "model": "80%201.6%20TD%20(B3)"
+  },
+  {
+    "nr": 437,
+    "marka": "Audi",
+    "model": "80%201.9%20TD%20(B4)"
+  },
+  {
+    "nr": 438,
+    "marka": "Audi",
+    "model": "80%201.9%20TDI%20(B4)"
+  },
+  {
+    "nr": 439,
+    "marka": "Audi",
+    "model": "80%202.2%20E%20Turbo%20(B3)"
+  },
+  {
+    "nr": 440,
+    "marka": "Audi",
+    "model": "90%20B2%201.6%20TD"
+  },
+  {
+    "nr": 441,
+    "marka": "Audi",
+    "model": "90%20B3%201.6%20TD"
+  },
+  {
+    "nr": 442,
+    "marka": "Audi",
+    "model": "A1%201.6%20TDI"
+  },
+  {
+    "nr": 443,
+    "marka": "Audi",
+    "model": "A2%201.2%20TDI"
+  },
+  {
+    "nr": 444,
+    "marka": "Audi",
+    "model": "A2%201.4%20TDI"
+  },
+  {
+    "nr": 445,
+    "marka": "Audi",
+    "model": "A3%20%201.9%20TDI%20(8L)"
+  },
+  {
+    "nr": 446,
+    "marka": "Audi",
+    "model": "A3%201.2%20TFSI%20(8V)"
+  },
+  {
+    "nr": 447,
+    "marka": "Audi",
+    "model": "A3%201.6%20TDI%20(8P/PA)"
+  },
+  {
+    "nr": 448,
+    "marka": "Audi",
+    "model": "A3%201.8%20T%20(8L)"
+  },
+  {
+    "nr": 449,
+    "marka": "Audi",
+    "model": "A3%201.8%20TFSI%20(8P/PA)"
+  },
+  {
+    "nr": 450,
+    "marka": "Audi",
+    "model": "A3%201.9%20TDI%20(8L)"
+  },
+  {
+    "nr": 451,
+    "marka": "Audi",
+    "model": "A3%201.9%20TDI%20(8P/PA)"
+  },
+  {
+    "nr": 452,
+    "marka": "Audi",
+    "model": "A3%202.0%20TDI%20(8P/PA)"
+  },
+  {
+    "nr": 453,
+    "marka": "Audi",
+    "model": "A3%202.0%20TDI%20(8V)"
+  },
+  {
+    "nr": 454,
+    "marka": "Audi",
+    "model": "A3%202.0%20TFSI%20(8P/PA)"
+  },
+  {
+    "nr": 455,
+    "marka": "Audi",
+    "model": "A4%201,8T%20(B5)"
+  },
+  {
+    "nr": 456,
+    "marka": "Audi",
+    "model": "A4%201,8T%20(B6)"
+  },
+  {
+    "nr": 457,
+    "marka": "Audi",
+    "model": "A4%201.8%20TFSI%20(B8)"
+  },
+  {
+    "nr": 458,
+    "marka": "Audi",
+    "model": "A4%201.9%20TDI%20(B5)"
+  },
+  {
+    "nr": 459,
+    "marka": "Audi",
+    "model": "A4%201.9%20TDI%20(B6)"
+  },
+  {
+    "nr": 460,
+    "marka": "Audi",
+    "model": "A4%201.9%20TDI%20(B7)"
+  },
+  {
+    "nr": 461,
+    "marka": "Audi",
+    "model": "A4%202.0%20TDI%20(B7)"
+  },
+  {
+    "nr": 462,
+    "marka": "Audi",
+    "model": "A4%202.0%20TDI%20(B8)"
+  },
+  {
+    "nr": 463,
+    "marka": "Audi",
+    "model": "A4%202.0%20TFSI%20(B7)"
+  },
+  {
+    "nr": 464,
+    "marka": "Audi",
+    "model": "A4%202.0%20TFSI%20(B8)"
+  },
+  {
+    "nr": 465,
+    "marka": "Audi",
+    "model": "A4%202.5%20TDI%20(B5)"
+  },
+  {
+    "nr": 466,
+    "marka": "Audi",
+    "model": "A4%202.5%20TDI%20(B6)"
+  },
+  {
+    "nr": 467,
+    "marka": "Audi",
+    "model": "A4%202.7%20TDI%20(B7)"
+  },
+  {
+    "nr": 468,
+    "marka": "Audi",
+    "model": "A4%202.7%20TDI%20(B8)"
+  },
+  {
+    "nr": 469,
+    "marka": "Audi",
+    "model": "A4%203.0%20TDI%20(B7)"
+  },
+  {
+    "nr": 470,
+    "marka": "Audi",
+    "model": "A4%203.0%20TDI%20(B8)"
+  },
+  {
+    "nr": 471,
+    "marka": "Audi",
+    "model": "A5%201.8%20TFSI"
+  },
+  {
+    "nr": 472,
+    "marka": "Audi",
+    "model": "A5%202.0%20TDI"
+  },
+  {
+    "nr": 473,
+    "marka": "Audi",
+    "model": "A5%202.0%20TFSI"
+  },
+  {
+    "nr": 474,
+    "marka": "Audi",
+    "model": "A5%202.7%20TDI"
+  },
+  {
+    "nr": 475,
+    "marka": "Audi",
+    "model": "A5%203.0%20TDI"
+  },
+  {
+    "nr": 476,
+    "marka": "Audi",
+    "model": "A6%201,8T%20(C5)"
+  },
+  {
+    "nr": 477,
+    "marka": "Audi",
+    "model": "A6%201.9%20TDI%20(C4)"
+  },
+  {
+    "nr": 478,
+    "marka": "Audi",
+    "model": "A6%201.9%20TDI%20(C5)"
+  },
+  {
+    "nr": 479,
+    "marka": "Audi",
+    "model": "A6%202,7%20T%20(C5)%20left%20side"
+  },
+  {
+    "nr": 480,
+    "marka": "Audi",
+    "model": "A6%202,7%20T%20(C5)%20right%20side"
+  },
+  {
+    "nr": 481,
+    "marka": "Audi",
+    "model": "A6%202.0%20TDI"
+  },
+  {
+    "nr": 482,
+    "marka": "Audi",
+    "model": "A6%202.0%20TDI%20(C6)"
+  },
+  {
+    "nr": 483,
+    "marka": "Audi",
+    "model": "A6%202.0%20TFSI%20(C6)"
+  },
+  {
+    "nr": 484,
+    "marka": "Audi",
+    "model": "A6%202.5%20TDI%20(C4)"
+  },
+  {
+    "nr": 485,
+    "marka": "Audi",
+    "model": "A6%202.5%20TDI%20(C5)"
+  },
+  {
+    "nr": 486,
+    "marka": "Audi",
+    "model": "A6%202.7%20TDI%20(C6)"
+  },
+  {
+    "nr": 487,
+    "marka": "Audi",
+    "model": "A6%203.0%20TDI%20(B8)"
+  },
+  {
+    "nr": 488,
+    "marka": "Audi",
+    "model": "A6%203.0%20TDI%20(C6)"
+  },
+  {
+    "nr": 489,
+    "marka": "Audi",
+    "model": "A8%202.5%20TDI%20(D2)"
+  },
+  {
+    "nr": 490,
+    "marka": "Audi",
+    "model": "A8%203.0%20TDI"
+  },
+  {
+    "nr": 491,
+    "marka": "Audi",
+    "model": "A8%203.3%20TDI%20(D2)"
+  },
+  {
+    "nr": 492,
+    "marka": "Audi",
+    "model": "A8%204.0%20TDI"
+  },
+  {
+    "nr": 493,
+    "marka": "Audi",
+    "model": "A8%204.2%20TDI%20(D3)"
+  },
+  {
+    "nr": 494,
+    "marka": "Audi",
+    "model": "All%20Road%202.5%20TDI"
+  },
+  {
+    "nr": 495,
+    "marka": "Audi",
+    "model": "All%20Road%202.7%20TDI%20Biturbo%20left%20side"
+  },
+  {
+    "nr": 496,
+    "marka": "Audi",
+    "model": "All%20Road%202.7%20TDI%20Biturbo%20right%20side"
+  },
+  {
+    "nr": 497,
+    "marka": "Audi",
+    "model": "Q5%202.0%20TDI"
+  },
+  {
+    "nr": 498,
+    "marka": "Audi",
+    "model": "Q5%202.0%20TFSI"
+  },
+  {
+    "nr": 499,
+    "marka": "Audi",
+    "model": "Q5%203.0%20TDI"
+  },
+  {
+    "nr": 500,
+    "marka": "Audi",
+    "model": "Q7%203.0%20TDI"
+  },
+  {
+    "nr": 501,
+    "marka": "Audi",
+    "model": "Q7%204.2%20TDI"
+  },
+  {
+    "nr": 502,
+    "marka": "Audi",
+    "model": "Quattro%202.2%20Turbo%20(85)"
+  },
+  {
+    "nr": 503,
+    "marka": "Audi",
+    "model": "RS%202%20Turbo%20Quattro"
+  },
+  {
+    "nr": 504,
+    "marka": "Audi",
+    "model": "RS%204%20V6%20Biturbo%20left%20side"
+  },
+  {
+    "nr": 505,
+    "marka": "Audi",
+    "model": "RS%204%20V6%20Biturbo%20right%20side"
+  },
+  {
+    "nr": 506,
+    "marka": "Audi",
+    "model": "RS%206%20(C5)%20left%20side"
+  },
+  {
+    "nr": 507,
+    "marka": "Audi",
+    "model": "RS%206%20(C5)%20right%20side"
+  },
+  {
+    "nr": 508,
+    "marka": "Audi",
+    "model": "RS%206%20(C6)%20left%20side"
+  },
+  {
+    "nr": 509,
+    "marka": "Audi",
+    "model": "RS%206%20(C6)%20right%20side"
+  },
+  {
+    "nr": 510,
+    "marka": "Audi",
+    "model": "RS%206%20plus%20(C5)%20left%20side"
+  },
+  {
+    "nr": 511,
+    "marka": "Audi",
+    "model": "RS%206%20plus%20(C5)%20right%20side"
+  },
+  {
+    "nr": 512,
+    "marka": "Audi",
+    "model": "S2%20Coupe%20(B3)"
+  },
+  {
+    "nr": 513,
+    "marka": "Audi",
+    "model": "S3%201.8%20T"
+  },
+  {
+    "nr": 514,
+    "marka": "Audi",
+    "model": "S3%202.0%20TFSI%20(8P/PA)"
+  },
+  {
+    "nr": 515,
+    "marka": "Audi",
+    "model": "S3%202.0%20TFSI%20(8V)"
+  },
+  {
+    "nr": 516,
+    "marka": "Audi",
+    "model": "S4%202.2%20Turbo"
+  },
+  {
+    "nr": 517,
+    "marka": "Audi",
+    "model": "S4%20left%20side"
+  },
+  {
+    "nr": 518,
+    "marka": "Audi",
+    "model": "S4%20right%20side"
+  },
+  {
+    "nr": 519,
+    "marka": "Audi",
+    "model": "S5%202.0%20TFSI"
+  },
+  {
+    "nr": 520,
+    "marka": "Audi",
+    "model": "S6%202.2"
+  },
+  {
+    "nr": 521,
+    "marka": "Audi",
+    "model": "Sport%20Quattro%202,14%20(85)"
+  },
+  {
+    "nr": 522,
+    "marka": "Audi",
+    "model": "TT%201.8%20T%20(8N)"
+  },
+  {
+    "nr": 523,
+    "marka": "Audi",
+    "model": "TT%201.8%20TFSI%20(8J)"
+  },
+  {
+    "nr": 524,
+    "marka": "Audi",
+    "model": "TT%202.0%20TDI"
+  },
+  {
+    "nr": 525,
+    "marka": "Audi",
+    "model": "TT%202.0%20TFSI%20(8J)"
+  },
+  {
+    "nr": 526,
+    "marka": "Audi",
+    "model": "TT%20RS%202.5%20TFSI%20(8J)"
+  },
+  {
+    "nr": 527,
+    "marka": "Audi",
+    "model": "TT%20S%202.0%20TFSI%20(8J)"
+  },
+  {
+    "nr": 528,
+    "marka": "BMW",
+    "model": "116%20d%20(E81/E87)"
+  },
+  {
+    "nr": 529,
+    "marka": "BMW",
+    "model": "116%20i%20(F20)"
+  },
+  {
+    "nr": 530,
+    "marka": "BMW",
+    "model": "118%20d%20(E81/E87/E88)"
+  },
+  {
+    "nr": 531,
+    "marka": "BMW",
+    "model": "118%20d%20(E87)"
+  },
+  {
+    "nr": 532,
+    "marka": "BMW",
+    "model": "120%20d%20(E81%20/%20E82%20/%20E88)"
+  },
+  {
+    "nr": 533,
+    "marka": "BMW",
+    "model": "120%20d%20(E87)"
+  },
+  {
+    "nr": 534,
+    "marka": "BMW",
+    "model": "123%20d%20(E81/E82/E87N/E88)"
+  },
+  {
+    "nr": 535,
+    "marka": "BMW",
+    "model": "125%20i%20(F20)"
+  },
+  {
+    "nr": 536,
+    "marka": "BMW",
+    "model": "135%20i%20(E82/E88)"
+  },
+  {
+    "nr": 537,
+    "marka": "BMW",
+    "model": "2002%20Turbo%20%20E20"
+  },
+  {
+    "nr": 538,
+    "marka": "BMW",
+    "model": "318%20d%20(%20E46)"
+  },
+  {
+    "nr": 539,
+    "marka": "BMW",
+    "model": "318%20d%20(%20E46)%20Euro%204"
+  },
+  {
+    "nr": 540,
+    "marka": "BMW",
+    "model": "318%20d%20(%20E90/E90N/E91/E91N)"
+  },
+  {
+    "nr": 541,
+    "marka": "BMW",
+    "model": "318%20d%20(E90/E90N/E91/E91N)"
+  },
+  {
+    "nr": 542,
+    "marka": "BMW",
+    "model": "318%20tds%20(%20E36)"
+  },
+  {
+    "nr": 543,
+    "marka": "BMW",
+    "model": "320%20d%20(%20E46)"
+  },
+  {
+    "nr": 544,
+    "marka": "BMW",
+    "model": "320%20d%20(E46)"
+  },
+  {
+    "nr": 545,
+    "marka": "BMW",
+    "model": "320%20d%20(E90%20/%20E91%20/%20E92%20/%20E93)"
+  },
+  {
+    "nr": 546,
+    "marka": "BMW",
+    "model": "320%20d%20(E90%20/%20E91)"
+  },
+  {
+    "nr": 547,
+    "marka": "BMW",
+    "model": "320%20d%20(E90N/E91N/E92N/E93N)"
+  },
+  {
+    "nr": 548,
+    "marka": "BMW",
+    "model": "320%20i%20(F30)"
+  },
+  {
+    "nr": 549,
+    "marka": "BMW",
+    "model": "324%20td%20(E30)"
+  },
+  {
+    "nr": 550,
+    "marka": "BMW",
+    "model": "325%20d%20(E90/E91/E92/E93)"
+  },
+  {
+    "nr": 551,
+    "marka": "BMW",
+    "model": "325%20td%20(E36)"
+  },
+  {
+    "nr": 552,
+    "marka": "BMW",
+    "model": "325%20tds%20(E36)"
+  },
+  {
+    "nr": 553,
+    "marka": "BMW",
+    "model": "328%20i%20(F30)"
+  },
+  {
+    "nr": 554,
+    "marka": "BMW",
+    "model": "330%20d%20(E46)"
+  },
+  {
+    "nr": 555,
+    "marka": "BMW",
+    "model": "330%20d%20(E90/E91/E92/E93)"
+  },
+  {
+    "nr": 556,
+    "marka": "BMW",
+    "model": "330%20xd%20(E46)"
+  },
+  {
+    "nr": 557,
+    "marka": "BMW",
+    "model": "330%20xd%20(E90/E91/E92)"
+  },
+  {
+    "nr": 558,
+    "marka": "BMW",
+    "model": "335%20d%20(E90/E91/E92)"
+  },
+  {
+    "nr": 559,
+    "marka": "BMW",
+    "model": "335%20i%20(E90/E91/E92/E93)"
+  },
+  {
+    "nr": 560,
+    "marka": "BMW",
+    "model": "520%20d%20(%20E39)"
+  },
+  {
+    "nr": 561,
+    "marka": "BMW",
+    "model": "520%20d%20(E60/E61/E60N/E61N)"
+  },
+  {
+    "nr": 562,
+    "marka": "BMW",
+    "model": "520%20d%20(E60N%20/%20E61N)"
+  },
+  {
+    "nr": 563,
+    "marka": "BMW",
+    "model": "520%20d%20(F10%20/%20F11)"
+  },
+  {
+    "nr": 564,
+    "marka": "BMW",
+    "model": "520%20i%20(F10/F11)"
+  },
+  {
+    "nr": 565,
+    "marka": "BMW",
+    "model": "524%20td%20(%20E28)"
+  },
+  {
+    "nr": 566,
+    "marka": "BMW",
+    "model": "524%20td%20(E34)"
+  },
+  {
+    "nr": 567,
+    "marka": "BMW",
+    "model": "525%20d%20(E39)"
+  },
+  {
+    "nr": 568,
+    "marka": "BMW",
+    "model": "525%20d%20(E60%20/%20E61)"
+  },
+  {
+    "nr": 569,
+    "marka": "BMW",
+    "model": "525%20d%20(F10)"
+  },
+  {
+    "nr": 570,
+    "marka": "BMW",
+    "model": "525%20td%20(E34)"
+  },
+  {
+    "nr": 571,
+    "marka": "BMW",
+    "model": "525%20td%20(E39)"
+  },
+  {
+    "nr": 572,
+    "marka": "BMW",
+    "model": "525%20tds%20(E34)"
+  },
+  {
+    "nr": 573,
+    "marka": "BMW",
+    "model": "525%20tds%20(E39)"
+  },
+  {
+    "nr": 574,
+    "marka": "BMW",
+    "model": "525%20xd%20(E60%20/%20E61)"
+  },
+  {
+    "nr": 575,
+    "marka": "BMW",
+    "model": "528%20i%20(F10/F11)"
+  },
+  {
+    "nr": 576,
+    "marka": "BMW",
+    "model": "530%20d%20(E39)"
+  },
+  {
+    "nr": 577,
+    "marka": "BMW",
+    "model": "530%20d%20(E60%20/%20E61)"
+  },
+  {
+    "nr": 578,
+    "marka": "BMW",
+    "model": "530%20d%20(F10)"
+  },
+  {
+    "nr": 579,
+    "marka": "BMW",
+    "model": "530%20d%20GT%20(F07)"
+  },
+  {
+    "nr": 580,
+    "marka": "BMW",
+    "model": "530%20xd%20(E60%20/%20E61)"
+  },
+  {
+    "nr": 581,
+    "marka": "BMW",
+    "model": "535%20d%20(E60/E61)"
+  },
+  {
+    "nr": 582,
+    "marka": "BMW",
+    "model": "535%20d%20(F07)%20GT"
+  },
+  {
+    "nr": 583,
+    "marka": "BMW",
+    "model": "635%20d%20(E63/E64)"
+  },
+  {
+    "nr": 584,
+    "marka": "BMW",
+    "model": "725%20tds%20(E38)"
+  },
+  {
+    "nr": 585,
+    "marka": "BMW",
+    "model": "730%20d%20(E38)"
+  },
+  {
+    "nr": 586,
+    "marka": "BMW",
+    "model": "730%20d%20(E65%20/%20E66)"
+  },
+  {
+    "nr": 587,
+    "marka": "BMW",
+    "model": "730%20d%20(E65)"
+  },
+  {
+    "nr": 588,
+    "marka": "BMW",
+    "model": "730%20d%20(F01)"
+  },
+  {
+    "nr": 589,
+    "marka": "BMW",
+    "model": "730%20ld%20(E65%20/%20E66)"
+  },
+  {
+    "nr": 590,
+    "marka": "BMW",
+    "model": "730%20ld%20(F02)"
+  },
+  {
+    "nr": 591,
+    "marka": "BMW",
+    "model": "740%20d%20(E38)"
+  },
+  {
+    "nr": 592,
+    "marka": "BMW",
+    "model": "740%20d%20(E65)"
+  },
+  {
+    "nr": 593,
+    "marka": "BMW",
+    "model": "740%20d%20(F01)"
+  },
+  {
+    "nr": 594,
+    "marka": "BMW",
+    "model": "745%20d%20(E65)%20left%20side"
+  },
+  {
+    "nr": 595,
+    "marka": "BMW",
+    "model": "745%20d%20(E65)%20right%20side"
+  },
+  {
+    "nr": 596,
+    "marka": "BMW",
+    "model": "745%20i%20(E23)"
+  },
+  {
+    "nr": 597,
+    "marka": "BMW",
+    "model": "750%20d%203.0%20(F01%20/%20F02)"
+  },
+  {
+    "nr": 598,
+    "marka": "BMW",
+    "model": "760%20i%20(F01%20/%20F02%20/%20F03)"
+  },
+  {
+    "nr": 599,
+    "marka": "BMW",
+    "model": "M550d%203.0%20(F10%20/%20F11)"
+  },
+  {
+    "nr": 600,
+    "marka": "BMW",
+    "model": "Mini%20Cooper%20D%20(R55%20R56)"
+  },
+  {
+    "nr": 601,
+    "marka": "BMW",
+    "model": "Mini%20Cooper%20S%20(R55%20R56%20R57)"
+  },
+  {
+    "nr": 602,
+    "marka": "BMW",
+    "model": "Mini%20One%20D%20(R50)"
+  },
+  {
+    "nr": 603,
+    "marka": "BMW",
+    "model": "X1%2020%20i%20(E84)"
+  },
+  {
+    "nr": 604,
+    "marka": "BMW",
+    "model": "X1%2023dX%20(E84)"
+  },
+  {
+    "nr": 605,
+    "marka": "BMW",
+    "model": "X1%2028%20i%20(E84)"
+  },
+  {
+    "nr": 606,
+    "marka": "BMW",
+    "model": "X3%20%202.0%20d%20(F25)"
+  },
+  {
+    "nr": 607,
+    "marka": "BMW",
+    "model": "X3%202.0%20d%20(E83%20/%20E83N)"
+  },
+  {
+    "nr": 608,
+    "marka": "BMW",
+    "model": "X3%202.0%20d%20(E83N)"
+  },
+  {
+    "nr": 609,
+    "marka": "BMW",
+    "model": "X3%2020%20i%20(F25)"
+  },
+  {
+    "nr": 610,
+    "marka": "BMW",
+    "model": "X3%203.0%20d%20(E83)"
+  },
+  {
+    "nr": 611,
+    "marka": "BMW",
+    "model": "X3%203.0%20sd%20(E83)"
+  },
+  {
+    "nr": 612,
+    "marka": "BMW",
+    "model": "X5%203.0%20d%20(E53)"
+  },
+  {
+    "nr": 613,
+    "marka": "BMW",
+    "model": "X5%203.0%20d%20(E70)"
+  },
+  {
+    "nr": 614,
+    "marka": "BMW",
+    "model": "X5%203.0%20M50d%20(E70)"
+  },
+  {
+    "nr": 615,
+    "marka": "BMW",
+    "model": "X5%203.0%20M50dX%20(F15)"
+  },
+  {
+    "nr": 616,
+    "marka": "BMW",
+    "model": "X5%203.0%20sd%20(E70)"
+  },
+  {
+    "nr": 617,
+    "marka": "BMW",
+    "model": "X6%203.0%20M50d%20(E71)"
+  },
+  {
+    "nr": 618,
+    "marka": "BMW",
+    "model": "X6%2030%20dx%20(E71)"
+  },
+  {
+    "nr": 619,
+    "marka": "BMW",
+    "model": "X6%2035%20dx%20(E71)"
+  },
+  {
+    "nr": 620,
+    "marka": "BMW",
+    "model": "X6%2040%20dx%20(E71)"
+  },
+  {
+    "nr": 621,
+    "marka": "BMW",
+    "model": "X6%2050%20iX%20(E71)"
+  },
+  {
+    "nr": 622,
+    "marka": "BMW",
+    "model": "X6%20M%20(E71)"
+  },
+  {
+    "nr": 623,
+    "marka": "BMW",
+    "model": "Z4%2020%20i%20(E89)"
+  },
+  {
+    "nr": 624,
+    "marka": "BMW",
+    "model": "Z4%2028%20i%20(E89)"
+  },
+  {
+    "nr": 625,
+    "marka": "Citroen",
+    "model": "Berlingo%201.6%20HDi"
+  },
+  {
+    "nr": 626,
+    "marka": "Citroen",
+    "model": "Berlingo%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 627,
+    "marka": "Citroen",
+    "model": "Berlingo%202.0%20HDI"
+  },
+  {
+    "nr": 628,
+    "marka": "Citroen",
+    "model": "Berlingo%20HDI"
+  },
+  {
+    "nr": 629,
+    "marka": "Citroen",
+    "model": "BX%201.8%20TRD"
+  },
+  {
+    "nr": 630,
+    "marka": "Citroen",
+    "model": "C%201%201.4%20HDi"
+  },
+  {
+    "nr": 631,
+    "marka": "Citroen",
+    "model": "C%202%201.4%20HDi"
+  },
+  {
+    "nr": 632,
+    "marka": "Citroen",
+    "model": "C%202%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 633,
+    "marka": "Citroen",
+    "model": "C%2025%202500%20TD"
+  },
+  {
+    "nr": 634,
+    "marka": "Citroen",
+    "model": "C%203%201.4%20HDi"
+  },
+  {
+    "nr": 635,
+    "marka": "Citroen",
+    "model": "C%203%201.6%20HDi"
+  },
+  {
+    "nr": 636,
+    "marka": "Citroen",
+    "model": "C%204%201.6%20HDi"
+  },
+  {
+    "nr": 637,
+    "marka": "Citroen",
+    "model": "C%204%202.0%20HDi"
+  },
+  {
+    "nr": 638,
+    "marka": "Citroen",
+    "model": "C%204%202.0%20HDi%20FAP"
+  },
+  {
+    "nr": 639,
+    "marka": "Citroen",
+    "model": "C%204%20Aircross%201.6%20HDI%20115"
+  },
+  {
+    "nr": 640,
+    "marka": "Citroen",
+    "model": "C%204%20Aircross%201.8%20HDI%20150"
+  },
+  {
+    "nr": 641,
+    "marka": "Citroen",
+    "model": "C%204%20THP"
+  },
+  {
+    "nr": 642,
+    "marka": "Citroen",
+    "model": "C%205%203.0%20V6%20HDi%20FAP"
+  },
+  {
+    "nr": 643,
+    "marka": "Citroen",
+    "model": "C%205%20I%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 644,
+    "marka": "Citroen",
+    "model": "C%205%20I%202.0%20HDI"
+  },
+  {
+    "nr": 645,
+    "marka": "Citroen",
+    "model": "C%205%20II%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 646,
+    "marka": "Citroen",
+    "model": "C%205%20II%202.0%20HDi"
+  },
+  {
+    "nr": 647,
+    "marka": "Citroen",
+    "model": "C%205%20II%202.0%20HDi%20FAP"
+  },
+  {
+    "nr": 648,
+    "marka": "Citroen",
+    "model": "C%205%20II%202.2%20HDI"
+  },
+  {
+    "nr": 649,
+    "marka": "Citroen",
+    "model": "C%205%20II%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 650,
+    "marka": "Citroen",
+    "model": "C%206%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 651,
+    "marka": "Citroen",
+    "model": "C%206%202.7%20HDi%20FAP"
+  },
+  {
+    "nr": 652,
+    "marka": "Citroen",
+    "model": "C%206%203.0%20V6%20HDi%20FAP"
+  },
+  {
+    "nr": 653,
+    "marka": "Citroen",
+    "model": "C%208%202.0%20HDi"
+  },
+  {
+    "nr": 654,
+    "marka": "Citroen",
+    "model": "C%208%202.2%20HDI"
+  },
+  {
+    "nr": 655,
+    "marka": "Citroen",
+    "model": "C%208%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 656,
+    "marka": "Citroen",
+    "model": "C%20Crosser%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 657,
+    "marka": "Citroen",
+    "model": "DS%203%201.6%20HDi%20110%20FAP"
+  },
+  {
+    "nr": 658,
+    "marka": "Citroen",
+    "model": "DS%203%201.6%20HDi%2090%20FAP"
+  },
+  {
+    "nr": 659,
+    "marka": "Citroen",
+    "model": "DS%203%201.6%20THP%20150"
+  },
+  {
+    "nr": 660,
+    "marka": "Citroen",
+    "model": "Evasion%201.9%20TD"
+  },
+  {
+    "nr": 661,
+    "marka": "Citroen",
+    "model": "Evasion%202.0%20HDi"
+  },
+  {
+    "nr": 662,
+    "marka": "Citroen",
+    "model": "Evasion%202.0%20Turbo"
+  },
+  {
+    "nr": 663,
+    "marka": "Citroen",
+    "model": "Evasion%202.1%20TD"
+  },
+  {
+    "nr": 664,
+    "marka": "Citroen",
+    "model": "Evasion%202.2%20HDi"
+  },
+  {
+    "nr": 665,
+    "marka": "Citroen",
+    "model": "Jumper%201.9%20TD"
+  },
+  {
+    "nr": 666,
+    "marka": "Citroen",
+    "model": "Jumper%202.0%20HDi"
+  },
+  {
+    "nr": 667,
+    "marka": "Citroen",
+    "model": "Jumper%202.0%20TD"
+  },
+  {
+    "nr": 668,
+    "marka": "Citroen",
+    "model": "Jumper%202.2%20HDi"
+  },
+  {
+    "nr": 669,
+    "marka": "Citroen",
+    "model": "Jumper%202.2%20HDI%20100"
+  },
+  {
+    "nr": 670,
+    "marka": "Citroen",
+    "model": "Jumper%202.2%20HDI%20120"
+  },
+  {
+    "nr": 671,
+    "marka": "Citroen",
+    "model": "Jumper%202.2%20HDI%20130"
+  },
+  {
+    "nr": 672,
+    "marka": "Citroen",
+    "model": "Jumper%202.5%20TD"
+  },
+  {
+    "nr": 673,
+    "marka": "Citroen",
+    "model": "Jumper%202.8%20HDI"
+  },
+  {
+    "nr": 674,
+    "marka": "Citroen",
+    "model": "Jumper%203.0%20HDI"
+  },
+  {
+    "nr": 675,
+    "marka": "Citroen",
+    "model": "Jumpy%201.6%20HDi"
+  },
+  {
+    "nr": 676,
+    "marka": "Citroen",
+    "model": "Jumpy%201.9%20TD"
+  },
+  {
+    "nr": 677,
+    "marka": "Citroen",
+    "model": "Jumpy%202.0%20HDi"
+  },
+  {
+    "nr": 678,
+    "marka": "Citroen",
+    "model": "Nemo%201.3%20HDi%2075"
+  },
+  {
+    "nr": 679,
+    "marka": "Citroen",
+    "model": "Nemo%201.4%20HDi%2070"
+  },
+  {
+    "nr": 680,
+    "marka": "Citroen",
+    "model": "Picasso%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 681,
+    "marka": "Citroen",
+    "model": "Picasso%202.0%20HDI"
+  },
+  {
+    "nr": 682,
+    "marka": "Citroen",
+    "model": "Xantia%201.9%20SD"
+  },
+  {
+    "nr": 683,
+    "marka": "Citroen",
+    "model": "Xantia%201.9%20TD"
+  },
+  {
+    "nr": 684,
+    "marka": "Citroen",
+    "model": "Xantia%202.0%20HDi"
+  },
+  {
+    "nr": 685,
+    "marka": "Citroen",
+    "model": "Xantia%202.0i%20TCT"
+  },
+  {
+    "nr": 686,
+    "marka": "Citroen",
+    "model": "Xantia%202.1%20TD"
+  },
+  {
+    "nr": 687,
+    "marka": "Citroen",
+    "model": "XM%202.0%20Turbo"
+  },
+  {
+    "nr": 688,
+    "marka": "Citroen",
+    "model": "XM%202.1%20TD"
+  },
+  {
+    "nr": 689,
+    "marka": "Citroen",
+    "model": "XM%202.5%20TD"
+  },
+  {
+    "nr": 690,
+    "marka": "Citroen",
+    "model": "Xsara%201.4%20HDi"
+  },
+  {
+    "nr": 691,
+    "marka": "Citroen",
+    "model": "Xsara%201.6%20HDi"
+  },
+  {
+    "nr": 692,
+    "marka": "Citroen",
+    "model": "Xsara%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 693,
+    "marka": "Citroen",
+    "model": "Xsara%201.9%20DT"
+  },
+  {
+    "nr": 694,
+    "marka": "Citroen",
+    "model": "Xsara%201.9%20TD"
+  },
+  {
+    "nr": 695,
+    "marka": "Citroen",
+    "model": "Xsara%202.0%20HDi"
+  },
+  {
+    "nr": 696,
+    "marka": "Citroen",
+    "model": "ZX%201.9%20TD"
+  },
+  {
+    "nr": 697,
+    "marka": "Ford",
+    "model": "C-MAX%201.0%20EcoBoost"
+  },
+  {
+    "nr": 698,
+    "marka": "Ford",
+    "model": "C-MAX%201.6%20TDCi"
+  },
+  {
+    "nr": 699,
+    "marka": "Ford",
+    "model": "C-MAX%202.0%20TDCi"
+  },
+  {
+    "nr": 700,
+    "marka": "Ford",
+    "model": "Escort%201,8%20TD"
+  },
+  {
+    "nr": 701,
+    "marka": "Ford",
+    "model": "Escort%20III%201,6%20RS%20Turbo%20(GAA)"
+  },
+  {
+    "nr": 702,
+    "marka": "Ford",
+    "model": "Escort%20IV%201,6%20Turbo%20RS%20(GAF,AWF,ABFT)"
+  },
+  {
+    "nr": 703,
+    "marka": "Ford",
+    "model": "Escort%20V%20RS%20Cosworth%204x4"
+  },
+  {
+    "nr": 704,
+    "marka": "Ford",
+    "model": "Escort%20V%20RS%20Cosworth%204x4%20(GAL)"
+  },
+  {
+    "nr": 705,
+    "marka": "Ford",
+    "model": "F250%20Powerstroke"
+  },
+  {
+    "nr": 706,
+    "marka": "Ford",
+    "model": "F350%20Powerstroke"
+  },
+  {
+    "nr": 707,
+    "marka": "Ford",
+    "model": "Fiesta%20III%201,6%20Turbo"
+  },
+  {
+    "nr": 708,
+    "marka": "Ford",
+    "model": "Fiesta%20V%201.8%20Di"
+  },
+  {
+    "nr": 709,
+    "marka": "Ford",
+    "model": "Fiesta%20VI%201.4%20TDCi"
+  },
+  {
+    "nr": 710,
+    "marka": "Ford",
+    "model": "Fiesta%20VI%201.6%20TDCi"
+  },
+  {
+    "nr": 711,
+    "marka": "Ford",
+    "model": "Fiesta%20VIII%201.6%20l%20TDCi"
+  },
+  {
+    "nr": 712,
+    "marka": "Ford",
+    "model": "Fiesta%20VIII%201.6%20Ti-VCT"
+  },
+  {
+    "nr": 713,
+    "marka": "Ford",
+    "model": "Focus%20I%201.4%20TDCi"
+  },
+  {
+    "nr": 714,
+    "marka": "Ford",
+    "model": "Focus%20I%201.8%20TDCi"
+  },
+  {
+    "nr": 715,
+    "marka": "Ford",
+    "model": "Focus%20I%201.8%20TDDi"
+  },
+  {
+    "nr": 716,
+    "marka": "Ford",
+    "model": "Focus%20I%202.0%20RS"
+  },
+  {
+    "nr": 717,
+    "marka": "Ford",
+    "model": "Focus%20II%201.6%20TDCi"
+  },
+  {
+    "nr": 718,
+    "marka": "Ford",
+    "model": "Focus%20II%201.8%20TDCi"
+  },
+  {
+    "nr": 719,
+    "marka": "Ford",
+    "model": "Focus%20II%202.0%20TDCi"
+  },
+  {
+    "nr": 720,
+    "marka": "Ford",
+    "model": "Focus%20II%202.5%20ST"
+  },
+  {
+    "nr": 721,
+    "marka": "Ford",
+    "model": "Focus%20II%20RS"
+  },
+  {
+    "nr": 722,
+    "marka": "Ford",
+    "model": "Focus%20III%201.0%20EcoBoost"
+  },
+  {
+    "nr": 723,
+    "marka": "Ford",
+    "model": "Fusion%201.4%20TDCi"
+  },
+  {
+    "nr": 724,
+    "marka": "Ford",
+    "model": "Fusion%201.6%20TDCi"
+  },
+  {
+    "nr": 725,
+    "marka": "Ford",
+    "model": "Galaxy%201.9%20TDI"
+  },
+  {
+    "nr": 726,
+    "marka": "Ford",
+    "model": "Galaxy%20II%201.8%20TDCi"
+  },
+  {
+    "nr": 727,
+    "marka": "Ford",
+    "model": "Galaxy%20II%202.0%20SCTi"
+  },
+  {
+    "nr": 728,
+    "marka": "Ford",
+    "model": "Galaxy%20II%202.0%20TDCi"
+  },
+  {
+    "nr": 729,
+    "marka": "Ford",
+    "model": "Galaxy%20II%202.2%20TDCi"
+  },
+  {
+    "nr": 730,
+    "marka": "Ford",
+    "model": "Kuga%202.0%20TDCi"
+  },
+  {
+    "nr": 731,
+    "marka": "Ford",
+    "model": "Maverick%202,7%20TD%20(UDS,%20UNS)"
+  },
+  {
+    "nr": 732,
+    "marka": "Ford",
+    "model": "Mondeo%20I%201.8%20TD"
+  },
+  {
+    "nr": 733,
+    "marka": "Ford",
+    "model": "Mondeo%20II%201.8%20TD"
+  },
+  {
+    "nr": 734,
+    "marka": "Ford",
+    "model": "Mondeo%20III%201.6%20TDCi"
+  },
+  {
+    "nr": 735,
+    "marka": "Ford",
+    "model": "Mondeo%20III%201.8%20TDCi"
+  },
+  {
+    "nr": 736,
+    "marka": "Ford",
+    "model": "Mondeo%20III%202.0%20TDCi"
+  },
+  {
+    "nr": 737,
+    "marka": "Ford",
+    "model": "Mondeo%20III%202.0%20TDDi"
+  },
+  {
+    "nr": 738,
+    "marka": "Ford",
+    "model": "Mondeo%20III%202.2%20TDCi"
+  },
+  {
+    "nr": 739,
+    "marka": "Ford",
+    "model": "Mondeo%20IV%202.0%20SCTi"
+  },
+  {
+    "nr": 740,
+    "marka": "Ford",
+    "model": "Mondeo%20IV%202.0%20TDCi"
+  },
+  {
+    "nr": 741,
+    "marka": "Ford",
+    "model": "Mondeo%20IV%202.2%20TDCi"
+  },
+  {
+    "nr": 742,
+    "marka": "Ford",
+    "model": "Mondeo%20IV%202.5%20Turbo"
+  },
+  {
+    "nr": 743,
+    "marka": "Ford",
+    "model": "Orion%20III%201,8%20TD%20(GAL)"
+  },
+  {
+    "nr": 744,
+    "marka": "Ford",
+    "model": "Probe%202,2%20GT%20(ECP)"
+  },
+  {
+    "nr": 745,
+    "marka": "Ford",
+    "model": "Ranger%202.5"
+  },
+  {
+    "nr": 746,
+    "marka": "Ford",
+    "model": "Ranger%202.8"
+  },
+  {
+    "nr": 747,
+    "marka": "Ford",
+    "model": "S-Max%20%201.8%20TDCi"
+  },
+  {
+    "nr": 748,
+    "marka": "Ford",
+    "model": "S-Max%201.8%20TDCi"
+  },
+  {
+    "nr": 749,
+    "marka": "Ford",
+    "model": "S-Max%202.0%20SCTi"
+  },
+  {
+    "nr": 750,
+    "marka": "Ford",
+    "model": "S-MAX%202.0%20TDCi"
+  },
+  {
+    "nr": 751,
+    "marka": "Ford",
+    "model": "S-Max%202.2%20TDCi"
+  },
+  {
+    "nr": 752,
+    "marka": "Ford",
+    "model": "S-Max%202.5%20Turbo"
+  },
+  {
+    "nr": 753,
+    "marka": "Ford",
+    "model": "Scorpio%20I%202,5%20TD%20(GAE,GGE)"
+  },
+  {
+    "nr": 754,
+    "marka": "Ford",
+    "model": "Scorpio%20II%202,5%20TD%20(GFR,GGR)"
+  },
+  {
+    "nr": 755,
+    "marka": "Ford",
+    "model": "Sierra%201,8%20TD%20(GBG,GB4)"
+  },
+  {
+    "nr": 756,
+    "marka": "Ford",
+    "model": "Sierra%202,0%2016V%20Cosworth%204x4"
+  },
+  {
+    "nr": 757,
+    "marka": "Ford",
+    "model": "Sierra%202,0%20RS%20Cosworth%20(GBC,GBG)"
+  },
+  {
+    "nr": 758,
+    "marka": "Ford",
+    "model": "Sierra%20RS500"
+  },
+  {
+    "nr": 759,
+    "marka": "Ford",
+    "model": "Taurus%20SHO%20EcoBoost"
+  },
+  {
+    "nr": 760,
+    "marka": "Ford",
+    "model": "Transit%20Connect%201.8%20TDCI"
+  },
+  {
+    "nr": 761,
+    "marka": "Ford",
+    "model": "Transit%20IV%202.5%20TD"
+  },
+  {
+    "nr": 762,
+    "marka": "Ford",
+    "model": "Transit%20V%201.8%20TDCI"
+  },
+  {
+    "nr": 763,
+    "marka": "Ford",
+    "model": "Transit%20V%202.0%20Di%20100"
+  },
+  {
+    "nr": 764,
+    "marka": "Ford",
+    "model": "Transit%20V%202.0%20Di%2075"
+  },
+  {
+    "nr": 765,
+    "marka": "Ford",
+    "model": "Transit%20V%202.0%20Di%2085"
+  },
+  {
+    "nr": 766,
+    "marka": "Ford",
+    "model": "Transit%20V%202.0%20TDCi"
+  },
+  {
+    "nr": 767,
+    "marka": "Ford",
+    "model": "Transit%20V%202.4%20TDCi"
+  },
+  {
+    "nr": 768,
+    "marka": "Ford",
+    "model": "Transit%20VI%202.2%20TDCi"
+  },
+  {
+    "nr": 769,
+    "marka": "Ford",
+    "model": "Transit%20VI%202.4%20TDCi"
+  },
+  {
+    "nr": 770,
+    "marka": "Ford",
+    "model": "Transit%20VI%203.0%20Turbo"
+  },
+  {
+    "nr": 771,
+    "marka": "Ford",
+    "model": "Transit%20VI%203.2%20TDCi"
+  },
+  {
+    "nr": 772,
+    "marka": "Fiat",
+    "model": "500%201.3%20D%20Multijet"
+  },
+  {
+    "nr": 773,
+    "marka": "Fiat",
+    "model": "500%20Abarth%201.4%20T-Jet"
+  },
+  {
+    "nr": 774,
+    "marka": "Fiat",
+    "model": "500%20TwinAir"
+  },
+  {
+    "nr": 775,
+    "marka": "Fiat",
+    "model": "Argenta%202500%20TD%20(132A)"
+  },
+  {
+    "nr": 776,
+    "marka": "Fiat",
+    "model": "Brava%201.9%20IDI"
+  },
+  {
+    "nr": 777,
+    "marka": "Fiat",
+    "model": "Brava%201.9%20JTD%20105"
+  },
+  {
+    "nr": 778,
+    "marka": "Fiat",
+    "model": "Brava%201.9%20TD%20100S(182.AF/BF)"
+  },
+  {
+    "nr": 779,
+    "marka": "Fiat",
+    "model": "Brava%201.9%20TD%2075S%20(182.AF/BF)"
+  },
+  {
+    "nr": 780,
+    "marka": "Fiat",
+    "model": "Bravo%201,9%20TD%20100S(182.AF/BF)"
+  },
+  {
+    "nr": 781,
+    "marka": "Fiat",
+    "model": "Bravo%201,9%20TD%2075S%20(182.AF/BF)"
+  },
+  {
+    "nr": 782,
+    "marka": "Fiat",
+    "model": "Bravo%20I%201.9%20IDI"
+  },
+  {
+    "nr": 783,
+    "marka": "Fiat",
+    "model": "Bravo%20I%201.9%20JTD"
+  },
+  {
+    "nr": 784,
+    "marka": "Fiat",
+    "model": "Bravo%20I%201.9%20TD"
+  },
+  {
+    "nr": 785,
+    "marka": "Fiat",
+    "model": "Bravo%20II%201.4%20T-Jet%2016V"
+  },
+  {
+    "nr": 786,
+    "marka": "Fiat",
+    "model": "Bravo%20II%201.9%20JTD"
+  },
+  {
+    "nr": 787,
+    "marka": "Fiat",
+    "model": "Bravo%20II%202.0%20Multijet%2016V"
+  },
+  {
+    "nr": 788,
+    "marka": "Fiat",
+    "model": "Cinquecento%20SJTD"
+  },
+  {
+    "nr": 789,
+    "marka": "Fiat",
+    "model": "Coupe%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 790,
+    "marka": "Fiat",
+    "model": "Coupe%202.0%2020V%20Turbo"
+  },
+  {
+    "nr": 791,
+    "marka": "Fiat",
+    "model": "Croma%20I%201.9%20TD"
+  },
+  {
+    "nr": 792,
+    "marka": "Fiat",
+    "model": "Croma%20I%202.0%20T"
+  },
+  {
+    "nr": 793,
+    "marka": "Fiat",
+    "model": "Croma%20I%202.5%20TD"
+  },
+  {
+    "nr": 794,
+    "marka": "Fiat",
+    "model": "Croma%20II%201.9%20JTD"
+  },
+  {
+    "nr": 795,
+    "marka": "Fiat",
+    "model": "Croma%20II%202.4%20JTD"
+  },
+  {
+    "nr": 796,
+    "marka": "Fiat",
+    "model": "Doblo%201.3%20JTD"
+  },
+  {
+    "nr": 797,
+    "marka": "Fiat",
+    "model": "Doblo%201.9%20JTD"
+  },
+  {
+    "nr": 798,
+    "marka": "Fiat",
+    "model": "Ducato"
+  },
+  {
+    "nr": 799,
+    "marka": "Fiat",
+    "model": "Ducato%20I%201.9%20TD"
+  },
+  {
+    "nr": 800,
+    "marka": "Fiat",
+    "model": "Ducato%20I%202.5%20TD"
+  },
+  {
+    "nr": 801,
+    "marka": "Fiat",
+    "model": "Ducato%20II%201.9%20TD"
+  },
+  {
+    "nr": 802,
+    "marka": "Fiat",
+    "model": "Ducato%20II%202.0%20JTD"
+  },
+  {
+    "nr": 803,
+    "marka": "Fiat",
+    "model": "Ducato%20II%202.3%20TD"
+  },
+  {
+    "nr": 804,
+    "marka": "Fiat",
+    "model": "Ducato%20II%202.5%20TDI"
+  },
+  {
+    "nr": 805,
+    "marka": "Fiat",
+    "model": "Ducato%20II%202.8%20i.d.%20TD"
+  },
+  {
+    "nr": 806,
+    "marka": "Fiat",
+    "model": "Ducato%20II%202.8%20JTD"
+  },
+  {
+    "nr": 807,
+    "marka": "Fiat",
+    "model": "Ducato%20II%202.8%20TDI"
+  },
+  {
+    "nr": 808,
+    "marka": "Fiat",
+    "model": "Ducato%20III%202.2%20100%20Multijet"
+  },
+  {
+    "nr": 809,
+    "marka": "Fiat",
+    "model": "Ducato%20III%202.3%20120%20Multijet"
+  },
+  {
+    "nr": 810,
+    "marka": "Fiat",
+    "model": "Ducato%20III%202.3%20130%20Multijet"
+  },
+  {
+    "nr": 811,
+    "marka": "Fiat",
+    "model": "Ducato%20III%203.0%20160%20Multijet"
+  },
+  {
+    "nr": 812,
+    "marka": "Fiat",
+    "model": "Fiorino%20II%201.7%20TD"
+  },
+  {
+    "nr": 813,
+    "marka": "Fiat",
+    "model": "Fiorino%20III%201.3%20Multijet%2016V"
+  },
+  {
+    "nr": 814,
+    "marka": "Fiat",
+    "model": "Grande%20Punto%201.3%20JTD"
+  },
+  {
+    "nr": 815,
+    "marka": "Fiat",
+    "model": "Grande%20Punto%201.4%20T-Jet%2016V"
+  },
+  {
+    "nr": 816,
+    "marka": "Fiat",
+    "model": "Grande%20Punto%201.6%20JTD"
+  },
+  {
+    "nr": 817,
+    "marka": "Fiat",
+    "model": "Grande%20Punto%201.9%20JTDM"
+  },
+  {
+    "nr": 818,
+    "marka": "Fiat",
+    "model": "Grande%20Punto%20Assetto%20Corse%20190"
+  },
+  {
+    "nr": 819,
+    "marka": "Fiat",
+    "model": "Idea%201.3%20JTD"
+  },
+  {
+    "nr": 820,
+    "marka": "Fiat",
+    "model": "Idea%201.6%20JTD"
+  },
+  {
+    "nr": 821,
+    "marka": "Fiat",
+    "model": "Idea%201.9%20JTD"
+  },
+  {
+    "nr": 822,
+    "marka": "Fiat",
+    "model": "Linea%201.3%20JTD"
+  },
+  {
+    "nr": 823,
+    "marka": "Fiat",
+    "model": "Marea%201.9%20IDI"
+  },
+  {
+    "nr": 824,
+    "marka": "Fiat",
+    "model": "Marea%201.9%20JTD"
+  },
+  {
+    "nr": 825,
+    "marka": "Fiat",
+    "model": "Marea%201.9%20TD"
+  },
+  {
+    "nr": 826,
+    "marka": "Fiat",
+    "model": "Marea%202.4%20TD"
+  },
+  {
+    "nr": 827,
+    "marka": "Fiat",
+    "model": "Multipla%201.9%20JTD"
+  },
+  {
+    "nr": 828,
+    "marka": "Fiat",
+    "model": "Palio%201.7%20TD%20(178DX)"
+  },
+  {
+    "nr": 829,
+    "marka": "Fiat",
+    "model": "Panda%201.3%20JTD"
+  },
+  {
+    "nr": 830,
+    "marka": "Fiat",
+    "model": "Punto%20I%201.4%20GT%20Turbo%20(176)"
+  },
+  {
+    "nr": 831,
+    "marka": "Fiat",
+    "model": "Punto%20I%201.7%20TD%20(176)"
+  },
+  {
+    "nr": 832,
+    "marka": "Fiat",
+    "model": "Punto%20II%201.3%20JTD"
+  },
+  {
+    "nr": 833,
+    "marka": "Fiat",
+    "model": "Punto%20II%201.9%20JTD"
+  },
+  {
+    "nr": 834,
+    "marka": "Fiat",
+    "model": "Punto%20III%201.3%20JTD"
+  },
+  {
+    "nr": 835,
+    "marka": "Fiat",
+    "model": "Punto%20III%201.4%2016V"
+  },
+  {
+    "nr": 836,
+    "marka": "Fiat",
+    "model": "Punto%20III%201.6%20JTD"
+  },
+  {
+    "nr": 837,
+    "marka": "Fiat",
+    "model": "Punto%20III%201.9%20JTD"
+  },
+  {
+    "nr": 838,
+    "marka": "Fiat",
+    "model": "Qubo%201.3%20JTD"
+  },
+  {
+    "nr": 839,
+    "marka": "Fiat",
+    "model": "Regata%2080%20TD%201,9%20(138)"
+  },
+  {
+    "nr": 840,
+    "marka": "Fiat",
+    "model": "Ritmo%20II%2080%20TD%201,9%20(138A)"
+  },
+  {
+    "nr": 841,
+    "marka": "Fiat",
+    "model": "Scudo%201.9%20TD"
+  },
+  {
+    "nr": 842,
+    "marka": "Fiat",
+    "model": "Scudo%202.0%20JTD"
+  },
+  {
+    "nr": 843,
+    "marka": "Fiat",
+    "model": "Scudo%202.0%20Multijet%20120"
+  },
+  {
+    "nr": 844,
+    "marka": "Fiat",
+    "model": "Sedici%201.9%20JTDM"
+  },
+  {
+    "nr": 845,
+    "marka": "Fiat",
+    "model": "Sedici%202.0%2016V%20Multijet"
+  },
+  {
+    "nr": 846,
+    "marka": "Fiat",
+    "model": "Stilo%201.9%20JTD"
+  },
+  {
+    "nr": 847,
+    "marka": "Fiat",
+    "model": "Tempra%20%20TD"
+  },
+  {
+    "nr": 848,
+    "marka": "Fiat",
+    "model": "Tempra%201,9%20TD%20(159)"
+  },
+  {
+    "nr": 849,
+    "marka": "Fiat",
+    "model": "Tempra%201,9%20TD%20(159.AQ)"
+  },
+  {
+    "nr": 850,
+    "marka": "Fiat",
+    "model": "Tempra%20TD"
+  },
+  {
+    "nr": 851,
+    "marka": "Fiat",
+    "model": "Tipo%201,9%20TD%20(160.AW)"
+  },
+  {
+    "nr": 852,
+    "marka": "Fiat",
+    "model": "Tipo%201,9%20TD%20(160.EL/GL/AQ/EI/AR)"
+  },
+  {
+    "nr": 853,
+    "marka": "Fiat",
+    "model": "Ulysse%20I%201.9%20TD"
+  },
+  {
+    "nr": 854,
+    "marka": "Fiat",
+    "model": "Ulysse%20I%202.0%20JTD"
+  },
+  {
+    "nr": 855,
+    "marka": "Fiat",
+    "model": "Ulysse%20I%202.0%20Turbo"
+  },
+  {
+    "nr": 856,
+    "marka": "Fiat",
+    "model": "Ulysse%20I%202.1%20TD"
+  },
+  {
+    "nr": 857,
+    "marka": "Fiat",
+    "model": "Ulysse%20II%202.0%20HDi%20Multijet"
+  },
+  {
+    "nr": 858,
+    "marka": "Fiat",
+    "model": "Ulysse%20II%202.0%20JTD"
+  },
+  {
+    "nr": 859,
+    "marka": "Fiat",
+    "model": "Ulysse%20II%202.2%20JTD"
+  },
+  {
+    "nr": 860,
+    "marka": "Fiat",
+    "model": "UNO%20%201.4%20Turbo%20I.E.%20Racing"
+  },
+  {
+    "nr": 861,
+    "marka": "Fiat",
+    "model": "UNO%201.3%20Turbo%20I.E."
+  },
+  {
+    "nr": 862,
+    "marka": "Fiat",
+    "model": "UNO%201.4%20TD"
+  },
+  {
+    "nr": 863,
+    "marka": "Fiat",
+    "model": "UNO%201.4%20Turbo%20I.E."
+  },
+  {
+    "nr": 864,
+    "marka": "Lancia",
+    "model": "Dedra"
+  },
+  {
+    "nr": 865,
+    "marka": "Lancia",
+    "model": "Dedra%20/Station%20Wag.%201,9%20TDS%20(835)"
+  },
+  {
+    "nr": 866,
+    "marka": "Lancia",
+    "model": "Dedra%201,9%20TDS%20(835)"
+  },
+  {
+    "nr": 867,
+    "marka": "Lancia",
+    "model": "Dedra%202,0%20HF%20Integrale/4WD%20(835)"
+  },
+  {
+    "nr": 868,
+    "marka": "Lancia",
+    "model": "Dedra%202,0%20i.e.%20Turbo%20(835)"
+  },
+  {
+    "nr": 869,
+    "marka": "Lancia",
+    "model": "Dedra%202,0%20Turbo%20(835AQ)"
+  },
+  {
+    "nr": 870,
+    "marka": "Lancia",
+    "model": "Delta%20I%201.6%20HF%20Turbo"
+  },
+  {
+    "nr": 871,
+    "marka": "Lancia",
+    "model": "Delta%20I%201.9%20Turbo%20DS"
+  },
+  {
+    "nr": 872,
+    "marka": "Lancia",
+    "model": "Delta%20I%202.0%20HF%204WD"
+  },
+  {
+    "nr": 873,
+    "marka": "Lancia",
+    "model": "Delta%20I%202.0%20HF%20Int16V%20Evo%204WD"
+  },
+  {
+    "nr": 874,
+    "marka": "Lancia",
+    "model": "Delta%20I%202.0%20HF%20Integrale%2016V%204WD"
+  },
+  {
+    "nr": 875,
+    "marka": "Lancia",
+    "model": "Delta%20I%202.0%20HF%20Integrale%204WD"
+  },
+  {
+    "nr": 876,
+    "marka": "Lancia",
+    "model": "Delta%20II%201.9%20TD"
+  },
+  {
+    "nr": 877,
+    "marka": "Lancia",
+    "model": "Delta%20II%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 878,
+    "marka": "Lancia",
+    "model": "Delta%20III%201.4%20T-Jet%2016V"
+  },
+  {
+    "nr": 879,
+    "marka": "Lancia",
+    "model": "Delta%20III%201.4%20TB%2016V"
+  },
+  {
+    "nr": 880,
+    "marka": "Lancia",
+    "model": "Delta%20III%201.6%2016V%20JTD"
+  },
+  {
+    "nr": 881,
+    "marka": "Lancia",
+    "model": "Delta%20III%201.8%20DI%20T-Jet%2016V"
+  },
+  {
+    "nr": 882,
+    "marka": "Lancia",
+    "model": "Delta%20III%201.9%20MJT%20Twinturbo"
+  },
+  {
+    "nr": 883,
+    "marka": "Lancia",
+    "model": "Delta%20III%202.0%20Multijet%2016V"
+  },
+  {
+    "nr": 884,
+    "marka": "Lancia",
+    "model": "Kappa%202.0%20IE%2020V%20Turbo"
+  },
+  {
+    "nr": 885,
+    "marka": "Lancia",
+    "model": "Kappa%202.0%20LS%2016V%20Turbo"
+  },
+  {
+    "nr": 886,
+    "marka": "Lancia",
+    "model": "Kappa%202.4%20JTD"
+  },
+  {
+    "nr": 887,
+    "marka": "Lancia",
+    "model": "Kappa%202.4%20TDS"
+  },
+  {
+    "nr": 888,
+    "marka": "Lancia",
+    "model": "Lybra%201.9%20JTD"
+  },
+  {
+    "nr": 889,
+    "marka": "Lancia",
+    "model": "Lybra%202.4%20JTD"
+  },
+  {
+    "nr": 890,
+    "marka": "Lancia",
+    "model": "Musa%201.3%2016v%20Multijet"
+  },
+  {
+    "nr": 891,
+    "marka": "Lancia",
+    "model": "Musa%201.6%2016v%20Multijet"
+  },
+  {
+    "nr": 892,
+    "marka": "Lancia",
+    "model": "Musa%201.9%208v%20Multijet"
+  },
+  {
+    "nr": 893,
+    "marka": "Lancia",
+    "model": "Phedra%202.0%20JTD"
+  },
+  {
+    "nr": 894,
+    "marka": "Lancia",
+    "model": "Phedra%202.2%20HDI"
+  },
+  {
+    "nr": 895,
+    "marka": "Lancia",
+    "model": "Phedra%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 896,
+    "marka": "Lancia",
+    "model": "Phedra%202.2%20JTD"
+  },
+  {
+    "nr": 897,
+    "marka": "Lancia",
+    "model": "Prisma%201,9%20Turbo%20Diesel%20(831%20AB)"
+  },
+  {
+    "nr": 898,
+    "marka": "Lancia",
+    "model": "Thema%202000%2016V%20Turbo%20(834)"
+  },
+  {
+    "nr": 899,
+    "marka": "Lancia",
+    "model": "Thema%202000%20i.e.16V%20Turbo%20(834)"
+  },
+  {
+    "nr": 900,
+    "marka": "Lancia",
+    "model": "Thema%202000%20i.e.Turbo%20(834)"
+  },
+  {
+    "nr": 901,
+    "marka": "Lancia",
+    "model": "Thema%202500%20Turbo%20D%20(834)"
+  },
+  {
+    "nr": 902,
+    "marka": "Lancia",
+    "model": "Thema%202500%20Turbo%20DS"
+  },
+  {
+    "nr": 903,
+    "marka": "Lancia",
+    "model": "Thema%20Stat.Wag.2000i.e.Turbo%20(834)"
+  },
+  {
+    "nr": 904,
+    "marka": "Lancia",
+    "model": "Thesis%202.0%2020V"
+  },
+  {
+    "nr": 905,
+    "marka": "Lancia",
+    "model": "Thesis%202.4%20JTD"
+  },
+  {
+    "nr": 906,
+    "marka": "Lancia",
+    "model": "Y10%201,0%20Turbo%20(156)"
+  },
+  {
+    "nr": 907,
+    "marka": "Lancia",
+    "model": "Ypsilon%201.3%20Multijet%2016V"
+  },
+  {
+    "nr": 908,
+    "marka": "Lancia",
+    "model": "Zeta%202.0%20HDI"
+  },
+  {
+    "nr": 909,
+    "marka": "Lancia",
+    "model": "Zeta%202.0%20Turbo"
+  },
+  {
+    "nr": 910,
+    "marka": "Lancia",
+    "model": "Zeta%202.1%20TD"
+  },
+  {
+    "nr": 911,
+    "marka": "Lancia",
+    "model": "Zeta%202.2%20HDI"
+  },
+  {
+    "nr": 912,
+    "marka": "MTU",
+    "model": "Generator"
+  },
+  {
+    "nr": 913,
+    "marka": "MTU",
+    "model": "Generator%20MDE"
+  },
+  {
+    "nr": 914,
+    "marka": "MTU",
+    "model": "Lokomotive"
+  },
+  {
+    "nr": 915,
+    "marka": "MTU",
+    "model": "Schiff"
+  },
+  {
+    "nr": 916,
+    "marka": "Mercedes-LKW",
+    "model": "511,611,711,811%20D"
+  },
+  {
+    "nr": 917,
+    "marka": "Mercedes-LKW",
+    "model": "Actros"
+  },
+  {
+    "nr": 918,
+    "marka": "Mercedes-LKW",
+    "model": "Actros%203351%20AS"
+  },
+  {
+    "nr": 919,
+    "marka": "Mercedes-LKW",
+    "model": "Actros%20Lkw%20Euro%203"
+  },
+  {
+    "nr": 920,
+    "marka": "Mercedes-LKW",
+    "model": "Atego"
+  },
+  {
+    "nr": 921,
+    "marka": "Mercedes-LKW",
+    "model": "Atego%20%20(906.910)"
+  },
+  {
+    "nr": 922,
+    "marka": "Mercedes-LKW",
+    "model": "ATEGO%20917"
+  },
+  {
+    "nr": 923,
+    "marka": "Mercedes-LKW",
+    "model": "Axor"
+  },
+  {
+    "nr": 924,
+    "marka": "Mercedes-LKW",
+    "model": "Bus"
+  },
+  {
+    "nr": 925,
+    "marka": "Mercedes-LKW",
+    "model": "Bus%20O%20405"
+  },
+  {
+    "nr": 926,
+    "marka": "Mercedes-LKW",
+    "model": "Citaro"
+  },
+  {
+    "nr": 927,
+    "marka": "Mercedes-LKW",
+    "model": "Econic%20957.65"
+  },
+  {
+    "nr": 928,
+    "marka": "Mercedes-LKW",
+    "model": "NFZ"
+  },
+  {
+    "nr": 929,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20314%20A"
+  },
+  {
+    "nr": 930,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20352%20A"
+  },
+  {
+    "nr": 931,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20364%20LA"
+  },
+  {
+    "nr": 932,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20366%20A"
+  },
+  {
+    "nr": 933,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20366%20LA"
+  },
+  {
+    "nr": 934,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20401%20LA"
+  },
+  {
+    "nr": 935,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20402%20LA"
+  },
+  {
+    "nr": 936,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20422%20A/LA"
+  },
+  {
+    "nr": 937,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20441%20LA"
+  },
+  {
+    "nr": 938,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20442%20A"
+  },
+  {
+    "nr": 939,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20442%20LA"
+  },
+  {
+    "nr": 940,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20444%20LA"
+  },
+  {
+    "nr": 941,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20447%20A"
+  },
+  {
+    "nr": 942,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20447%20LA"
+  },
+  {
+    "nr": 943,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20457%20LA"
+  },
+  {
+    "nr": 944,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20460%20LA"
+  },
+  {
+    "nr": 945,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20904%20LA"
+  },
+  {
+    "nr": 946,
+    "marka": "Mercedes-LKW",
+    "model": "OM%20906%20LA"
+  },
+  {
+    "nr": 947,
+    "marka": "Mercedes-LKW",
+    "model": "OM502LA-E4"
+  },
+  {
+    "nr": 948,
+    "marka": "Mercedes-LKW",
+    "model": "T2W"
+  },
+  {
+    "nr": 949,
+    "marka": "Mercedes-LKW",
+    "model": "Unimog"
+  },
+  {
+    "nr": 950,
+    "marka": "Mercedes-LKW",
+    "model": "Unimog%201700L/1300L"
+  },
+  {
+    "nr": 951,
+    "marka": "Mercedes-LKW",
+    "model": "Vario"
+  },
+  {
+    "nr": 952,
+    "marka": "New-Holland",
+    "model": "M?�hdrescher"
+  },
+  {
+    "nr": 953,
+    "marka": "New-Holland",
+    "model": "Traktor"
+  },
+  {
+    "nr": 954,
+    "marka": "New-Holland",
+    "model": "Traktor%202200"
+  },
+  {
+    "nr": 955,
+    "marka": "New-Holland",
+    "model": "Traktor%207630"
+  },
+  {
+    "nr": 956,
+    "marka": "New-Holland",
+    "model": "Traktor%207710"
+  },
+  {
+    "nr": 957,
+    "marka": "New-Holland",
+    "model": "Traktor%207840"
+  },
+  {
+    "nr": 958,
+    "marka": "Pontiac",
+    "model": "Solstice%20GXP"
+  },
+  {
+    "nr": 959,
+    "marka": "Perkins",
+    "model": "Combine%20Harvester"
+  },
+  {
+    "nr": 960,
+    "marka": "Perkins",
+    "model": "Diverse"
+  },
+  {
+    "nr": 961,
+    "marka": "Perkins",
+    "model": "Generator"
+  },
+  {
+    "nr": 962,
+    "marka": "Perkins",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 963,
+    "marka": "Perkins",
+    "model": "JCB%20Shovel%20Loader"
+  },
+  {
+    "nr": 964,
+    "marka": "Perkins",
+    "model": "Marine"
+  },
+  {
+    "nr": 965,
+    "marka": "Perkins",
+    "model": "Phaser"
+  },
+  {
+    "nr": 966,
+    "marka": "Perkins",
+    "model": "Traktor"
+  },
+  {
+    "nr": 967,
+    "marka": "Rolls-Royce",
+    "model": "Ghost%20(RR4%20/%20RR5)"
+  },
+  {
+    "nr": 968,
+    "marka": "Renault-LKW",
+    "model": "B90"
+  },
+  {
+    "nr": 969,
+    "marka": "Renault-LKW",
+    "model": "Midlum"
+  },
+  {
+    "nr": 970,
+    "marka": "Renault-LKW",
+    "model": "Midlum%20180%20DCI"
+  },
+  {
+    "nr": 971,
+    "marka": "Renault-LKW",
+    "model": "R330"
+  },
+  {
+    "nr": 972,
+    "marka": "Nissan",
+    "model": "200SX%20Turbo%2016V%20(S13)"
+  },
+  {
+    "nr": 973,
+    "marka": "Nissan",
+    "model": "200SX%20Turbo%2016V%20(S14)"
+  },
+  {
+    "nr": 974,
+    "marka": "Nissan",
+    "model": "300ZX%20TT%20(Z32)"
+  },
+  {
+    "nr": 975,
+    "marka": "Nissan",
+    "model": "Almera%201.5%20dCi"
+  },
+  {
+    "nr": 976,
+    "marka": "Nissan",
+    "model": "Almera%202.2%20Di"
+  },
+  {
+    "nr": 977,
+    "marka": "Nissan",
+    "model": "Almera%202.2%20Di%20Tino"
+  },
+  {
+    "nr": 978,
+    "marka": "Nissan",
+    "model": "Atleon"
+  },
+  {
+    "nr": 979,
+    "marka": "Nissan",
+    "model": "CabStar%202.5%20Dci"
+  },
+  {
+    "nr": 980,
+    "marka": "Nissan",
+    "model": "CabStar%202.7%20Dci"
+  },
+  {
+    "nr": 981,
+    "marka": "Nissan",
+    "model": "CabStar%203.0%20D"
+  },
+  {
+    "nr": 982,
+    "marka": "Nissan",
+    "model": "CabStar%203.0%20Dci"
+  },
+  {
+    "nr": 983,
+    "marka": "Nissan",
+    "model": "Interstar%202.2%20dCi"
+  },
+  {
+    "nr": 984,
+    "marka": "Nissan",
+    "model": "Interstar%202.5%20dCI"
+  },
+  {
+    "nr": 985,
+    "marka": "Nissan",
+    "model": "Interstar%203.0%20dCI"
+  },
+  {
+    "nr": 986,
+    "marka": "Nissan",
+    "model": "Micra%201.5%20dCi"
+  },
+  {
+    "nr": 987,
+    "marka": "Nissan",
+    "model": "Navara%202.5%20DI"
+  },
+  {
+    "nr": 988,
+    "marka": "Nissan",
+    "model": "Pathfinder%202.5%20DI"
+  },
+  {
+    "nr": 989,
+    "marka": "Nissan",
+    "model": "Patrol%202.8%20TD"
+  },
+  {
+    "nr": 990,
+    "marka": "Nissan",
+    "model": "Patrol%203.0%20Di"
+  },
+  {
+    "nr": 991,
+    "marka": "Nissan",
+    "model": "Patrol%203.2%20TD"
+  },
+  {
+    "nr": 992,
+    "marka": "Nissan",
+    "model": "Primera%201.9%20dci"
+  },
+  {
+    "nr": 993,
+    "marka": "Nissan",
+    "model": "Primera%202.0"
+  },
+  {
+    "nr": 994,
+    "marka": "Nissan",
+    "model": "Primera%202.0%20TD"
+  },
+  {
+    "nr": 995,
+    "marka": "Nissan",
+    "model": "Primera%202.2%20dci"
+  },
+  {
+    "nr": 996,
+    "marka": "Nissan",
+    "model": "Primera%202.2%20Di"
+  },
+  {
+    "nr": 997,
+    "marka": "Nissan",
+    "model": "Qashqai%201.5%20dCi"
+  },
+  {
+    "nr": 998,
+    "marka": "Nissan",
+    "model": "Qashqai%202.0%20dCi"
+  },
+  {
+    "nr": 999,
+    "marka": "Nissan",
+    "model": "Sunny%20GTI-R%20Turbo%2016V"
+  },
+  {
+    "nr": 1000,
+    "marka": "Nissan",
+    "model": "Terrano%20I%202.7%20TD"
+  },
+  {
+    "nr": 1001,
+    "marka": "Nissan",
+    "model": "Terrano%20II%202.5%20TD"
+  },
+  {
+    "nr": 1002,
+    "marka": "Nissan",
+    "model": "Terrano%20II%202.7%20Di"
+  },
+  {
+    "nr": 1003,
+    "marka": "Nissan",
+    "model": "Terrano%20II%202.7%20TD"
+  },
+  {
+    "nr": 1004,
+    "marka": "Nissan",
+    "model": "Terrano%20II%203.0%20Di"
+  },
+  {
+    "nr": 1005,
+    "marka": "Nissan",
+    "model": "Trade%203.0%20TDI"
+  },
+  {
+    "nr": 1006,
+    "marka": "Nissan",
+    "model": "X-Trail%202.0%20dci%20(T31)"
+  },
+  {
+    "nr": 1007,
+    "marka": "Nissan",
+    "model": "X-Trail%202.0%20GT"
+  },
+  {
+    "nr": 1008,
+    "marka": "Nissan",
+    "model": "X-Trail%202.2%20DI%20(T30)"
+  },
+  {
+    "nr": 1009,
+    "marka": "Porsche",
+    "model": "924%20Carrera%20GT"
+  },
+  {
+    "nr": 1010,
+    "marka": "Porsche",
+    "model": "924%20Carrera%20GTS"
+  },
+  {
+    "nr": 1011,
+    "marka": "Porsche",
+    "model": "924%20Turbo"
+  },
+  {
+    "nr": 1012,
+    "marka": "Porsche",
+    "model": "924%20Turbo%20(USA)"
+  },
+  {
+    "nr": 1013,
+    "marka": "Porsche",
+    "model": "930%20Turbo"
+  },
+  {
+    "nr": 1014,
+    "marka": "Porsche",
+    "model": "935"
+  },
+  {
+    "nr": 1015,
+    "marka": "Porsche",
+    "model": "935%20Rennfahrzeug"
+  },
+  {
+    "nr": 1016,
+    "marka": "Porsche",
+    "model": "944%20Turbo"
+  },
+  {
+    "nr": 1017,
+    "marka": "Porsche",
+    "model": "956"
+  },
+  {
+    "nr": 1018,
+    "marka": "Porsche",
+    "model": "959"
+  },
+  {
+    "nr": 1019,
+    "marka": "Porsche",
+    "model": "964%20Turbo"
+  },
+  {
+    "nr": 1020,
+    "marka": "Porsche",
+    "model": "993%20GT2"
+  },
+  {
+    "nr": 1021,
+    "marka": "Porsche",
+    "model": "993%20Turbo"
+  },
+  {
+    "nr": 1022,
+    "marka": "Porsche",
+    "model": "996%20GT2"
+  },
+  {
+    "nr": 1023,
+    "marka": "Porsche",
+    "model": "996%20Turbo"
+  },
+  {
+    "nr": 1024,
+    "marka": "Porsche",
+    "model": "997%20GT2"
+  },
+  {
+    "nr": 1025,
+    "marka": "Porsche",
+    "model": "997%20Turbo"
+  },
+  {
+    "nr": 1026,
+    "marka": "Porsche",
+    "model": "Cayenne%204.5%20Turbo"
+  },
+  {
+    "nr": 1027,
+    "marka": "Porsche",
+    "model": "Cayenne%204.8%20Turbo"
+  },
+  {
+    "nr": 1028,
+    "marka": "Porsche",
+    "model": "Panamera%20Turbo"
+  },
+  {
+    "nr": 1029,
+    "marka": "Rover",
+    "model": "200%20SDI"
+  },
+  {
+    "nr": 1030,
+    "marka": "Rover",
+    "model": "220%20SDI"
+  },
+  {
+    "nr": 1031,
+    "marka": "Rover",
+    "model": "220%20TI%2016V"
+  },
+  {
+    "nr": 1032,
+    "marka": "Rover",
+    "model": "420%20SDI"
+  },
+  {
+    "nr": 1033,
+    "marka": "Rover",
+    "model": "600%20SDI"
+  },
+  {
+    "nr": 1034,
+    "marka": "Rover",
+    "model": "620%20SDI"
+  },
+  {
+    "nr": 1035,
+    "marka": "Rover",
+    "model": "75%201.8%20Turbo"
+  },
+  {
+    "nr": 1036,
+    "marka": "Rover",
+    "model": "75%202.0%20CDT"
+  },
+  {
+    "nr": 1037,
+    "marka": "Rover",
+    "model": "MG%20R75%201.8%20Turbo"
+  },
+  {
+    "nr": 1038,
+    "marka": "Rover",
+    "model": "MG%20ZT%201.8%20Turbo"
+  },
+  {
+    "nr": 1039,
+    "marka": "Mitsubishi",
+    "model": "3000%20GT%20(Z16A)"
+  },
+  {
+    "nr": 1040,
+    "marka": "Mitsubishi",
+    "model": "ASX%201.8%20DI-D+"
+  },
+  {
+    "nr": 1041,
+    "marka": "Mitsubishi",
+    "model": "Canter"
+  },
+  {
+    "nr": 1042,
+    "marka": "Mitsubishi",
+    "model": "Carisma%201.9%20DI-D%20HP"
+  },
+  {
+    "nr": 1043,
+    "marka": "Mitsubishi",
+    "model": "Carisma%201.9%20DI-D%20MP"
+  },
+  {
+    "nr": 1044,
+    "marka": "Mitsubishi",
+    "model": "Carisma%201.9%20TD"
+  },
+  {
+    "nr": 1045,
+    "marka": "Mitsubishi",
+    "model": "Colt%201.5%20CZT"
+  },
+  {
+    "nr": 1046,
+    "marka": "Mitsubishi",
+    "model": "Colt%201.5%20DI-D"
+  },
+  {
+    "nr": 1047,
+    "marka": "Mitsubishi",
+    "model": "Eclipse%20I%202.0%20i%2016V"
+  },
+  {
+    "nr": 1048,
+    "marka": "Mitsubishi",
+    "model": "Eclipse%20II%202.0%20GST"
+  },
+  {
+    "nr": 1049,
+    "marka": "Mitsubishi",
+    "model": "Galant%20III%201,8%20Turbo-D%20(E14A)"
+  },
+  {
+    "nr": 1050,
+    "marka": "Mitsubishi",
+    "model": "Galant%20IV%201,8%20Turbo-D%20(E34A)"
+  },
+  {
+    "nr": 1051,
+    "marka": "Mitsubishi",
+    "model": "Galant%20V%202,0%20GLSTD%20(E57A)"
+  },
+  {
+    "nr": 1052,
+    "marka": "Mitsubishi",
+    "model": "Galant%20VIII%202.0%20TD"
+  },
+  {
+    "nr": 1053,
+    "marka": "Mitsubishi",
+    "model": "Gallopper%20TCI"
+  },
+  {
+    "nr": 1054,
+    "marka": "Mitsubishi",
+    "model": "Grandis%202.0%20DI-D"
+  },
+  {
+    "nr": 1055,
+    "marka": "Mitsubishi",
+    "model": "L%20200%202,5%20TD"
+  },
+  {
+    "nr": 1056,
+    "marka": "Mitsubishi",
+    "model": "L%20200%202,5%20TD%204WD%20(K_4T)"
+  },
+  {
+    "nr": 1057,
+    "marka": "Mitsubishi",
+    "model": "L%20200%202,5%20TD%204x4%20(K6_T)"
+  },
+  {
+    "nr": 1058,
+    "marka": "Mitsubishi",
+    "model": "L%20200%202.5%20TD"
+  },
+  {
+    "nr": 1059,
+    "marka": "Mitsubishi",
+    "model": "L%20200%202.5%20TDI"
+  },
+  {
+    "nr": 1060,
+    "marka": "Mitsubishi",
+    "model": "L%20300%202,3%20TD%20(L038P)"
+  },
+  {
+    "nr": 1061,
+    "marka": "Mitsubishi",
+    "model": "L%20300%202,5%20TD%204WD%20(P25W,P25V)"
+  },
+  {
+    "nr": 1062,
+    "marka": "Mitsubishi",
+    "model": "L%20300%202.5%20TD"
+  },
+  {
+    "nr": 1063,
+    "marka": "Mitsubishi",
+    "model": "L%20400%202.5%20TD"
+  },
+  {
+    "nr": 1064,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20DI-D"
+  },
+  {
+    "nr": 1065,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%203"
+  },
+  {
+    "nr": 1066,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%204"
+  },
+  {
+    "nr": 1067,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%205"
+  },
+  {
+    "nr": 1068,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%206"
+  },
+  {
+    "nr": 1069,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%207"
+  },
+  {
+    "nr": 1070,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%208"
+  },
+  {
+    "nr": 1071,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%209"
+  },
+  {
+    "nr": 1072,
+    "marka": "Mitsubishi",
+    "model": "Lancer%20EVO%20X"
+  },
+  {
+    "nr": 1073,
+    "marka": "Mitsubishi",
+    "model": "Outlander%202.0%20DI-D"
+  },
+  {
+    "nr": 1074,
+    "marka": "Mitsubishi",
+    "model": "Outlander%202.2%20DI-D"
+  },
+  {
+    "nr": 1075,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20I%202.3%20TD"
+  },
+  {
+    "nr": 1076,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20I%202.5%20TD"
+  },
+  {
+    "nr": 1077,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20II%202.5%20TD"
+  },
+  {
+    "nr": 1078,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20II%202.8%20TD"
+  },
+  {
+    "nr": 1079,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20III%202.5%20TD"
+  },
+  {
+    "nr": 1080,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20III%202.5%20TDI"
+  },
+  {
+    "nr": 1081,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20III%203.2%20Di-D"
+  },
+  {
+    "nr": 1082,
+    "marka": "Mitsubishi",
+    "model": "Pajero%20IV%203.2%20DI-D"
+  },
+  {
+    "nr": 1083,
+    "marka": "Mitsubishi",
+    "model": "Space%20Gear%202.5%20TD"
+  },
+  {
+    "nr": 1084,
+    "marka": "Mitsubishi",
+    "model": "Space%20Star%201.9%20DI-D"
+  },
+  {
+    "nr": 1085,
+    "marka": "Mitsubishi",
+    "model": "Space%20Wagon%201,8%20TD%20(N35W)%20(D09W)"
+  },
+  {
+    "nr": 1086,
+    "marka": "Mitsubishi",
+    "model": "Space%20Wagon%202,0%20TD%20GLX%20(N38W)"
+  },
+  {
+    "nr": 1087,
+    "marka": "Mitsubishi",
+    "model": "Starion"
+  },
+  {
+    "nr": 1088,
+    "marka": "Saab",
+    "model": "9-3%20I%202.0%20T"
+  },
+  {
+    "nr": 1089,
+    "marka": "Saab",
+    "model": "9-3%20I%202.0%20Turbo"
+  },
+  {
+    "nr": 1090,
+    "marka": "Saab",
+    "model": "9-3%20I%202.2%20TiD"
+  },
+  {
+    "nr": 1091,
+    "marka": "Saab",
+    "model": "9-3%20I%202.3%20Turbo"
+  },
+  {
+    "nr": 1092,
+    "marka": "Saab",
+    "model": "9-3%20II%201.9%20TiD"
+  },
+  {
+    "nr": 1093,
+    "marka": "Saab",
+    "model": "9-3%20II%201.9%20TTiD"
+  },
+  {
+    "nr": 1094,
+    "marka": "Saab",
+    "model": "9-3%20II%202.0%20T"
+  },
+  {
+    "nr": 1095,
+    "marka": "Saab",
+    "model": "9-3%20II%202.8%20V6%20Turbo"
+  },
+  {
+    "nr": 1096,
+    "marka": "Saab",
+    "model": "9-5%201.9%20TiD"
+  },
+  {
+    "nr": 1097,
+    "marka": "Saab",
+    "model": "9-5%202.0%20T"
+  },
+  {
+    "nr": 1098,
+    "marka": "Saab",
+    "model": "9-5%202.0T"
+  },
+  {
+    "nr": 1099,
+    "marka": "Saab",
+    "model": "9-5%202.2%20TiD"
+  },
+  {
+    "nr": 1100,
+    "marka": "Saab",
+    "model": "9-5%202.3%20T"
+  },
+  {
+    "nr": 1101,
+    "marka": "Saab",
+    "model": "9-5%202.3%20T%20Aero"
+  },
+  {
+    "nr": 1102,
+    "marka": "Saab",
+    "model": "9-5%202.3%20Turbo"
+  },
+  {
+    "nr": 1103,
+    "marka": "Saab",
+    "model": "9-5%202.8%20T%20V6"
+  },
+  {
+    "nr": 1104,
+    "marka": "Saab",
+    "model": "9-5%203.0%20T%20V6"
+  },
+  {
+    "nr": 1105,
+    "marka": "Saab",
+    "model": "9-5%203.0%20TiD"
+  },
+  {
+    "nr": 1106,
+    "marka": "Saab",
+    "model": "900%2016V"
+  },
+  {
+    "nr": 1107,
+    "marka": "Saab",
+    "model": "900%202.2%20TDI"
+  },
+  {
+    "nr": 1108,
+    "marka": "Saab",
+    "model": "900%208V"
+  },
+  {
+    "nr": 1109,
+    "marka": "Saab",
+    "model": "9000"
+  },
+  {
+    "nr": 1110,
+    "marka": "Saab",
+    "model": "9000%202,0"
+  },
+  {
+    "nr": 1111,
+    "marka": "Saab",
+    "model": "9000%202,3"
+  },
+  {
+    "nr": 1112,
+    "marka": "Saab",
+    "model": "9000%202,3%20AERO"
+  },
+  {
+    "nr": 1113,
+    "marka": "Shibaura",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 1114,
+    "marka": "Skoda",
+    "model": "Fabia%201.2%20TDI"
+  },
+  {
+    "nr": 1115,
+    "marka": "Skoda",
+    "model": "Fabia%201.4%20TDI"
+  },
+  {
+    "nr": 1116,
+    "marka": "Skoda",
+    "model": "Fabia%201.9%20TDI"
+  },
+  {
+    "nr": 1117,
+    "marka": "Skoda",
+    "model": "Fabia%201.9%20TDI%20RS"
+  },
+  {
+    "nr": 1118,
+    "marka": "Skoda",
+    "model": "Octavia%20I%201.8%20T"
+  },
+  {
+    "nr": 1119,
+    "marka": "Skoda",
+    "model": "Octavia%20I%201.8%20T%20RS"
+  },
+  {
+    "nr": 1120,
+    "marka": "Skoda",
+    "model": "Octavia%20I%201.9%20TDI"
+  },
+  {
+    "nr": 1121,
+    "marka": "Skoda",
+    "model": "Octavia%20II%201.8%20TSI"
+  },
+  {
+    "nr": 1122,
+    "marka": "Skoda",
+    "model": "Octavia%20II%201.9%20TDI"
+  },
+  {
+    "nr": 1123,
+    "marka": "Skoda",
+    "model": "Octavia%20II%202.0%20TDI"
+  },
+  {
+    "nr": 1124,
+    "marka": "Skoda",
+    "model": "Octavia%20II%202.0%20TSI"
+  },
+  {
+    "nr": 1125,
+    "marka": "Skoda",
+    "model": "Roomster%201.4%20TDI"
+  },
+  {
+    "nr": 1126,
+    "marka": "Skoda",
+    "model": "Roomster%201.9%20TDI"
+  },
+  {
+    "nr": 1127,
+    "marka": "Skoda",
+    "model": "Superb%20I%201.9%20TDI"
+  },
+  {
+    "nr": 1128,
+    "marka": "Skoda",
+    "model": "Superb%20I%202.5%20TDI"
+  },
+  {
+    "nr": 1129,
+    "marka": "Skoda",
+    "model": "Superb%20II%201.8%20TSI"
+  },
+  {
+    "nr": 1130,
+    "marka": "Skoda",
+    "model": "Superb%20II%201.9%20TDI"
+  },
+  {
+    "nr": 1131,
+    "marka": "Skoda",
+    "model": "Superb%20II%202.0%20TDI"
+  },
+  {
+    "nr": 1132,
+    "marka": "Skoda",
+    "model": "Yeti%202.0%20TDI"
+  },
+  {
+    "nr": 1133,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%20160%20CDI%20(W168)"
+  },
+  {
+    "nr": 1134,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%20160%20CDI%20(W169)"
+  },
+  {
+    "nr": 1135,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%20170%20CDI%20(W168)"
+  },
+  {
+    "nr": 1136,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%20180%20CDI%20(W169)"
+  },
+  {
+    "nr": 1137,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%20200%20CDI%20(W169)"
+  },
+  {
+    "nr": 1138,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%20200%20TURBO%20(W169)"
+  },
+  {
+    "nr": 1139,
+    "marka": "Mercedes-PKW",
+    "model": "A-Klasse%2045%20AMG"
+  },
+  {
+    "nr": 1140,
+    "marka": "Mercedes-PKW",
+    "model": "B-Klasse%20%20180%20CDI%20(W245)"
+  },
+  {
+    "nr": 1141,
+    "marka": "Mercedes-PKW",
+    "model": "B-Klasse%20200%20CDI%20(W245)"
+  },
+  {
+    "nr": 1142,
+    "marka": "Mercedes-PKW",
+    "model": "B-Klasse%20200%20TURBO%20(W245)"
+  },
+  {
+    "nr": 1143,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20190%202.5%20TD%20(W201)"
+  },
+  {
+    "nr": 1144,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20200%20CDI%20(W202)"
+  },
+  {
+    "nr": 1145,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20200%20CDI%20(W203)"
+  },
+  {
+    "nr": 1146,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20200%20CDI%20(W204)"
+  },
+  {
+    "nr": 1147,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20220%20CDI%20(W202)"
+  },
+  {
+    "nr": 1148,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20220%20CDI%20(W203)"
+  },
+  {
+    "nr": 1149,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20220%20CDI%20(W204)"
+  },
+  {
+    "nr": 1150,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20250%20CDI%20(W204)"
+  },
+  {
+    "nr": 1151,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20250%20TD%20(W202)"
+  },
+  {
+    "nr": 1152,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20270%20CDI%20(W203)"
+  },
+  {
+    "nr": 1153,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%2030%20CDI%20AMG%20(W203)"
+  },
+  {
+    "nr": 1154,
+    "marka": "Mercedes-PKW",
+    "model": "C-Klasse%20320%20CDI%20(W203)"
+  },
+  {
+    "nr": 1155,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%202.5%20TD%20(W124)"
+  },
+  {
+    "nr": 1156,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20200%20CDI%20(W210)"
+  },
+  {
+    "nr": 1157,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20200%20CDI%20(W211)"
+  },
+  {
+    "nr": 1158,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20220%20CDI%20(W210)"
+  },
+  {
+    "nr": 1159,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20220%20CDI%20(W211)"
+  },
+  {
+    "nr": 1160,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20250%20Blue%20Efficiency%20(W212)"
+  },
+  {
+    "nr": 1161,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20250%20TD%20(W124)"
+  },
+  {
+    "nr": 1162,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20250%20TD%20(W210)"
+  },
+  {
+    "nr": 1163,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20270%20CDI%20(W210)"
+  },
+  {
+    "nr": 1164,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20270%20CDI%20(W211)"
+  },
+  {
+    "nr": 1165,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20280%20CDI%20(W211)"
+  },
+  {
+    "nr": 1166,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20290%20TD%20(W210)"
+  },
+  {
+    "nr": 1167,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20300%20CDI%20(W212)"
+  },
+  {
+    "nr": 1168,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20300%20TD%20(W124)"
+  },
+  {
+    "nr": 1169,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20300%20TD%20(W210)"
+  },
+  {
+    "nr": 1170,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20320%20CDI%20(W210)"
+  },
+  {
+    "nr": 1171,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20320%20CDI%20(W211)"
+  },
+  {
+    "nr": 1172,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20350%20CDI%20(W212)"
+  },
+  {
+    "nr": 1173,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20400%20CDI%20(W211)"
+  },
+  {
+    "nr": 1174,
+    "marka": "Mercedes-PKW",
+    "model": "E-Klasse%20420%20CDI%20(W211)"
+  },
+  {
+    "nr": 1175,
+    "marka": "Mercedes-PKW",
+    "model": "G-Klasse%20280%20CDI%20(W461)"
+  },
+  {
+    "nr": 1176,
+    "marka": "Mercedes-PKW",
+    "model": "G-Klasse%20290%20TD%20(W461)"
+  },
+  {
+    "nr": 1177,
+    "marka": "Mercedes-PKW",
+    "model": "G-Klasse%20300%20TD%20(W463)"
+  },
+  {
+    "nr": 1178,
+    "marka": "Mercedes-PKW",
+    "model": "G-Klasse%20350%20TD%20(W463)"
+  },
+  {
+    "nr": 1179,
+    "marka": "Mercedes-PKW",
+    "model": "G-Klasse%20400%20CDI%20(W463)"
+  },
+  {
+    "nr": 1180,
+    "marka": "Mercedes-PKW",
+    "model": "M-Klasse%20270%20CDI%20(W163)"
+  },
+  {
+    "nr": 1181,
+    "marka": "Mercedes-PKW",
+    "model": "M-Klasse%20280%20CDI%20(W164)"
+  },
+  {
+    "nr": 1182,
+    "marka": "Mercedes-PKW",
+    "model": "M-Klasse%20320%20CDI%20(W164)"
+  },
+  {
+    "nr": 1183,
+    "marka": "Mercedes-PKW",
+    "model": "M-Klasse%20400%20CDI%20(W163)"
+  },
+  {
+    "nr": 1184,
+    "marka": "Mercedes-PKW",
+    "model": "M-Klasse%20420%20CDI%20(W164)"
+  },
+  {
+    "nr": 1185,
+    "marka": "Mercedes-PKW",
+    "model": "R-Klasse%20280%20CDI%20(W251)"
+  },
+  {
+    "nr": 1186,
+    "marka": "Mercedes-PKW",
+    "model": "R-Klasse%20320%20CDI%20(W251)"
+  },
+  {
+    "nr": 1187,
+    "marka": "Mercedes-PKW",
+    "model": "R-Klasse%20350%20CDI%20(W212)"
+  },
+  {
+    "nr": 1188,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20250%20CDI%20(W221)"
+  },
+  {
+    "nr": 1189,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20300%20TD%20(W140)"
+  },
+  {
+    "nr": 1190,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20320%20CDI%20(W220)"
+  },
+  {
+    "nr": 1191,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20320%20CDI%20(W221)"
+  },
+  {
+    "nr": 1192,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20350%20TD%20(W140)"
+  },
+  {
+    "nr": 1193,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20400%20CDI%20(W220)"
+  },
+  {
+    "nr": 1194,
+    "marka": "Mercedes-PKW",
+    "model": "S-Klasse%20420%20CDI%20(W221)"
+  },
+  {
+    "nr": 1195,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20I%20208CDI/308CDI/408CDI"
+  },
+  {
+    "nr": 1196,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20I%20210D/310D/410D"
+  },
+  {
+    "nr": 1197,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20I%20211CDI/311CDI/411CDI"
+  },
+  {
+    "nr": 1198,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20I%20212D/312D/412D"
+  },
+  {
+    "nr": 1199,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20I%20213CDI/313CDI/413CDI"
+  },
+  {
+    "nr": 1200,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20I%20216CDI/316CDI/416CDI"
+  },
+  {
+    "nr": 1201,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20II%20211CDI/311CDI/411CDI/511CDI"
+  },
+  {
+    "nr": 1202,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20II%20215CDI/315CDI/415CDI/515CDI"
+  },
+  {
+    "nr": 1203,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20II%20216CDI/316CDI/416CDI/516CDI"
+  },
+  {
+    "nr": 1204,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20II%20218CDI/318CDI/418CDI/518CDI"
+  },
+  {
+    "nr": 1205,
+    "marka": "Mercedes-PKW",
+    "model": "Sprinter%20II%20219CDI/319CDI/419CDI/519CDI"
+  },
+  {
+    "nr": 1206,
+    "marka": "Mercedes-PKW",
+    "model": "V-Klasse%20200%20CDI%20(638/2)"
+  },
+  {
+    "nr": 1207,
+    "marka": "Mercedes-PKW",
+    "model": "V-Klasse%20220%20CDI%20(638/2)"
+  },
+  {
+    "nr": 1208,
+    "marka": "Mercedes-PKW",
+    "model": "V-Klasse%20230%20TD%20(638.274)"
+  },
+  {
+    "nr": 1209,
+    "marka": "Mercedes-PKW",
+    "model": "Vaneo%201.7%20CDI"
+  },
+  {
+    "nr": 1210,
+    "marka": "Mercedes-PKW",
+    "model": "Viano%202.2%20CDI"
+  },
+  {
+    "nr": 1211,
+    "marka": "Mercedes-PKW",
+    "model": "Viano%203.0%20CDI%20(W639)"
+  },
+  {
+    "nr": 1212,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20108%20CDI%20(W638)"
+  },
+  {
+    "nr": 1213,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20109%20CDI%20(W639)"
+  },
+  {
+    "nr": 1214,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20110%20CDI%20(W638)"
+  },
+  {
+    "nr": 1215,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20110%20D%20(W638)"
+  },
+  {
+    "nr": 1216,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20111%20CDI%20(W639)"
+  },
+  {
+    "nr": 1217,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20112%20CDI%20(W638)"
+  },
+  {
+    "nr": 1218,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20115%20CDI%20(W639)"
+  },
+  {
+    "nr": 1219,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20116%20CDI%20(W639)"
+  },
+  {
+    "nr": 1220,
+    "marka": "Mercedes-PKW",
+    "model": "Vito%20120%20CDI%20(W639)"
+  },
+  {
+    "nr": 1221,
+    "marka": "Scania",
+    "model": "111"
+  },
+  {
+    "nr": 1222,
+    "marka": "Scania",
+    "model": "112"
+  },
+  {
+    "nr": 1223,
+    "marka": "Scania",
+    "model": "113"
+  },
+  {
+    "nr": 1224,
+    "marka": "Scania",
+    "model": "114"
+  },
+  {
+    "nr": 1225,
+    "marka": "Scania",
+    "model": "124%20360"
+  },
+  {
+    "nr": 1226,
+    "marka": "Scania",
+    "model": "124%20400"
+  },
+  {
+    "nr": 1227,
+    "marka": "Scania",
+    "model": "124%20420"
+  },
+  {
+    "nr": 1228,
+    "marka": "Scania",
+    "model": "124%20470"
+  },
+  {
+    "nr": 1229,
+    "marka": "Scania",
+    "model": "141"
+  },
+  {
+    "nr": 1230,
+    "marka": "Scania",
+    "model": "142"
+  },
+  {
+    "nr": 1231,
+    "marka": "Scania",
+    "model": "143"
+  },
+  {
+    "nr": 1232,
+    "marka": "Scania",
+    "model": "144"
+  },
+  {
+    "nr": 1233,
+    "marka": "Scania",
+    "model": "164"
+  },
+  {
+    "nr": 1234,
+    "marka": "Scania",
+    "model": "82"
+  },
+  {
+    "nr": 1235,
+    "marka": "Scania",
+    "model": "92"
+  },
+  {
+    "nr": 1236,
+    "marka": "Scania",
+    "model": "94"
+  },
+  {
+    "nr": 1237,
+    "marka": "Scania",
+    "model": "94%20220"
+  },
+  {
+    "nr": 1238,
+    "marka": "Scania",
+    "model": "94%20260"
+  },
+  {
+    "nr": 1239,
+    "marka": "Scania",
+    "model": "94%20310"
+  },
+  {
+    "nr": 1240,
+    "marka": "Scania",
+    "model": "Bus"
+  },
+  {
+    "nr": 1241,
+    "marka": "Scania",
+    "model": "Bus%20310"
+  },
+  {
+    "nr": 1242,
+    "marka": "Scania",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 1243,
+    "marka": "Scania",
+    "model": "Serie-P%20310"
+  },
+  {
+    "nr": 1244,
+    "marka": "Scania",
+    "model": "Serie-R"
+  },
+  {
+    "nr": 1245,
+    "marka": "Scania",
+    "model": "Serie-R%20310"
+  },
+  {
+    "nr": 1246,
+    "marka": "Scania",
+    "model": "Serie-R%20500"
+  },
+  {
+    "nr": 1247,
+    "marka": "Scania",
+    "model": "Serie-T%20310"
+  },
+  {
+    "nr": 1248,
+    "marka": "Smart-MCC",
+    "model": "Smart%200,6%20(MC01)%201H"
+  },
+  {
+    "nr": 1249,
+    "marka": "Smart-MCC",
+    "model": "Smart%200,6%20(MC01)%20XH"
+  },
+  {
+    "nr": 1250,
+    "marka": "Smart-MCC",
+    "model": "Smart%200,6%20(MC01)%20YH"
+  },
+  {
+    "nr": 1251,
+    "marka": "Smart-MCC",
+    "model": "Smart%20Brabus"
+  },
+  {
+    "nr": 1252,
+    "marka": "Smart-MCC",
+    "model": "Smart%20cdi%200,8%20CDI"
+  },
+  {
+    "nr": 1253,
+    "marka": "Smart-MCC",
+    "model": "Smart%20cdi%200,8%20CDI%20(MC01)"
+  },
+  {
+    "nr": 1254,
+    "marka": "Smart-MCC",
+    "model": "Smart%20cdi%20Forfour%201.5"
+  },
+  {
+    "nr": 1255,
+    "marka": "Smart-MCC",
+    "model": "Smart%20Fortwo"
+  },
+  {
+    "nr": 1256,
+    "marka": "Smart-MCC",
+    "model": "Smart%20Roadster%20(MC01)"
+  },
+  {
+    "nr": 1257,
+    "marka": "Ssang-Yong",
+    "model": "Actyon%202.0%20Xdi"
+  },
+  {
+    "nr": 1258,
+    "marka": "Ssang-Yong",
+    "model": "Korando%20C200"
+  },
+  {
+    "nr": 1259,
+    "marka": "Ssang-Yong",
+    "model": "Kyron%202.0%20Xdi"
+  },
+  {
+    "nr": 1260,
+    "marka": "Ssang-Yong",
+    "model": "Musso%202.9%20TD"
+  },
+  {
+    "nr": 1261,
+    "marka": "Ssang-Yong",
+    "model": "Rexton%202.9%20TD"
+  },
+  {
+    "nr": 1262,
+    "marka": "Ssang-Yong",
+    "model": "Rexton%20270%20Xdi"
+  },
+  {
+    "nr": 1263,
+    "marka": "Ssang-Yong",
+    "model": "Rexton%20270%20XVT"
+  },
+  {
+    "nr": 1264,
+    "marka": "Ssang-Yong",
+    "model": "Rodius%20270%20Xdi"
+  },
+  {
+    "nr": 1265,
+    "marka": "Ssang-Yong",
+    "model": "Rodius%20270%20XVT"
+  },
+  {
+    "nr": 1266,
+    "marka": "Tata",
+    "model": "Nano"
+  },
+  {
+    "nr": 1267,
+    "marka": "Seat",
+    "model": "Alhambra%201.8%20T"
+  },
+  {
+    "nr": 1268,
+    "marka": "Seat",
+    "model": "Alhambra%201.9%20TDI"
+  },
+  {
+    "nr": 1269,
+    "marka": "Seat",
+    "model": "Alhambra%202.0%20TDI"
+  },
+  {
+    "nr": 1270,
+    "marka": "Seat",
+    "model": "Altea%201.8%20TSI"
+  },
+  {
+    "nr": 1271,
+    "marka": "Seat",
+    "model": "Altea%201.9%20TDI"
+  },
+  {
+    "nr": 1272,
+    "marka": "Seat",
+    "model": "Altea%202.0%20TDI"
+  },
+  {
+    "nr": 1273,
+    "marka": "Seat",
+    "model": "Arosa%201.2%20TDI"
+  },
+  {
+    "nr": 1274,
+    "marka": "Seat",
+    "model": "Arosa%201.4%20TDI"
+  },
+  {
+    "nr": 1275,
+    "marka": "Seat",
+    "model": "Cordoba%201.4%20TDI"
+  },
+  {
+    "nr": 1276,
+    "marka": "Seat",
+    "model": "Cordoba%201.9%20TD"
+  },
+  {
+    "nr": 1277,
+    "marka": "Seat",
+    "model": "Cordoba%201.9%20TDI"
+  },
+  {
+    "nr": 1278,
+    "marka": "Seat",
+    "model": "Exeo%201.8%20TSI"
+  },
+  {
+    "nr": 1279,
+    "marka": "Seat",
+    "model": "Exeo%201.8T"
+  },
+  {
+    "nr": 1280,
+    "marka": "Seat",
+    "model": "Exeo%202.0%20TDI"
+  },
+  {
+    "nr": 1281,
+    "marka": "Seat",
+    "model": "Exeo%202.0%20TFSI"
+  },
+  {
+    "nr": 1282,
+    "marka": "Seat",
+    "model": "Ibiza%20%20IV%201.9%20TDI"
+  },
+  {
+    "nr": 1283,
+    "marka": "Seat",
+    "model": "Ibiza%20II%201.8%20T%20Cupra"
+  },
+  {
+    "nr": 1284,
+    "marka": "Seat",
+    "model": "Ibiza%20II%201.9%20TD"
+  },
+  {
+    "nr": 1285,
+    "marka": "Seat",
+    "model": "Ibiza%20II%201.9%20TDI"
+  },
+  {
+    "nr": 1286,
+    "marka": "Seat",
+    "model": "Ibiza%20III%201.4%20TDI"
+  },
+  {
+    "nr": 1287,
+    "marka": "Seat",
+    "model": "Ibiza%20III%201.8%20T%20Cupra"
+  },
+  {
+    "nr": 1288,
+    "marka": "Seat",
+    "model": "Ibiza%20III%201.9%20TDI"
+  },
+  {
+    "nr": 1289,
+    "marka": "Seat",
+    "model": "Ibiza%20III%201.9%20TDI%20Cupra"
+  },
+  {
+    "nr": 1290,
+    "marka": "Seat",
+    "model": "Leon%201.2%20TSI"
+  },
+  {
+    "nr": 1291,
+    "marka": "Seat",
+    "model": "Leon%201.4%20TSI"
+  },
+  {
+    "nr": 1292,
+    "marka": "Seat",
+    "model": "Leon%201.8%20T"
+  },
+  {
+    "nr": 1293,
+    "marka": "Seat",
+    "model": "Leon%201.8%20T%20Cupra%20R"
+  },
+  {
+    "nr": 1294,
+    "marka": "Seat",
+    "model": "Leon%201.9%20TDI"
+  },
+  {
+    "nr": 1295,
+    "marka": "Seat",
+    "model": "Leon%202.0%20TDI"
+  },
+  {
+    "nr": 1296,
+    "marka": "Seat",
+    "model": "Leon%202.0%20TFSI"
+  },
+  {
+    "nr": 1297,
+    "marka": "Seat",
+    "model": "Leon%202.0%20TFSI%20Cupra"
+  },
+  {
+    "nr": 1298,
+    "marka": "Seat",
+    "model": "Leon%202.0%20TSI%20Cupra%20265"
+  },
+  {
+    "nr": 1299,
+    "marka": "Seat",
+    "model": "Leon%202.0%20TSI%20Cupra%20280"
+  },
+  {
+    "nr": 1300,
+    "marka": "Seat",
+    "model": "Toledo%20I%201.9%20TD"
+  },
+  {
+    "nr": 1301,
+    "marka": "Seat",
+    "model": "Toledo%20I%201.9%20TDI"
+  },
+  {
+    "nr": 1302,
+    "marka": "Seat",
+    "model": "Toledo%20II%201,8T"
+  },
+  {
+    "nr": 1303,
+    "marka": "Seat",
+    "model": "Toledo%20II%201.9%20TDI"
+  },
+  {
+    "nr": 1304,
+    "marka": "Seat",
+    "model": "Toledo%20III%201.9%20TDI"
+  },
+  {
+    "nr": 1305,
+    "marka": "Seat",
+    "model": "Toledo%20III%202.0%20TDI"
+  },
+  {
+    "nr": 1306,
+    "marka": "Seat",
+    "model": "Toledo%20III%202.0%20TFSI"
+  },
+  {
+    "nr": 1307,
+    "marka": "Subaru",
+    "model": "Forester"
+  },
+  {
+    "nr": 1308,
+    "marka": "Subaru",
+    "model": "Forester%202.0%20D"
+  },
+  {
+    "nr": 1309,
+    "marka": "Subaru",
+    "model": "Forester%20S-Turbo"
+  },
+  {
+    "nr": 1310,
+    "marka": "Subaru",
+    "model": "Impreza%202.0%20D"
+  },
+  {
+    "nr": 1311,
+    "marka": "Subaru",
+    "model": "Impreza%20GT%20555"
+  },
+  {
+    "nr": 1312,
+    "marka": "Subaru",
+    "model": "Impreza%20GT%20Turbo"
+  },
+  {
+    "nr": 1313,
+    "marka": "Subaru",
+    "model": "Impreza%20STI"
+  },
+  {
+    "nr": 1314,
+    "marka": "Subaru",
+    "model": "Impreza%20WRX%20STI"
+  },
+  {
+    "nr": 1315,
+    "marka": "Subaru",
+    "model": "Impreza%20WRX%20Turbo"
+  },
+  {
+    "nr": 1316,
+    "marka": "Subaru",
+    "model": "Impreza%20WRXR8"
+  },
+  {
+    "nr": 1317,
+    "marka": "Subaru",
+    "model": "Legacy"
+  },
+  {
+    "nr": 1318,
+    "marka": "Subaru",
+    "model": "Legacy%202.0%20D"
+  },
+  {
+    "nr": 1319,
+    "marka": "Subaru",
+    "model": "Legacy%20GT"
+  },
+  {
+    "nr": 1320,
+    "marka": "Subaru",
+    "model": "Legacy%20Turbo%20Super"
+  },
+  {
+    "nr": 1321,
+    "marka": "Subaru",
+    "model": "Outback%202.0%20D"
+  },
+  {
+    "nr": 1322,
+    "marka": "Subaru",
+    "model": "Sedan%20/%20RX%20Turbo"
+  },
+  {
+    "nr": 1323,
+    "marka": "Steyr",
+    "model": "Lkw"
+  },
+  {
+    "nr": 1324,
+    "marka": "Steyr",
+    "model": "Marine%202.1%20D"
+  },
+  {
+    "nr": 1325,
+    "marka": "Steyr",
+    "model": "Traktor"
+  },
+  {
+    "nr": 1326,
+    "marka": "Suzuki",
+    "model": "Baleno"
+  },
+  {
+    "nr": 1327,
+    "marka": "Suzuki",
+    "model": "Baleno%201,9%20TD"
+  },
+  {
+    "nr": 1328,
+    "marka": "Suzuki",
+    "model": "Baleno%201.4%20DDiS"
+  },
+  {
+    "nr": 1329,
+    "marka": "Suzuki",
+    "model": "Ignis%201.3%20DDiS"
+  },
+  {
+    "nr": 1330,
+    "marka": "Suzuki",
+    "model": "Jimny%201.5%20DDiS"
+  },
+  {
+    "nr": 1331,
+    "marka": "Suzuki",
+    "model": "Liana%201.4%20DDiS"
+  },
+  {
+    "nr": 1332,
+    "marka": "Suzuki",
+    "model": "Samurai%201,9%20TD"
+  },
+  {
+    "nr": 1333,
+    "marka": "Suzuki",
+    "model": "SX4%201.9%20DDiS"
+  },
+  {
+    "nr": 1334,
+    "marka": "Suzuki",
+    "model": "SX4%202.0%20DDiS"
+  },
+  {
+    "nr": 1335,
+    "marka": "Suzuki",
+    "model": "Vitara%201.9%20DDIS"
+  },
+  {
+    "nr": 1336,
+    "marka": "Suzuki",
+    "model": "Vitara%202,0%20TD"
+  },
+  {
+    "nr": 1337,
+    "marka": "Suzuki",
+    "model": "Vitara%20Grand"
+  },
+  {
+    "nr": 1338,
+    "marka": "Suzuki",
+    "model": "Vitara%20Grand%2016V%20HDI"
+  },
+  {
+    "nr": 1339,
+    "marka": "Suzuki",
+    "model": "Vitara%20Grand%202,0%20TD"
+  },
+  {
+    "nr": 1340,
+    "marka": "Suzuki",
+    "model": "Wagon%20R+%201.3%20DDiS"
+  },
+  {
+    "nr": 1341,
+    "marka": "Opel",
+    "model": "Agila%20A%201.3%20CDTI"
+  },
+  {
+    "nr": 1342,
+    "marka": "Opel",
+    "model": "Agila%20B%201.3%20CDTI"
+  },
+  {
+    "nr": 1343,
+    "marka": "Opel",
+    "model": "Antara%202.0%20CDTI"
+  },
+  {
+    "nr": 1344,
+    "marka": "Opel",
+    "model": "Astra%20F%201.7%20TD"
+  },
+  {
+    "nr": 1345,
+    "marka": "Opel",
+    "model": "Astra%20F%201.7%20TDS"
+  },
+  {
+    "nr": 1346,
+    "marka": "Opel",
+    "model": "Astra%20G%201.7%20CDTI"
+  },
+  {
+    "nr": 1347,
+    "marka": "Opel",
+    "model": "Astra%20G%201.7%20DTI"
+  },
+  {
+    "nr": 1348,
+    "marka": "Opel",
+    "model": "Astra%20G%201.7%20TD"
+  },
+  {
+    "nr": 1349,
+    "marka": "Opel",
+    "model": "Astra%20G%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1350,
+    "marka": "Opel",
+    "model": "Astra%20G%202.0%20DI"
+  },
+  {
+    "nr": 1351,
+    "marka": "Opel",
+    "model": "Astra%20G%202.0%20DTI"
+  },
+  {
+    "nr": 1352,
+    "marka": "Opel",
+    "model": "Astra%20G%202.2%20DTI"
+  },
+  {
+    "nr": 1353,
+    "marka": "Opel",
+    "model": "Astra%20H%201.3%20CDTi"
+  },
+  {
+    "nr": 1354,
+    "marka": "Opel",
+    "model": "Astra%20H%201.6%20Turbo"
+  },
+  {
+    "nr": 1355,
+    "marka": "Opel",
+    "model": "Astra%20H%201.7%20CDTI"
+  },
+  {
+    "nr": 1356,
+    "marka": "Opel",
+    "model": "Astra%20H%201.9%20CDTI"
+  },
+  {
+    "nr": 1357,
+    "marka": "Opel",
+    "model": "Astra%20H%202.0%20Turbo"
+  },
+  {
+    "nr": 1358,
+    "marka": "Opel",
+    "model": "Astra%20J%201.4%20Turbo%20ECOTEC"
+  },
+  {
+    "nr": 1359,
+    "marka": "Opel",
+    "model": "Astra%20J%201.7%20CDTI"
+  },
+  {
+    "nr": 1360,
+    "marka": "Opel",
+    "model": "Calibra%20A%202.0i%20Turbo%204X4"
+  },
+  {
+    "nr": 1361,
+    "marka": "Opel",
+    "model": "Campo%202.5%20D"
+  },
+  {
+    "nr": 1362,
+    "marka": "Opel",
+    "model": "Campo%203.1%20TD"
+  },
+  {
+    "nr": 1363,
+    "marka": "Opel",
+    "model": "Combo%20C%201.3%20CDTI"
+  },
+  {
+    "nr": 1364,
+    "marka": "Opel",
+    "model": "Combo%20C%201.7%20CDTI"
+  },
+  {
+    "nr": 1365,
+    "marka": "Opel",
+    "model": "Corsa%20A%201.5%20TD"
+  },
+  {
+    "nr": 1366,
+    "marka": "Opel",
+    "model": "Corsa%20B%201.5%20TD"
+  },
+  {
+    "nr": 1367,
+    "marka": "Opel",
+    "model": "Corsa%20C%201.3%20CDTI"
+  },
+  {
+    "nr": 1368,
+    "marka": "Opel",
+    "model": "Corsa%20C%201.7%20CDTI"
+  },
+  {
+    "nr": 1369,
+    "marka": "Opel",
+    "model": "Corsa%20C%201.7%20DI"
+  },
+  {
+    "nr": 1370,
+    "marka": "Opel",
+    "model": "Corsa%20D%201.3%20CDTI"
+  },
+  {
+    "nr": 1371,
+    "marka": "Opel",
+    "model": "Corsa%20D%201.3%20CDTI%20ecoFLEX"
+  },
+  {
+    "nr": 1372,
+    "marka": "Opel",
+    "model": "Corsa%20D%201.6%20Turbo"
+  },
+  {
+    "nr": 1373,
+    "marka": "Opel",
+    "model": "Corsa%20D%201.6%20VXR"
+  },
+  {
+    "nr": 1374,
+    "marka": "Opel",
+    "model": "Corsa%20D%201.7%20CDTI"
+  },
+  {
+    "nr": 1375,
+    "marka": "Opel",
+    "model": "Frontera%20A%202.3%20TD"
+  },
+  {
+    "nr": 1376,
+    "marka": "Opel",
+    "model": "Frontera%20A%202.5%20TDS"
+  },
+  {
+    "nr": 1377,
+    "marka": "Opel",
+    "model": "Frontera%20A%202.8%20TD"
+  },
+  {
+    "nr": 1378,
+    "marka": "Opel",
+    "model": "Frontera%20B%202.2%20DTI"
+  },
+  {
+    "nr": 1379,
+    "marka": "Opel",
+    "model": "GT"
+  },
+  {
+    "nr": 1380,
+    "marka": "Opel",
+    "model": "Insignia%201.6%20Turbo"
+  },
+  {
+    "nr": 1381,
+    "marka": "Opel",
+    "model": "Insignia%202.0%20BiTurbo%20CDTI"
+  },
+  {
+    "nr": 1382,
+    "marka": "Opel",
+    "model": "Insignia%202.0%20CDTI"
+  },
+  {
+    "nr": 1383,
+    "marka": "Opel",
+    "model": "Insignia%202.0%20Turbo"
+  },
+  {
+    "nr": 1384,
+    "marka": "Opel",
+    "model": "Insignia%202.8%20V6%20Turbo"
+  },
+  {
+    "nr": 1385,
+    "marka": "Opel",
+    "model": "Kadett%20E%201.5%20TD"
+  },
+  {
+    "nr": 1386,
+    "marka": "Opel",
+    "model": "Meriva%20A%201.3%20CDTI"
+  },
+  {
+    "nr": 1387,
+    "marka": "Opel",
+    "model": "Meriva%20A%201.6%20Turbo%20OPC"
+  },
+  {
+    "nr": 1388,
+    "marka": "Opel",
+    "model": "Meriva%20A%201.7%20CDTI"
+  },
+  {
+    "nr": 1389,
+    "marka": "Opel",
+    "model": "Meriva%20A%201.7%20DTI"
+  },
+  {
+    "nr": 1390,
+    "marka": "Opel",
+    "model": "Meriva%20B%201.4%20ECOTEC"
+  },
+  {
+    "nr": 1391,
+    "marka": "Opel",
+    "model": "Monterey%20A%203.1%20TD"
+  },
+  {
+    "nr": 1392,
+    "marka": "Opel",
+    "model": "Monterey%20B%203.0%20DTI"
+  },
+  {
+    "nr": 1393,
+    "marka": "Opel",
+    "model": "Movano%20A%201.9%20DTI"
+  },
+  {
+    "nr": 1394,
+    "marka": "Opel",
+    "model": "Movano%20A%202.2%20DTI"
+  },
+  {
+    "nr": 1395,
+    "marka": "Opel",
+    "model": "Movano%20A%202.5%20CDTI"
+  },
+  {
+    "nr": 1396,
+    "marka": "Opel",
+    "model": "Movano%20A%202.8%20DTI"
+  },
+  {
+    "nr": 1397,
+    "marka": "Opel",
+    "model": "Movano%20A%203.0%20CDTI"
+  },
+  {
+    "nr": 1398,
+    "marka": "Opel",
+    "model": "Omega%20A%202.3%20TD"
+  },
+  {
+    "nr": 1399,
+    "marka": "Opel",
+    "model": "Omega%20A%203.6%2024V"
+  },
+  {
+    "nr": 1400,
+    "marka": "Opel",
+    "model": "Omega%20B%202.0%20DTI"
+  },
+  {
+    "nr": 1401,
+    "marka": "Opel",
+    "model": "Omega%20B%202.2%20DTI"
+  },
+  {
+    "nr": 1402,
+    "marka": "Opel",
+    "model": "Omega%20B%202.5%20DTI"
+  },
+  {
+    "nr": 1403,
+    "marka": "Opel",
+    "model": "Omega%20B%202.5%20TD"
+  },
+  {
+    "nr": 1404,
+    "marka": "Opel",
+    "model": "Rekord%20E%202.3%20TD"
+  },
+  {
+    "nr": 1405,
+    "marka": "Opel",
+    "model": "Senator%20A%202.3%20TD"
+  },
+  {
+    "nr": 1406,
+    "marka": "Opel",
+    "model": "Signum%201.9%20CDTI"
+  },
+  {
+    "nr": 1407,
+    "marka": "Opel",
+    "model": "Signum%202.0%20DTI"
+  },
+  {
+    "nr": 1408,
+    "marka": "Opel",
+    "model": "Signum%202.0%20Turbo"
+  },
+  {
+    "nr": 1409,
+    "marka": "Opel",
+    "model": "Signum%202.2%20DTI"
+  },
+  {
+    "nr": 1410,
+    "marka": "Opel",
+    "model": "Signum%202.8%20V6%20Turbo"
+  },
+  {
+    "nr": 1411,
+    "marka": "Opel",
+    "model": "Signum%203.0%20CDTI"
+  },
+  {
+    "nr": 1412,
+    "marka": "Opel",
+    "model": "Sintra%202.2%20DTI"
+  },
+  {
+    "nr": 1413,
+    "marka": "Opel",
+    "model": "Speedster"
+  },
+  {
+    "nr": 1414,
+    "marka": "Opel",
+    "model": "Tigra%20B%201.3%20CDTI"
+  },
+  {
+    "nr": 1415,
+    "marka": "Opel",
+    "model": "Vectra%20A%201.7%20TD"
+  },
+  {
+    "nr": 1416,
+    "marka": "Opel",
+    "model": "Vectra%20A%202.0i%20Turbo"
+  },
+  {
+    "nr": 1417,
+    "marka": "Opel",
+    "model": "Vectra%20B%201.7%20TD"
+  },
+  {
+    "nr": 1418,
+    "marka": "Opel",
+    "model": "Vectra%20B%202.0%20DI"
+  },
+  {
+    "nr": 1419,
+    "marka": "Opel",
+    "model": "Vectra%20B%202.0%20DTI"
+  },
+  {
+    "nr": 1420,
+    "marka": "Opel",
+    "model": "Vectra%20B%202.2%20DTI"
+  },
+  {
+    "nr": 1421,
+    "marka": "Opel",
+    "model": "Vectra%20C%201.9%20CDTI"
+  },
+  {
+    "nr": 1422,
+    "marka": "Opel",
+    "model": "Vectra%20C%202.0%20DTI"
+  },
+  {
+    "nr": 1423,
+    "marka": "Opel",
+    "model": "Vectra%20C%202.0%20Turbo"
+  },
+  {
+    "nr": 1424,
+    "marka": "Opel",
+    "model": "Vectra%20C%202.2%20DTI"
+  },
+  {
+    "nr": 1425,
+    "marka": "Opel",
+    "model": "Vectra%20C%202.8%20V6%20Turbo"
+  },
+  {
+    "nr": 1426,
+    "marka": "Opel",
+    "model": "Vectra%20C%202.8%20V6%20Turbo%20OPC"
+  },
+  {
+    "nr": 1427,
+    "marka": "Opel",
+    "model": "Vectra%20C%203.0%20V6%20CDTI"
+  },
+  {
+    "nr": 1428,
+    "marka": "Opel",
+    "model": "Vivaro%201.9%20TDI"
+  },
+  {
+    "nr": 1429,
+    "marka": "Opel",
+    "model": "Vivaro%202.0%20CDTI"
+  },
+  {
+    "nr": 1430,
+    "marka": "Opel",
+    "model": "Vivaro%202.5%20CDTI"
+  },
+  {
+    "nr": 1431,
+    "marka": "Opel",
+    "model": "Vivaro%202.5%20CDTI/DTI"
+  },
+  {
+    "nr": 1432,
+    "marka": "Opel",
+    "model": "Zafira%20A%202.0%20DI"
+  },
+  {
+    "nr": 1433,
+    "marka": "Opel",
+    "model": "Zafira%20A%202.0%20DTI"
+  },
+  {
+    "nr": 1434,
+    "marka": "Opel",
+    "model": "Zafira%20A%202.0%20Turbo%20OPC"
+  },
+  {
+    "nr": 1435,
+    "marka": "Opel",
+    "model": "Zafira%20A%202.2%20DTI"
+  },
+  {
+    "nr": 1436,
+    "marka": "Opel",
+    "model": "Zafira%20B%201.7%20CDTI"
+  },
+  {
+    "nr": 1437,
+    "marka": "Opel",
+    "model": "Zafira%20B%201.9%20CDTI"
+  },
+  {
+    "nr": 1438,
+    "marka": "Opel",
+    "model": "Zafira%20B%202.0%20Turbo"
+  },
+  {
+    "nr": 1439,
+    "marka": "Opel",
+    "model": "Zafira%20B%202.0%20Turbo%20OPC"
+  },
+  {
+    "nr": 1440,
+    "marka": "Valtra",
+    "model": "Forstfahrzeug"
+  },
+  {
+    "nr": 1441,
+    "marka": "Valtra",
+    "model": "Landwirtschaftsfahrzeug"
+  },
+  {
+    "nr": 1442,
+    "marka": "Valtra",
+    "model": "Traktor"
+  },
+  {
+    "nr": 1443,
+    "marka": "Valtra",
+    "model": "Traktor%20A.138/148%20Turbo"
+  },
+  {
+    "nr": 1444,
+    "marka": "Valtra",
+    "model": "Traktor%20A.1380S/1680S/1885S"
+  },
+  {
+    "nr": 1445,
+    "marka": "Valtra",
+    "model": "Traktor%20A.1580/1780%20985"
+  },
+  {
+    "nr": 1446,
+    "marka": "Valtra",
+    "model": "Traktor%20A.1780%204X4%20Turbo"
+  },
+  {
+    "nr": 1447,
+    "marka": "Valtra",
+    "model": "Traktor%20A.885S/985S"
+  },
+  {
+    "nr": 1448,
+    "marka": "Valtra",
+    "model": "Traktor%20BF75/%20BL77/%20BL88/%20700"
+  },
+  {
+    "nr": 1449,
+    "marka": "Valtra",
+    "model": "Traktor%20Valmet"
+  },
+  {
+    "nr": 1450,
+    "marka": "Renault",
+    "model": "Avantime%202.2%20dCi"
+  },
+  {
+    "nr": 1451,
+    "marka": "Renault",
+    "model": "Clio%20II%201.5%20dCi"
+  },
+  {
+    "nr": 1452,
+    "marka": "Renault",
+    "model": "Clio%20II%201.9%20dTi"
+  },
+  {
+    "nr": 1453,
+    "marka": "Renault",
+    "model": "Clio%20III%201.2%2016V%20TCE"
+  },
+  {
+    "nr": 1454,
+    "marka": "Renault",
+    "model": "Clio%20III%201.5%20dCi"
+  },
+  {
+    "nr": 1455,
+    "marka": "Renault",
+    "model": "Clio%20IV%201.6%20Turbo%20RS"
+  },
+  {
+    "nr": 1456,
+    "marka": "Renault",
+    "model": "Espace%20I%202,1%20TD"
+  },
+  {
+    "nr": 1457,
+    "marka": "Renault",
+    "model": "Espace%20II%202,1%20TD"
+  },
+  {
+    "nr": 1458,
+    "marka": "Renault",
+    "model": "Espace%20III%201,9%20dTi"
+  },
+  {
+    "nr": 1459,
+    "marka": "Renault",
+    "model": "Espace%20III%201.9%20dCi"
+  },
+  {
+    "nr": 1460,
+    "marka": "Renault",
+    "model": "Espace%20III%202,2%20TD"
+  },
+  {
+    "nr": 1461,
+    "marka": "Renault",
+    "model": "Espace%20III%202.0%20Turbo"
+  },
+  {
+    "nr": 1462,
+    "marka": "Renault",
+    "model": "Espace%20III%202.2%20dCi"
+  },
+  {
+    "nr": 1463,
+    "marka": "Renault",
+    "model": "Espace%20IV%201.9%20dCi"
+  },
+  {
+    "nr": 1464,
+    "marka": "Renault",
+    "model": "Espace%20IV%202.0%20dCi"
+  },
+  {
+    "nr": 1465,
+    "marka": "Renault",
+    "model": "Espace%20IV%202.2%20dCi"
+  },
+  {
+    "nr": 1466,
+    "marka": "Renault",
+    "model": "Espace%20IV%203.0%20dCi"
+  },
+  {
+    "nr": 1467,
+    "marka": "Renault",
+    "model": "Kangoo"
+  },
+  {
+    "nr": 1468,
+    "marka": "Renault",
+    "model": "Kangoo%20I%201.5%20dCi"
+  },
+  {
+    "nr": 1469,
+    "marka": "Renault",
+    "model": "Kangoo%20I%201.9%20dCi"
+  },
+  {
+    "nr": 1470,
+    "marka": "Renault",
+    "model": "Kangoo%20I%201.9%20dTi"
+  },
+  {
+    "nr": 1471,
+    "marka": "Renault",
+    "model": "Kangoo%20II%201.5%20dCi"
+  },
+  {
+    "nr": 1472,
+    "marka": "Renault",
+    "model": "Koleos%202.0%20dci"
+  },
+  {
+    "nr": 1473,
+    "marka": "Renault",
+    "model": "Laguna%20%20II%202.0%20dCi"
+  },
+  {
+    "nr": 1474,
+    "marka": "Renault",
+    "model": "Laguna%20I%201.9%20dTi"
+  },
+  {
+    "nr": 1475,
+    "marka": "Renault",
+    "model": "Laguna%20I%202.2%20dT"
+  },
+  {
+    "nr": 1476,
+    "marka": "Renault",
+    "model": "Laguna%20II%201.9%20dCi"
+  },
+  {
+    "nr": 1477,
+    "marka": "Renault",
+    "model": "Laguna%20II%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1478,
+    "marka": "Renault",
+    "model": "Laguna%20II%202.0%20dCi"
+  },
+  {
+    "nr": 1479,
+    "marka": "Renault",
+    "model": "Laguna%20II%202.2%20dCi"
+  },
+  {
+    "nr": 1480,
+    "marka": "Renault",
+    "model": "Laguna%20III%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1481,
+    "marka": "Renault",
+    "model": "Laguna%20III%202.0%20dCi"
+  },
+  {
+    "nr": 1482,
+    "marka": "Renault",
+    "model": "Mascott"
+  },
+  {
+    "nr": 1483,
+    "marka": "Renault",
+    "model": "Master%20%20II%201.9%20dTi"
+  },
+  {
+    "nr": 1484,
+    "marka": "Renault",
+    "model": "Master%20I%202.5%20TD"
+  },
+  {
+    "nr": 1485,
+    "marka": "Renault",
+    "model": "Master%20II%201.9%20dCi"
+  },
+  {
+    "nr": 1486,
+    "marka": "Renault",
+    "model": "Master%20II%202.2%20dCi"
+  },
+  {
+    "nr": 1487,
+    "marka": "Renault",
+    "model": "Master%20II%202.5%20dCi"
+  },
+  {
+    "nr": 1488,
+    "marka": "Renault",
+    "model": "Master%20II%202.8%20TD"
+  },
+  {
+    "nr": 1489,
+    "marka": "Renault",
+    "model": "Master%20II%203.0%20dCi%20140"
+  },
+  {
+    "nr": 1490,
+    "marka": "Renault",
+    "model": "Master%20III%202.3%20dCi%20125"
+  },
+  {
+    "nr": 1491,
+    "marka": "Renault",
+    "model": "Maxity"
+  },
+  {
+    "nr": 1492,
+    "marka": "Renault",
+    "model": "Megane%20I%201.9%20dCi"
+  },
+  {
+    "nr": 1493,
+    "marka": "Renault",
+    "model": "Megane%20I%201.9%20dT"
+  },
+  {
+    "nr": 1494,
+    "marka": "Renault",
+    "model": "Megane%20I%201.9%20dTi"
+  },
+  {
+    "nr": 1495,
+    "marka": "Renault",
+    "model": "Megane%20II%201.5%20dCi"
+  },
+  {
+    "nr": 1496,
+    "marka": "Renault",
+    "model": "Megane%20II%201.9%20dCi"
+  },
+  {
+    "nr": 1497,
+    "marka": "Renault",
+    "model": "Megane%20II%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1498,
+    "marka": "Renault",
+    "model": "Megane%20II%202.0%20dCi"
+  },
+  {
+    "nr": 1499,
+    "marka": "Renault",
+    "model": "Megane%20III%201.4%20TCe%20130"
+  },
+  {
+    "nr": 1500,
+    "marka": "Renault",
+    "model": "Megane%20III%201.5%20DCI"
+  },
+  {
+    "nr": 1501,
+    "marka": "Renault",
+    "model": "Megane%20III%201.6%20dCi"
+  },
+  {
+    "nr": 1502,
+    "marka": "Renault",
+    "model": "Megane%20III%201.9%20dCi"
+  },
+  {
+    "nr": 1503,
+    "marka": "Renault",
+    "model": "Megane%20III%202.0%20dCi"
+  },
+  {
+    "nr": 1504,
+    "marka": "Renault",
+    "model": "Messenger%20B110"
+  },
+  {
+    "nr": 1505,
+    "marka": "Renault",
+    "model": "Messenger%20B120"
+  },
+  {
+    "nr": 1506,
+    "marka": "Renault",
+    "model": "Modus%201.5%20dCi"
+  },
+  {
+    "nr": 1507,
+    "marka": "Renault",
+    "model": "Primastar%20dCi"
+  },
+  {
+    "nr": 1508,
+    "marka": "Renault",
+    "model": "R%2011"
+  },
+  {
+    "nr": 1509,
+    "marka": "Renault",
+    "model": "R%2011%20Turbo"
+  },
+  {
+    "nr": 1510,
+    "marka": "Renault",
+    "model": "R%2019%20TD"
+  },
+  {
+    "nr": 1511,
+    "marka": "Renault",
+    "model": "R%2021"
+  },
+  {
+    "nr": 1512,
+    "marka": "Renault",
+    "model": "R%2021%20Nevada%20TD%20(K48)"
+  },
+  {
+    "nr": 1513,
+    "marka": "Renault",
+    "model": "R%2021%20TD"
+  },
+  {
+    "nr": 1514,
+    "marka": "Renault",
+    "model": "R%2025%20TD"
+  },
+  {
+    "nr": 1515,
+    "marka": "Renault",
+    "model": "R%2025%20V6%20Turbo%20Kat"
+  },
+  {
+    "nr": 1516,
+    "marka": "Renault",
+    "model": "R%205%20GT%20Turbo"
+  },
+  {
+    "nr": 1517,
+    "marka": "Renault",
+    "model": "Safrane%20Biturbo"
+  },
+  {
+    "nr": 1518,
+    "marka": "Renault",
+    "model": "Safrane%20Diesel"
+  },
+  {
+    "nr": 1519,
+    "marka": "Renault",
+    "model": "Safrane%20TD"
+  },
+  {
+    "nr": 1520,
+    "marka": "Renault",
+    "model": "Scenic%20%20II%201.5%20dCi"
+  },
+  {
+    "nr": 1521,
+    "marka": "Renault",
+    "model": "Scenic%20I%201.9%20dCi"
+  },
+  {
+    "nr": 1522,
+    "marka": "Renault",
+    "model": "Scenic%20I%201.9%20dti"
+  },
+  {
+    "nr": 1523,
+    "marka": "Renault",
+    "model": "Scenic%20II%201.5%20dCi"
+  },
+  {
+    "nr": 1524,
+    "marka": "Renault",
+    "model": "Scenic%20II%201.9%20dCi"
+  },
+  {
+    "nr": 1525,
+    "marka": "Renault",
+    "model": "Scenic%20II%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1526,
+    "marka": "Renault",
+    "model": "Scenic%20II%202.0%20dCi"
+  },
+  {
+    "nr": 1527,
+    "marka": "Renault",
+    "model": "Scenic%20III%201.6%20dCi"
+  },
+  {
+    "nr": 1528,
+    "marka": "Renault",
+    "model": "Scenic%20III%201.9%20dCi"
+  },
+  {
+    "nr": 1529,
+    "marka": "Renault",
+    "model": "Sofim%20Van%20DI%20D"
+  },
+  {
+    "nr": 1530,
+    "marka": "Renault",
+    "model": "Trafic%20II%201.9%20dCi"
+  },
+  {
+    "nr": 1531,
+    "marka": "Renault",
+    "model": "Trafic%20II%202.0%20dCi"
+  },
+  {
+    "nr": 1532,
+    "marka": "Renault",
+    "model": "Trafic%20II%202.2%20dCi"
+  },
+  {
+    "nr": 1533,
+    "marka": "Renault",
+    "model": "Trafic%20II%202.5%20dCI"
+  },
+  {
+    "nr": 1534,
+    "marka": "Renault",
+    "model": "Twingo%20II%201.2%2016V%20TCE"
+  },
+  {
+    "nr": 1535,
+    "marka": "Renault",
+    "model": "Twingo%20II%201.5%20dCi"
+  },
+  {
+    "nr": 1536,
+    "marka": "Renault",
+    "model": "Vel%20Satis%202.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1537,
+    "marka": "Renault",
+    "model": "Vel%20Satis%202.0%20dCi"
+  },
+  {
+    "nr": 1538,
+    "marka": "Renault",
+    "model": "Vel%20Satis%202.2%20dCi"
+  },
+  {
+    "nr": 1539,
+    "marka": "Renault",
+    "model": "Vel%20Satis%203.0%20dCi"
+  },
+  {
+    "nr": 1540,
+    "marka": "Volvo-Penta",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 1541,
+    "marka": "Volvo-Penta",
+    "model": "Schiff"
+  },
+  {
+    "nr": 1542,
+    "marka": "Volvo-Penta",
+    "model": "Schiff%202.4%20D"
+  },
+  {
+    "nr": 1543,
+    "marka": "VM",
+    "model": "800"
+  },
+  {
+    "nr": 1544,
+    "marka": "VM",
+    "model": "Diverse"
+  },
+  {
+    "nr": 1545,
+    "marka": "VM",
+    "model": "Diverse%20Multicar"
+  },
+  {
+    "nr": 1546,
+    "marka": "VM",
+    "model": "Duro"
+  },
+  {
+    "nr": 1547,
+    "marka": "VM",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 1548,
+    "marka": "VM",
+    "model": "Marine"
+  },
+  {
+    "nr": 1549,
+    "marka": "Yanmar",
+    "model": "Diverse"
+  },
+  {
+    "nr": 1550,
+    "marka": "Yanmar",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 1551,
+    "marka": "Yanmar",
+    "model": "Marine"
+  },
+  {
+    "nr": 1552,
+    "marka": "Zetor",
+    "model": "Traktor"
+  },
+  {
+    "nr": 1553,
+    "marka": "Peugeot",
+    "model": "1007%201.4%20HDi"
+  },
+  {
+    "nr": 1554,
+    "marka": "Peugeot",
+    "model": "1007%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 1555,
+    "marka": "Peugeot",
+    "model": "107%201.4%20HDi"
+  },
+  {
+    "nr": 1556,
+    "marka": "Peugeot",
+    "model": "205%20/%20309%20TD"
+  },
+  {
+    "nr": 1557,
+    "marka": "Peugeot",
+    "model": "206%201.4%20HDi"
+  },
+  {
+    "nr": 1558,
+    "marka": "Peugeot",
+    "model": "206%201.6%20HDi"
+  },
+  {
+    "nr": 1559,
+    "marka": "Peugeot",
+    "model": "206%202.0%20HDi"
+  },
+  {
+    "nr": 1560,
+    "marka": "Peugeot",
+    "model": "207%201.4%20HDi"
+  },
+  {
+    "nr": 1561,
+    "marka": "Peugeot",
+    "model": "207%201.6%20HDi"
+  },
+  {
+    "nr": 1562,
+    "marka": "Peugeot",
+    "model": "207%201.6%20THP%20150"
+  },
+  {
+    "nr": 1563,
+    "marka": "Peugeot",
+    "model": "207%201.6%20THP%20175"
+  },
+  {
+    "nr": 1564,
+    "marka": "Peugeot",
+    "model": "3008%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 1565,
+    "marka": "Peugeot",
+    "model": "3008%201.6%20THP%20150"
+  },
+  {
+    "nr": 1566,
+    "marka": "Peugeot",
+    "model": "3008%201.6%20THP%20155"
+  },
+  {
+    "nr": 1567,
+    "marka": "Peugeot",
+    "model": "3008%202.0%20HDi%20FAP"
+  },
+  {
+    "nr": 1568,
+    "marka": "Peugeot",
+    "model": "306%201,9%20DT/SRDT"
+  },
+  {
+    "nr": 1569,
+    "marka": "Peugeot",
+    "model": "306%201.9%20DT"
+  },
+  {
+    "nr": 1570,
+    "marka": "Peugeot",
+    "model": "306%202.0%20HDi"
+  },
+  {
+    "nr": 1571,
+    "marka": "Peugeot",
+    "model": "307%201.4%20HDi"
+  },
+  {
+    "nr": 1572,
+    "marka": "Peugeot",
+    "model": "307%201.6%20HDi"
+  },
+  {
+    "nr": 1573,
+    "marka": "Peugeot",
+    "model": "307%202.0%20HDi"
+  },
+  {
+    "nr": 1574,
+    "marka": "Peugeot",
+    "model": "308%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 1575,
+    "marka": "Peugeot",
+    "model": "308%201.6%20THP%20150"
+  },
+  {
+    "nr": 1576,
+    "marka": "Peugeot",
+    "model": "308%201.6%20THP%20175"
+  },
+  {
+    "nr": 1577,
+    "marka": "Peugeot",
+    "model": "308%202.0%20HDi%20FAP"
+  },
+  {
+    "nr": 1578,
+    "marka": "Peugeot",
+    "model": "4007%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 1579,
+    "marka": "Peugeot",
+    "model": "4008%201.6%20HDI%20115"
+  },
+  {
+    "nr": 1580,
+    "marka": "Peugeot",
+    "model": "4008%201.8%20HDI%20150"
+  },
+  {
+    "nr": 1581,
+    "marka": "Peugeot",
+    "model": "405%201%201.9%20TRD"
+  },
+  {
+    "nr": 1582,
+    "marka": "Peugeot",
+    "model": "405%20I%201.8%20TD"
+  },
+  {
+    "nr": 1583,
+    "marka": "Peugeot",
+    "model": "405%20I%201.8%20TD%20/%20TRD"
+  },
+  {
+    "nr": 1584,
+    "marka": "Peugeot",
+    "model": "405%20II%201.9%20TD"
+  },
+  {
+    "nr": 1585,
+    "marka": "Peugeot",
+    "model": "405%20II%202,0%20T"
+  },
+  {
+    "nr": 1586,
+    "marka": "Peugeot",
+    "model": "406%201.9%20TD"
+  },
+  {
+    "nr": 1587,
+    "marka": "Peugeot",
+    "model": "406%202.0%20HDI"
+  },
+  {
+    "nr": 1588,
+    "marka": "Peugeot",
+    "model": "406%202.0%20Turbo"
+  },
+  {
+    "nr": 1589,
+    "marka": "Peugeot",
+    "model": "406%202.1%20TD"
+  },
+  {
+    "nr": 1590,
+    "marka": "Peugeot",
+    "model": "406%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 1591,
+    "marka": "Peugeot",
+    "model": "407%201.6%20HDI"
+  },
+  {
+    "nr": 1592,
+    "marka": "Peugeot",
+    "model": "407%202.0%20HDi"
+  },
+  {
+    "nr": 1593,
+    "marka": "Peugeot",
+    "model": "407%202.0%20HDi%20FAP"
+  },
+  {
+    "nr": 1594,
+    "marka": "Peugeot",
+    "model": "407%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 1595,
+    "marka": "Peugeot",
+    "model": "407%202.7%20V6%20HDi%20FAP"
+  },
+  {
+    "nr": 1596,
+    "marka": "Peugeot",
+    "model": "407%203.0%20V6%20HDi%20FAP"
+  },
+  {
+    "nr": 1597,
+    "marka": "Peugeot",
+    "model": "5008%201.6%20HDi%20FAP%20110"
+  },
+  {
+    "nr": 1598,
+    "marka": "Peugeot",
+    "model": "5008%201.6%20THP%20155"
+  },
+  {
+    "nr": 1599,
+    "marka": "Peugeot",
+    "model": "5008%202.0%20HDi%20FAP%20150"
+  },
+  {
+    "nr": 1600,
+    "marka": "Peugeot",
+    "model": "505%202,2%20GTI%20(551A/D)"
+  },
+  {
+    "nr": 1601,
+    "marka": "Peugeot",
+    "model": "505%202,2%20Turbo%20Injection%20(551A)"
+  },
+  {
+    "nr": 1602,
+    "marka": "Peugeot",
+    "model": "505%202,3%20Turbo%20Diesel%20(551A)"
+  },
+  {
+    "nr": 1603,
+    "marka": "Peugeot",
+    "model": "505%202,5%20Turbo%20Diesel%20(551A/D)"
+  },
+  {
+    "nr": 1604,
+    "marka": "Peugeot",
+    "model": "508%201.6%20HDi%20115"
+  },
+  {
+    "nr": 1605,
+    "marka": "Peugeot",
+    "model": "508%201.6%20THP%20155"
+  },
+  {
+    "nr": 1606,
+    "marka": "Peugeot",
+    "model": "508%202.0%20HDi%20140"
+  },
+  {
+    "nr": 1607,
+    "marka": "Peugeot",
+    "model": "508%202.0%20HDi%20180"
+  },
+  {
+    "nr": 1608,
+    "marka": "Peugeot",
+    "model": "508%202.0%20HDi%20FAP%20160"
+  },
+  {
+    "nr": 1609,
+    "marka": "Peugeot",
+    "model": "508%202.2%20HDi%20FAP%20205"
+  },
+  {
+    "nr": 1610,
+    "marka": "Peugeot",
+    "model": "604%202.3%20TD"
+  },
+  {
+    "nr": 1611,
+    "marka": "Peugeot",
+    "model": "604%202.5%20TD"
+  },
+  {
+    "nr": 1612,
+    "marka": "Peugeot",
+    "model": "605%202.0%20Turbo"
+  },
+  {
+    "nr": 1613,
+    "marka": "Peugeot",
+    "model": "605%202.1%20TD"
+  },
+  {
+    "nr": 1614,
+    "marka": "Peugeot",
+    "model": "605%202.1%20TD%2012V"
+  },
+  {
+    "nr": 1615,
+    "marka": "Peugeot",
+    "model": "605%202.5%20TD"
+  },
+  {
+    "nr": 1616,
+    "marka": "Peugeot",
+    "model": "607%202.0%20HDi"
+  },
+  {
+    "nr": 1617,
+    "marka": "Peugeot",
+    "model": "607%202.0%20HDi%20FAP"
+  },
+  {
+    "nr": 1618,
+    "marka": "Peugeot",
+    "model": "607%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 1619,
+    "marka": "Peugeot",
+    "model": "607%202.7%20V6%20HDi%20FAP"
+  },
+  {
+    "nr": 1620,
+    "marka": "Peugeot",
+    "model": "806%201.9%20TD"
+  },
+  {
+    "nr": 1621,
+    "marka": "Peugeot",
+    "model": "806%202.0%20HDi"
+  },
+  {
+    "nr": 1622,
+    "marka": "Peugeot",
+    "model": "806%202.0%20Turbo"
+  },
+  {
+    "nr": 1623,
+    "marka": "Peugeot",
+    "model": "806%202.1%20TD"
+  },
+  {
+    "nr": 1624,
+    "marka": "Peugeot",
+    "model": "806%202.1%20TD%2012V"
+  },
+  {
+    "nr": 1625,
+    "marka": "Peugeot",
+    "model": "807%202.0%20HDi"
+  },
+  {
+    "nr": 1626,
+    "marka": "Peugeot",
+    "model": "807%202.2%20HDi"
+  },
+  {
+    "nr": 1627,
+    "marka": "Peugeot",
+    "model": "807%202.2%20HDi%20FAP"
+  },
+  {
+    "nr": 1628,
+    "marka": "Peugeot",
+    "model": "Bipper%201.3%20HDi%2075"
+  },
+  {
+    "nr": 1629,
+    "marka": "Peugeot",
+    "model": "Bipper%201.4%20HDi%2070"
+  },
+  {
+    "nr": 1630,
+    "marka": "Peugeot",
+    "model": "Boxer%20I%201.9%20TD"
+  },
+  {
+    "nr": 1631,
+    "marka": "Peugeot",
+    "model": "Boxer%20I%202.0%20TD"
+  },
+  {
+    "nr": 1632,
+    "marka": "Peugeot",
+    "model": "Boxer%20I%202.4%20TD"
+  },
+  {
+    "nr": 1633,
+    "marka": "Peugeot",
+    "model": "Boxer%20I%202.4%20TDI"
+  },
+  {
+    "nr": 1634,
+    "marka": "Peugeot",
+    "model": "Boxer%20II%202.0%20TD"
+  },
+  {
+    "nr": 1635,
+    "marka": "Peugeot",
+    "model": "Boxer%20II%202.2%20TD"
+  },
+  {
+    "nr": 1636,
+    "marka": "Peugeot",
+    "model": "Boxer%20II%202.8%20HDI"
+  },
+  {
+    "nr": 1637,
+    "marka": "Peugeot",
+    "model": "Boxer%20III%202.2%20HDI"
+  },
+  {
+    "nr": 1638,
+    "marka": "Peugeot",
+    "model": "Boxer%20III%203.0%20HDI"
+  },
+  {
+    "nr": 1639,
+    "marka": "Peugeot",
+    "model": "Expert%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 1640,
+    "marka": "Peugeot",
+    "model": "Expert%201.9%20TD"
+  },
+  {
+    "nr": 1641,
+    "marka": "Peugeot",
+    "model": "Expert%202.0%20HDi"
+  },
+  {
+    "nr": 1642,
+    "marka": "Peugeot",
+    "model": "J5%201.9%20TD"
+  },
+  {
+    "nr": 1643,
+    "marka": "Peugeot",
+    "model": "J5%202.5%20TD"
+  },
+  {
+    "nr": 1644,
+    "marka": "Peugeot",
+    "model": "Partner%201.6%20HDi"
+  },
+  {
+    "nr": 1645,
+    "marka": "Peugeot",
+    "model": "Partner%201.6%20HDi%20FAP"
+  },
+  {
+    "nr": 1646,
+    "marka": "Peugeot",
+    "model": "Partner%202.0%20HDi"
+  },
+  {
+    "nr": 1647,
+    "marka": "Peugeot",
+    "model": "RCZ%201.6%20THP%2016v%20156"
+  },
+  {
+    "nr": 1648,
+    "marka": "Peugeot",
+    "model": "RCZ%201.6%20THP%2016v%20200"
+  },
+  {
+    "nr": 1649,
+    "marka": "Peugeot",
+    "model": "RCZ%201.6%20THP%2016v%20270"
+  },
+  {
+    "nr": 1650,
+    "marka": "Peugeot",
+    "model": "RCZ%202.0%20HDi%20163%20FAP"
+  },
+  {
+    "nr": 1651,
+    "marka": "Volvo-LKW",
+    "model": "89M%20C%2010M%20F10%20THD100E%20TD100G,GA"
+  },
+  {
+    "nr": 1652,
+    "marka": "Volvo-LKW",
+    "model": "B10M,%20B10B%20THD102KD"
+  },
+  {
+    "nr": 1653,
+    "marka": "Volvo-LKW",
+    "model": "B6"
+  },
+  {
+    "nr": 1654,
+    "marka": "Volvo-LKW",
+    "model": "Baumaschine%20EC360%20/%20EC460"
+  },
+  {
+    "nr": 1655,
+    "marka": "Volvo-LKW",
+    "model": "Baumaschine%20L120C"
+  },
+  {
+    "nr": 1656,
+    "marka": "Volvo-LKW",
+    "model": "Baumaschine%20L150C"
+  },
+  {
+    "nr": 1657,
+    "marka": "Volvo-LKW",
+    "model": "D9"
+  },
+  {
+    "nr": 1658,
+    "marka": "Volvo-LKW",
+    "model": "Diverse"
+  },
+  {
+    "nr": 1659,
+    "marka": "Volvo-LKW",
+    "model": "F10"
+  },
+  {
+    "nr": 1660,
+    "marka": "Volvo-LKW",
+    "model": "F10,%20FL10"
+  },
+  {
+    "nr": 1661,
+    "marka": "Volvo-LKW",
+    "model": "F12"
+  },
+  {
+    "nr": 1662,
+    "marka": "Volvo-LKW",
+    "model": "F12,%20TD121G"
+  },
+  {
+    "nr": 1663,
+    "marka": "Volvo-LKW",
+    "model": "F16"
+  },
+  {
+    "nr": 1664,
+    "marka": "Volvo-LKW",
+    "model": "F6"
+  },
+  {
+    "nr": 1665,
+    "marka": "Volvo-LKW",
+    "model": "F6,%20S"
+  },
+  {
+    "nr": 1666,
+    "marka": "Volvo-LKW",
+    "model": "F7%20B55"
+  },
+  {
+    "nr": 1667,
+    "marka": "Volvo-LKW",
+    "model": "FH12,%20D12A"
+  },
+  {
+    "nr": 1668,
+    "marka": "Volvo-LKW",
+    "model": "FH16"
+  },
+  {
+    "nr": 1669,
+    "marka": "Volvo-LKW",
+    "model": "FL10"
+  },
+  {
+    "nr": 1670,
+    "marka": "Volvo-LKW",
+    "model": "FL10,%20F10"
+  },
+  {
+    "nr": 1671,
+    "marka": "Volvo-LKW",
+    "model": "FL4"
+  },
+  {
+    "nr": 1672,
+    "marka": "Volvo-LKW",
+    "model": "FL6"
+  },
+  {
+    "nr": 1673,
+    "marka": "Volvo-LKW",
+    "model": "FL6/FE6"
+  },
+  {
+    "nr": 1674,
+    "marka": "Volvo-LKW",
+    "model": "FL6H"
+  },
+  {
+    "nr": 1675,
+    "marka": "Volvo-LKW",
+    "model": "FL7/FE7"
+  },
+  {
+    "nr": 1676,
+    "marka": "Volvo-LKW",
+    "model": "FL7/FE7/FS7"
+  },
+  {
+    "nr": 1677,
+    "marka": "Volvo-LKW",
+    "model": "Industriemotor"
+  },
+  {
+    "nr": 1678,
+    "marka": "Volvo-LKW",
+    "model": "L120E"
+  },
+  {
+    "nr": 1679,
+    "marka": "Volvo-LKW",
+    "model": "LKW"
+  },
+  {
+    "nr": 1680,
+    "marka": "Volvo-LKW",
+    "model": "Olympian%20MK%20II"
+  },
+  {
+    "nr": 1681,
+    "marka": "Volvo-LKW",
+    "model": "TD%2070"
+  },
+  {
+    "nr": 1682,
+    "marka": "Volvo-LKW",
+    "model": "TD%2071"
+  },
+  {
+    "nr": 1683,
+    "marka": "Toyota",
+    "model": "4%20Runner%20TD"
+  },
+  {
+    "nr": 1684,
+    "marka": "Toyota",
+    "model": "Auris%201.4%20D-4D"
+  },
+  {
+    "nr": 1685,
+    "marka": "Toyota",
+    "model": "Auris%202.0%20D-4D"
+  },
+  {
+    "nr": 1686,
+    "marka": "Toyota",
+    "model": "Auris%202.2%20D-CAT"
+  },
+  {
+    "nr": 1687,
+    "marka": "Toyota",
+    "model": "Auris%20D-4D"
+  },
+  {
+    "nr": 1688,
+    "marka": "Toyota",
+    "model": "Auris%20D-CAT"
+  },
+  {
+    "nr": 1689,
+    "marka": "Toyota",
+    "model": "Avensis%202.0%20D-4D"
+  },
+  {
+    "nr": 1690,
+    "marka": "Toyota",
+    "model": "Avensis%20D-4D"
+  },
+  {
+    "nr": 1691,
+    "marka": "Toyota",
+    "model": "Avensis%20D-CAT"
+  },
+  {
+    "nr": 1692,
+    "marka": "Toyota",
+    "model": "Avensis%20TD"
+  },
+  {
+    "nr": 1693,
+    "marka": "Toyota",
+    "model": "Bus"
+  },
+  {
+    "nr": 1694,
+    "marka": "Toyota",
+    "model": "Caldina%203S-GTE"
+  },
+  {
+    "nr": 1695,
+    "marka": "Toyota",
+    "model": "Caldina%20GT-Four"
+  },
+  {
+    "nr": 1696,
+    "marka": "Toyota",
+    "model": "Camry%201,8%20TD%20(CV10)"
+  },
+  {
+    "nr": 1697,
+    "marka": "Toyota",
+    "model": "Camry%202,0%20TD"
+  },
+  {
+    "nr": 1698,
+    "marka": "Toyota",
+    "model": "Camry%202,0%20TD(CV20)"
+  },
+  {
+    "nr": 1699,
+    "marka": "Toyota",
+    "model": "Celica%20GT%20Four%20(ST165)"
+  },
+  {
+    "nr": 1700,
+    "marka": "Toyota",
+    "model": "Celica%20GT%20Four%20(ST185)"
+  },
+  {
+    "nr": 1701,
+    "marka": "Toyota",
+    "model": "Celica%20GT%20Four%20(ST205)"
+  },
+  {
+    "nr": 1702,
+    "marka": "Toyota",
+    "model": "Corolla%202.2%20D-4D"
+  },
+  {
+    "nr": 1703,
+    "marka": "Toyota",
+    "model": "Corolla%20D-4D"
+  },
+  {
+    "nr": 1704,
+    "marka": "Toyota",
+    "model": "Corolla%20D-CAT"
+  },
+  {
+    "nr": 1705,
+    "marka": "Toyota",
+    "model": "Hiace%202.5%20D4D"
+  },
+  {
+    "nr": 1706,
+    "marka": "Toyota",
+    "model": "Hiace%202.5%20TD%20(H12)"
+  },
+  {
+    "nr": 1707,
+    "marka": "Toyota",
+    "model": "Hilux%202.4%20TD%20(LN/RNZ)"
+  },
+  {
+    "nr": 1708,
+    "marka": "Toyota",
+    "model": "Hilux%202.4%20TD%20(LN7RNZ)"
+  },
+  {
+    "nr": 1709,
+    "marka": "Toyota",
+    "model": "Hilux%202.5%20D4D"
+  },
+  {
+    "nr": 1710,
+    "marka": "Toyota",
+    "model": "Hilux%203.0%20D4D"
+  },
+  {
+    "nr": 1711,
+    "marka": "Toyota",
+    "model": "Landcruiser%20100"
+  },
+  {
+    "nr": 1712,
+    "marka": "Toyota",
+    "model": "Landcruiser%20100%20(4AT)"
+  },
+  {
+    "nr": 1713,
+    "marka": "Toyota",
+    "model": "Landcruiser%20100%20(5AT)"
+  },
+  {
+    "nr": 1714,
+    "marka": "Toyota",
+    "model": "Landcruiser%20D-4D"
+  },
+  {
+    "nr": 1715,
+    "marka": "Toyota",
+    "model": "Landcruiser%20TD"
+  },
+  {
+    "nr": 1716,
+    "marka": "Toyota",
+    "model": "Landcruiser%20TD%20(%20KZJ70,71)"
+  },
+  {
+    "nr": 1717,
+    "marka": "Toyota",
+    "model": "Landcruiser%20TD%20(%20LJ70,71,73)"
+  },
+  {
+    "nr": 1718,
+    "marka": "Toyota",
+    "model": "Landcruiser%20TD%20(HDJ80,81)"
+  },
+  {
+    "nr": 1719,
+    "marka": "Toyota",
+    "model": "Landcruiser%20TD%20(HJ61)"
+  },
+  {
+    "nr": 1720,
+    "marka": "Toyota",
+    "model": "Landcruiser%20TD%20(KZJ90,95)"
+  },
+  {
+    "nr": 1721,
+    "marka": "Toyota",
+    "model": "Landcruiser%20V8%20D"
+  },
+  {
+    "nr": 1722,
+    "marka": "Toyota",
+    "model": "Picnic%20(CMX10)"
+  },
+  {
+    "nr": 1723,
+    "marka": "Toyota",
+    "model": "Picnic%20TD"
+  },
+  {
+    "nr": 1724,
+    "marka": "Toyota",
+    "model": "Previa%20TD"
+  },
+  {
+    "nr": 1725,
+    "marka": "Toyota",
+    "model": "RAV4%202.0%20D-4D"
+  },
+  {
+    "nr": 1726,
+    "marka": "Toyota",
+    "model": "RAV4%202.2%20D-4D"
+  },
+  {
+    "nr": 1727,
+    "marka": "Toyota",
+    "model": "Ritz%20TRD%20RS"
+  },
+  {
+    "nr": 1728,
+    "marka": "Toyota",
+    "model": "Supra%20%203.0%20Turbo%20(MA70)"
+  },
+  {
+    "nr": 1729,
+    "marka": "Toyota",
+    "model": "Supra%203.0%20Turbo%20(JZA80)"
+  },
+  {
+    "nr": 1730,
+    "marka": "Toyota",
+    "model": "Verso%20D-CAT"
+  },
+  {
+    "nr": 1731,
+    "marka": "Toyota",
+    "model": "Yaris%20D-4D"
+  },
+  {
+    "nr": 1732,
+    "marka": "Toyota",
+    "model": "Yaris%20D4-D"
+  },
+  {
+    "nr": 1733,
+    "marka": "Toyota",
+    "model": "Yaris%20T-Sport"
+  },
+  {
+    "nr": 1734,
+    "marka": "Volkswagen",
+    "model": "Amarok%202.0%20BiTDI"
+  },
+  {
+    "nr": 1735,
+    "marka": "Volkswagen",
+    "model": "Beetle%201,8T"
+  },
+  {
+    "nr": 1736,
+    "marka": "Volkswagen",
+    "model": "Beetle%201.9%20TDI"
+  },
+  {
+    "nr": 1737,
+    "marka": "Volkswagen",
+    "model": "Bora%201,8T"
+  },
+  {
+    "nr": 1738,
+    "marka": "Volkswagen",
+    "model": "Bora%201.9%20TDI"
+  },
+  {
+    "nr": 1739,
+    "marka": "Volkswagen",
+    "model": "Caddy%20II%201.9%20TDI"
+  },
+  {
+    "nr": 1740,
+    "marka": "Volkswagen",
+    "model": "Caddy%20III%201.9%20TDI"
+  },
+  {
+    "nr": 1741,
+    "marka": "Volkswagen",
+    "model": "Caddy%20III%202.0%20TDI"
+  },
+  {
+    "nr": 1742,
+    "marka": "Volkswagen",
+    "model": "Crafter%20TD"
+  },
+  {
+    "nr": 1743,
+    "marka": "Volkswagen",
+    "model": "Eos%202.0%20TDI"
+  },
+  {
+    "nr": 1744,
+    "marka": "Volkswagen",
+    "model": "Eos%202.0%20TFSI"
+  },
+  {
+    "nr": 1745,
+    "marka": "Volkswagen",
+    "model": "Fox%201.4%20TDI"
+  },
+  {
+    "nr": 1746,
+    "marka": "Volkswagen",
+    "model": "Golf%20I%201.6%20TD"
+  },
+  {
+    "nr": 1747,
+    "marka": "Volkswagen",
+    "model": "Golf%20II%201.6%20TD"
+  },
+  {
+    "nr": 1748,
+    "marka": "Volkswagen",
+    "model": "Golf%20III%201.9%20TD"
+  },
+  {
+    "nr": 1749,
+    "marka": "Volkswagen",
+    "model": "Golf%20III%201.9%20TDI"
+  },
+  {
+    "nr": 1750,
+    "marka": "Volkswagen",
+    "model": "Golf%20III%201.9%20TDI%20Synchro"
+  },
+  {
+    "nr": 1751,
+    "marka": "Volkswagen",
+    "model": "Golf%20IV%201,8T"
+  },
+  {
+    "nr": 1752,
+    "marka": "Volkswagen",
+    "model": "Golf%20IV%201.9%20TDI"
+  },
+  {
+    "nr": 1753,
+    "marka": "Volkswagen",
+    "model": "Golf%20V%201.4%20TSI"
+  },
+  {
+    "nr": 1754,
+    "marka": "Volkswagen",
+    "model": "Golf%20V%201.9%20TDI"
+  },
+  {
+    "nr": 1755,
+    "marka": "Volkswagen",
+    "model": "Golf%20V%202.0%20TDI"
+  },
+  {
+    "nr": 1756,
+    "marka": "Volkswagen",
+    "model": "Golf%20V%202.0%20TFSI"
+  },
+  {
+    "nr": 1757,
+    "marka": "Volkswagen",
+    "model": "Golf%20VI%201.2%20TSI"
+  },
+  {
+    "nr": 1758,
+    "marka": "Volkswagen",
+    "model": "Golf%20VI%201.4%20TSI"
+  },
+  {
+    "nr": 1759,
+    "marka": "Volkswagen",
+    "model": "Golf%20VI%201.6%20TDI"
+  },
+  {
+    "nr": 1760,
+    "marka": "Volkswagen",
+    "model": "Golf%20VI%202.0%20TDI"
+  },
+  {
+    "nr": 1761,
+    "marka": "Volkswagen",
+    "model": "Golf%20VII%201.2%20TSI"
+  },
+  {
+    "nr": 1762,
+    "marka": "Volkswagen",
+    "model": "Golf%20VII%202.0%20R"
+  },
+  {
+    "nr": 1763,
+    "marka": "Volkswagen",
+    "model": "Golf%20VII%202.0%20TDI"
+  },
+  {
+    "nr": 1764,
+    "marka": "Volkswagen",
+    "model": "Industriemotor%201.9%20TD"
+  },
+  {
+    "nr": 1765,
+    "marka": "Volkswagen",
+    "model": "Jetta%20I%201.6%20TD"
+  },
+  {
+    "nr": 1766,
+    "marka": "Volkswagen",
+    "model": "Jetta%20II%201.6%20TD"
+  },
+  {
+    "nr": 1767,
+    "marka": "Volkswagen",
+    "model": "Jetta%20III%201.9%20TD"
+  },
+  {
+    "nr": 1768,
+    "marka": "Volkswagen",
+    "model": "Jetta%20III%201.9%20TDI"
+  },
+  {
+    "nr": 1769,
+    "marka": "Volkswagen",
+    "model": "Jetta%20V%201.4%20TSI"
+  },
+  {
+    "nr": 1770,
+    "marka": "Volkswagen",
+    "model": "Jetta%20V%201.6%20TDI"
+  },
+  {
+    "nr": 1771,
+    "marka": "Volkswagen",
+    "model": "Jetta%20V%201.9%20TDI"
+  },
+  {
+    "nr": 1772,
+    "marka": "Volkswagen",
+    "model": "Jetta%20V%202.0%20TDI"
+  },
+  {
+    "nr": 1773,
+    "marka": "Volkswagen",
+    "model": "Jetta%20V%202.0%20TFSI"
+  },
+  {
+    "nr": 1774,
+    "marka": "Volkswagen",
+    "model": "L80%20MWM%204.10%20T"
+  },
+  {
+    "nr": 1775,
+    "marka": "Volkswagen",
+    "model": "LT%20I%202.4%20TD"
+  },
+  {
+    "nr": 1776,
+    "marka": "Volkswagen",
+    "model": "LT%20II%202.5%20TDI"
+  },
+  {
+    "nr": 1777,
+    "marka": "Volkswagen",
+    "model": "LT%20II%202.8%20TDI"
+  },
+  {
+    "nr": 1778,
+    "marka": "Volkswagen",
+    "model": "Lupo%201.2%20TDI%203L"
+  },
+  {
+    "nr": 1779,
+    "marka": "Volkswagen",
+    "model": "Lupo%201.4%20TDI"
+  },
+  {
+    "nr": 1780,
+    "marka": "Volkswagen",
+    "model": "Marine%201.9%20TDI%2075-4"
+  },
+  {
+    "nr": 1781,
+    "marka": "Volkswagen",
+    "model": "Marine%202.5%20TDI%20100-5"
+  },
+  {
+    "nr": 1782,
+    "marka": "Volkswagen",
+    "model": "Marine%202.5%20TDI%20120-5"
+  },
+  {
+    "nr": 1783,
+    "marka": "Volkswagen",
+    "model": "Marine%202.5%20TDI%20140-5"
+  },
+  {
+    "nr": 1784,
+    "marka": "Volkswagen",
+    "model": "Marine%202.5%20TDI%20150-5"
+  },
+  {
+    "nr": 1785,
+    "marka": "Volkswagen",
+    "model": "Marine%202.5%20TDI%20165-5"
+  },
+  {
+    "nr": 1786,
+    "marka": "Volkswagen",
+    "model": "Marine%203.0%20TDI%20225-6"
+  },
+  {
+    "nr": 1787,
+    "marka": "Volkswagen",
+    "model": "Marine%203.0%20TDI%20265-6"
+  },
+  {
+    "nr": 1788,
+    "marka": "Volkswagen",
+    "model": "Parati%201.0%2016V%20Turbo"
+  },
+  {
+    "nr": 1789,
+    "marka": "Volkswagen",
+    "model": "Passat%20B2%201.6%20TD"
+  },
+  {
+    "nr": 1790,
+    "marka": "Volkswagen",
+    "model": "Passat%20B2%201.6%20TDS"
+  },
+  {
+    "nr": 1791,
+    "marka": "Volkswagen",
+    "model": "Passat%20B3%201.9%20TD"
+  },
+  {
+    "nr": 1792,
+    "marka": "Volkswagen",
+    "model": "Passat%20B4%201.9%20TD"
+  },
+  {
+    "nr": 1793,
+    "marka": "Volkswagen",
+    "model": "Passat%20B4%201.9%20TDI"
+  },
+  {
+    "nr": 1794,
+    "marka": "Volkswagen",
+    "model": "Passat%20B5%201,8T"
+  },
+  {
+    "nr": 1795,
+    "marka": "Volkswagen",
+    "model": "Passat%20B5%201.9%20TDI"
+  },
+  {
+    "nr": 1796,
+    "marka": "Volkswagen",
+    "model": "Passat%20B5%202.5%20TDI"
+  },
+  {
+    "nr": 1797,
+    "marka": "Volkswagen",
+    "model": "Passat%20B6%201.4%20TSI"
+  },
+  {
+    "nr": 1798,
+    "marka": "Volkswagen",
+    "model": "Passat%20B6%201.6%20TDI"
+  },
+  {
+    "nr": 1799,
+    "marka": "Volkswagen",
+    "model": "Passat%20B6%201.8%20TSI"
+  },
+  {
+    "nr": 1800,
+    "marka": "Volkswagen",
+    "model": "Passat%20B6%201.9%20TDI"
+  },
+  {
+    "nr": 1801,
+    "marka": "Volkswagen",
+    "model": "Passat%20B6%202.0%20TDI"
+  },
+  {
+    "nr": 1802,
+    "marka": "Volkswagen",
+    "model": "Passat%20B6%202.0%20TSI"
+  },
+  {
+    "nr": 1803,
+    "marka": "Volkswagen",
+    "model": "Passat%20B7%202.0%20TDI"
+  },
+  {
+    "nr": 1804,
+    "marka": "Volkswagen",
+    "model": "Phaeton%203.0%20TDI"
+  },
+  {
+    "nr": 1805,
+    "marka": "Volkswagen",
+    "model": "Phaeton%205.0%20TDI"
+  },
+  {
+    "nr": 1806,
+    "marka": "Volkswagen",
+    "model": "Polo%20III%201.4%20TDI"
+  },
+  {
+    "nr": 1807,
+    "marka": "Volkswagen",
+    "model": "Polo%20III%201.9%20TDI"
+  },
+  {
+    "nr": 1808,
+    "marka": "Volkswagen",
+    "model": "Polo%20IV%201.4%20TDI"
+  },
+  {
+    "nr": 1809,
+    "marka": "Volkswagen",
+    "model": "Polo%20IV%201.9%20TDI"
+  },
+  {
+    "nr": 1810,
+    "marka": "Volkswagen",
+    "model": "Polo%20IV%20GTI%20Cup%20Edition"
+  },
+  {
+    "nr": 1811,
+    "marka": "Volkswagen",
+    "model": "Polo%20V%201.2%20TSI"
+  },
+  {
+    "nr": 1812,
+    "marka": "Volkswagen",
+    "model": "Polo%20V%201.4%20TSI"
+  },
+  {
+    "nr": 1813,
+    "marka": "Volkswagen",
+    "model": "Polo%20V%201.6%20TDI"
+  },
+  {
+    "nr": 1814,
+    "marka": "Volkswagen",
+    "model": "Scirocco%201.4%20TSI"
+  },
+  {
+    "nr": 1815,
+    "marka": "Volkswagen",
+    "model": "Scirocco%202.0%20TDI"
+  },
+  {
+    "nr": 1816,
+    "marka": "Volkswagen",
+    "model": "Sharan%201,8T"
+  },
+  {
+    "nr": 1817,
+    "marka": "Volkswagen",
+    "model": "Sharan%201.9%20TDI"
+  },
+  {
+    "nr": 1818,
+    "marka": "Volkswagen",
+    "model": "Sharan%202.0%20TDI"
+  },
+  {
+    "nr": 1819,
+    "marka": "Volkswagen",
+    "model": "T3%20Transporter%20TD"
+  },
+  {
+    "nr": 1820,
+    "marka": "Volkswagen",
+    "model": "T3%20Transporter%20TD%20Syncro"
+  },
+  {
+    "nr": 1821,
+    "marka": "Volkswagen",
+    "model": "T4%20Transporter%201.9%20TD"
+  },
+  {
+    "nr": 1822,
+    "marka": "Volkswagen",
+    "model": "T4%20Transporter%202.5%20TDI"
+  },
+  {
+    "nr": 1823,
+    "marka": "Volkswagen",
+    "model": "T4%20Transporter%202.5%20TDI%20Syncro"
+  },
+  {
+    "nr": 1824,
+    "marka": "Volkswagen",
+    "model": "T5%20Transporter%201.9%20TDI"
+  },
+  {
+    "nr": 1825,
+    "marka": "Volkswagen",
+    "model": "T5%20Transporter%201.9%20TDI%20DPF"
+  },
+  {
+    "nr": 1826,
+    "marka": "Volkswagen",
+    "model": "T5%20Transporter%202.0%20BiTDI"
+  },
+  {
+    "nr": 1827,
+    "marka": "Volkswagen",
+    "model": "T5%20Transporter%202.0%20TDI"
+  },
+  {
+    "nr": 1828,
+    "marka": "Volkswagen",
+    "model": "T5%20Transporter%202.5%20TDI"
+  },
+  {
+    "nr": 1829,
+    "marka": "Volkswagen",
+    "model": "Tiguan%201.4%20TSI"
+  },
+  {
+    "nr": 1830,
+    "marka": "Volkswagen",
+    "model": "Tiguan%202.0%20TDI"
+  },
+  {
+    "nr": 1831,
+    "marka": "Volkswagen",
+    "model": "Touareg%202.5%20TDI"
+  },
+  {
+    "nr": 1832,
+    "marka": "Volkswagen",
+    "model": "Touareg%203.0%20TDI"
+  },
+  {
+    "nr": 1833,
+    "marka": "Volkswagen",
+    "model": "Touareg%20V10%20R50%20left%20side"
+  },
+  {
+    "nr": 1834,
+    "marka": "Volkswagen",
+    "model": "Touareg%20V10%20R50%20right%20side"
+  },
+  {
+    "nr": 1835,
+    "marka": "Volkswagen",
+    "model": "Touareg%20V10%20TDI%20left%20side"
+  },
+  {
+    "nr": 1836,
+    "marka": "Volkswagen",
+    "model": "Touareg%20V10%20TDI%20right%20side"
+  },
+  {
+    "nr": 1837,
+    "marka": "Volkswagen",
+    "model": "Touran%201.2%20TSI"
+  },
+  {
+    "nr": 1838,
+    "marka": "Volkswagen",
+    "model": "Touran%201.4%20TSI"
+  },
+  {
+    "nr": 1839,
+    "marka": "Volkswagen",
+    "model": "Touran%201.4%20TSI%20EcoFuel"
+  },
+  {
+    "nr": 1840,
+    "marka": "Volkswagen",
+    "model": "Touran%201.9%20TDI"
+  },
+  {
+    "nr": 1841,
+    "marka": "Volkswagen",
+    "model": "Touran%202.0%20TDI"
+  },
+  {
+    "nr": 1842,
+    "marka": "Volkswagen",
+    "model": "Vento%201.9%20TD"
+  },
+  {
+    "nr": 1843,
+    "marka": "Volkswagen",
+    "model": "Vento%201.9%20TDI"
+  },
+  {
+    "nr": 1844,
+    "marka": "Volvo-PKW",
+    "model": "240"
+  },
+  {
+    "nr": 1845,
+    "marka": "Volvo-PKW",
+    "model": "440%201,7%20Turbo"
+  },
+  {
+    "nr": 1846,
+    "marka": "Volvo-PKW",
+    "model": "440%20TD"
+  },
+  {
+    "nr": 1847,
+    "marka": "Volvo-PKW",
+    "model": "460%201,7%20Turbo"
+  },
+  {
+    "nr": 1848,
+    "marka": "Volvo-PKW",
+    "model": "460%20TD"
+  },
+  {
+    "nr": 1849,
+    "marka": "Volvo-PKW",
+    "model": "480"
+  },
+  {
+    "nr": 1850,
+    "marka": "Volvo-PKW",
+    "model": "480%201,7%20Turbo"
+  },
+  {
+    "nr": 1851,
+    "marka": "Volvo-PKW",
+    "model": "740"
+  },
+  {
+    "nr": 1852,
+    "marka": "Volvo-PKW",
+    "model": "744"
+  },
+  {
+    "nr": 1853,
+    "marka": "Volvo-PKW",
+    "model": "760"
+  },
+  {
+    "nr": 1854,
+    "marka": "Volvo-PKW",
+    "model": "760%20TD"
+  },
+  {
+    "nr": 1855,
+    "marka": "Volvo-PKW",
+    "model": "765"
+  },
+  {
+    "nr": 1856,
+    "marka": "Volvo-PKW",
+    "model": "765%20TD"
+  },
+  {
+    "nr": 1857,
+    "marka": "Volvo-PKW",
+    "model": "780"
+  },
+  {
+    "nr": 1858,
+    "marka": "Volvo-PKW",
+    "model": "850"
+  },
+  {
+    "nr": 1859,
+    "marka": "Volvo-PKW",
+    "model": "850%20T5"
+  },
+  {
+    "nr": 1860,
+    "marka": "Volvo-PKW",
+    "model": "850%20TDI"
+  },
+  {
+    "nr": 1861,
+    "marka": "Volvo-PKW",
+    "model": "940"
+  },
+  {
+    "nr": 1862,
+    "marka": "Volvo-PKW",
+    "model": "940%20TD"
+  },
+  {
+    "nr": 1863,
+    "marka": "Volvo-PKW",
+    "model": "960"
+  },
+  {
+    "nr": 1864,
+    "marka": "Volvo-PKW",
+    "model": "960%20TD"
+  },
+  {
+    "nr": 1865,
+    "marka": "Volvo-PKW",
+    "model": "C30%201.6%20D"
+  },
+  {
+    "nr": 1866,
+    "marka": "Volvo-PKW",
+    "model": "C30%202.0%20D"
+  },
+  {
+    "nr": 1867,
+    "marka": "Volvo-PKW",
+    "model": "C30%202.4%20D5"
+  },
+  {
+    "nr": 1868,
+    "marka": "Volvo-PKW",
+    "model": "C70%202.0%20D3"
+  },
+  {
+    "nr": 1869,
+    "marka": "Volvo-PKW",
+    "model": "C70%202.3%20T5"
+  },
+  {
+    "nr": 1870,
+    "marka": "Volvo-PKW",
+    "model": "C70%20I%202.0%20T"
+  },
+  {
+    "nr": 1871,
+    "marka": "Volvo-PKW",
+    "model": "C70%20I%202.4%20T"
+  },
+  {
+    "nr": 1872,
+    "marka": "Volvo-PKW",
+    "model": "C70%20II%202.0%20D"
+  },
+  {
+    "nr": 1873,
+    "marka": "Volvo-PKW",
+    "model": "C70%20II%202.4%20D5"
+  },
+  {
+    "nr": 1874,
+    "marka": "Volvo-PKW",
+    "model": "C70%20II%202.5%20T5"
+  },
+  {
+    "nr": 1875,
+    "marka": "Volvo-PKW",
+    "model": "Cross%20Country"
+  },
+  {
+    "nr": 1876,
+    "marka": "Volvo-PKW",
+    "model": "S40%20I%201.9%20D"
+  },
+  {
+    "nr": 1877,
+    "marka": "Volvo-PKW",
+    "model": "S40%20I%201.9%20T4"
+  },
+  {
+    "nr": 1878,
+    "marka": "Volvo-PKW",
+    "model": "S40%20I%201.9%20TD"
+  },
+  {
+    "nr": 1879,
+    "marka": "Volvo-PKW",
+    "model": "S40%20I%202.0%20T"
+  },
+  {
+    "nr": 1880,
+    "marka": "Volvo-PKW",
+    "model": "S40%20I%202.0%20T4"
+  },
+  {
+    "nr": 1881,
+    "marka": "Volvo-PKW",
+    "model": "S40%20II%201.6%20D"
+  },
+  {
+    "nr": 1882,
+    "marka": "Volvo-PKW",
+    "model": "S40%20II%202.0%20D"
+  },
+  {
+    "nr": 1883,
+    "marka": "Volvo-PKW",
+    "model": "S40%20II%202.4%20D5"
+  },
+  {
+    "nr": 1884,
+    "marka": "Volvo-PKW",
+    "model": "S40%20II%202.5%20T5"
+  },
+  {
+    "nr": 1885,
+    "marka": "Volvo-PKW",
+    "model": "S60%20I%202.3%20T"
+  },
+  {
+    "nr": 1886,
+    "marka": "Volvo-PKW",
+    "model": "S60%20I%202.4%20D"
+  },
+  {
+    "nr": 1887,
+    "marka": "Volvo-PKW",
+    "model": "S60%20I%202.4%20D5"
+  },
+  {
+    "nr": 1888,
+    "marka": "Volvo-PKW",
+    "model": "S60%20I%202.4%20T"
+  },
+  {
+    "nr": 1889,
+    "marka": "Volvo-PKW",
+    "model": "S60%20I%202.5%20R"
+  },
+  {
+    "nr": 1890,
+    "marka": "Volvo-PKW",
+    "model": "S60%20II%202.0%20D3"
+  },
+  {
+    "nr": 1891,
+    "marka": "Volvo-PKW",
+    "model": "S60%20II%202.4%20D5"
+  },
+  {
+    "nr": 1892,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.3%20R"
+  },
+  {
+    "nr": 1893,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.3%20T"
+  },
+  {
+    "nr": 1894,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.3%20T5"
+  },
+  {
+    "nr": 1895,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.4%20D5"
+  },
+  {
+    "nr": 1896,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.4%20T"
+  },
+  {
+    "nr": 1897,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.5%20T5"
+  },
+  {
+    "nr": 1898,
+    "marka": "Volvo-PKW",
+    "model": "S70%202.5%20TDI"
+  },
+  {
+    "nr": 1899,
+    "marka": "Volvo-PKW",
+    "model": "S80%202.4%20D"
+  },
+  {
+    "nr": 1900,
+    "marka": "Volvo-PKW",
+    "model": "S80%20I%202.4%20D5"
+  },
+  {
+    "nr": 1901,
+    "marka": "Volvo-PKW",
+    "model": "S80%20I%202.4%20T"
+  },
+  {
+    "nr": 1902,
+    "marka": "Volvo-PKW",
+    "model": "S80%20I%202.5%20D"
+  },
+  {
+    "nr": 1903,
+    "marka": "Volvo-PKW",
+    "model": "S80%20I%202.8%20T6"
+  },
+  {
+    "nr": 1904,
+    "marka": "Volvo-PKW",
+    "model": "S80%20I%202.9%20T6"
+  },
+  {
+    "nr": 1905,
+    "marka": "Volvo-PKW",
+    "model": "S80%20II%202.0%20D3"
+  },
+  {
+    "nr": 1906,
+    "marka": "Volvo-PKW",
+    "model": "S80%20II%202.4%20D5"
+  },
+  {
+    "nr": 1907,
+    "marka": "Volvo-PKW",
+    "model": "V40%201.9%20D"
+  },
+  {
+    "nr": 1908,
+    "marka": "Volvo-PKW",
+    "model": "V40%201.9%20T4"
+  },
+  {
+    "nr": 1909,
+    "marka": "Volvo-PKW",
+    "model": "V40%201.9%20TD"
+  },
+  {
+    "nr": 1910,
+    "marka": "Volvo-PKW",
+    "model": "V40%202.0%20D"
+  },
+  {
+    "nr": 1911,
+    "marka": "Volvo-PKW",
+    "model": "V40%202.0%20T"
+  },
+  {
+    "nr": 1912,
+    "marka": "Volvo-PKW",
+    "model": "V40%202.0%20T4"
+  },
+  {
+    "nr": 1913,
+    "marka": "Volvo-PKW",
+    "model": "V50%201.6%20D"
+  },
+  {
+    "nr": 1914,
+    "marka": "Volvo-PKW",
+    "model": "V50%202.0%20D"
+  },
+  {
+    "nr": 1915,
+    "marka": "Volvo-PKW",
+    "model": "V50%202.4%20D5"
+  },
+  {
+    "nr": 1916,
+    "marka": "Volvo-PKW",
+    "model": "V50%202.5%20T5"
+  },
+  {
+    "nr": 1917,
+    "marka": "Volvo-PKW",
+    "model": "V60%20II%202.0%20D3"
+  },
+  {
+    "nr": 1918,
+    "marka": "Volvo-PKW",
+    "model": "V60%20II%202.4%20D5"
+  },
+  {
+    "nr": 1919,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.0%20D3"
+  },
+  {
+    "nr": 1920,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.3%20T"
+  },
+  {
+    "nr": 1921,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.3%20T5"
+  },
+  {
+    "nr": 1922,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.4%20D"
+  },
+  {
+    "nr": 1923,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.4%20D5"
+  },
+  {
+    "nr": 1924,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.4%20T"
+  },
+  {
+    "nr": 1925,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.4%20T5"
+  },
+  {
+    "nr": 1926,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.5%20D"
+  },
+  {
+    "nr": 1927,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.5%20R"
+  },
+  {
+    "nr": 1928,
+    "marka": "Volvo-PKW",
+    "model": "V70%202.5%20T5"
+  },
+  {
+    "nr": 1929,
+    "marka": "Volvo-PKW",
+    "model": "XC60%202.0%20D3"
+  },
+  {
+    "nr": 1930,
+    "marka": "Volvo-PKW",
+    "model": "XC60%202.4%20D"
+  },
+  {
+    "nr": 1931,
+    "marka": "Volvo-PKW",
+    "model": "XC60%202.4%20D5"
+  },
+  {
+    "nr": 1932,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.0%20D3"
+  },
+  {
+    "nr": 1933,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.3%20T"
+  },
+  {
+    "nr": 1934,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.3%20T5"
+  },
+  {
+    "nr": 1935,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.4%20D"
+  },
+  {
+    "nr": 1936,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.4%20D5"
+  },
+  {
+    "nr": 1937,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.4%20T"
+  },
+  {
+    "nr": 1938,
+    "marka": "Volvo-PKW",
+    "model": "XC70%202.5%20T"
+  },
+  {
+    "nr": 1939,
+    "marka": "Volvo-PKW",
+    "model": "XC90%202.0%20D3"
+  },
+  {
+    "nr": 1940,
+    "marka": "Volvo-PKW",
+    "model": "XC90%202.3%20T"
+  },
+  {
+    "nr": 1941,
+    "marka": "Volvo-PKW",
+    "model": "XC90%202.4%20D"
+  },
+  {
+    "nr": 1942,
+    "marka": "Volvo-PKW",
+    "model": "XC90%202.4%20D5"
+  },
+  {
+    "nr": 1943,
+    "marka": "Volvo-PKW",
+    "model": "XC90%202.5%20T"
+  },
+  {
+    "nr": 1944,
+    "marka": "Volvo-PKW",
+    "model": "XC90%20T6"
+  }
+]
