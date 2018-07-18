@@ -1,0 +1,4799 @@
+[
+  {
+    "mark": "Maserati",
+    "model": "Bi Turbo",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "N/A",
+    "date": "----",
+    "turbo_OEM": [
+      "VM18R",
+      "VC130051",
+      "VM1",
+      "NN130055",
+      "NN130055-4",
+      "old",
+      "VM6R",
+      "NN130068",
+      "VM19L",
+      "VC130052"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "Ghibli",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "N/A",
+    "date": "----",
+    "turbo_OEM": [
+      "VM30R",
+      "VA180079",
+      "VB180079",
+      "VM31L",
+      "VB180080",
+      "VA180080"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Dedra 2,0 i.e. Turbo (835)",
+    "power": "162 HP",
+    "capacity": "1995 ccm",
+    "no": "835A8.046",
+    "date": "04.1991 - 07.1999",
+    "turbo_OEM": [
+      "465103-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 2.0 HF 4WD",
+    "power": "166 HP",
+    "capacity": "1995 ccm",
+    "no": "831B5.000",
+    "date": "08.1986 - 09.1987",
+    "turbo_OEM": [
+      "466384-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 2.0 HF 4WD",
+    "power": "166 HP",
+    "capacity": "1995 ccm",
+    "no": "831B5.000",
+    "date": "10.1987 - 05.1993",
+    "turbo_OEM": [
+      "466384-0006"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato II 2.3 TD",
+    "power": "110 HP",
+    "capacity": "2286 ccm",
+    "no": "F1AE0481C",
+    "date": "10.2001 - 12.2006",
+    "turbo_OEM": [
+      "5303 970 0067",
+      "5303 970 0067"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato II 2.3 TD",
+    "power": "110 HP",
+    "capacity": "2286 ccm",
+    "no": "F1AE0481C",
+    "date": "10.2003 - 12.2006",
+    "turbo_OEM": [
+      "5303 970 0090",
+      "5303 970 0090",
+      "49135-05140"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S3 2.0 TFSI (8V)",
+    "power": "300 HP",
+    "capacity": "1984 ccm",
+    "no": "N/A",
+    "date": "from 05.2013",
+    "turbo_OEM": [
+      "06K145701"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S4 right side",
+    "power": "265 HP",
+    "capacity": "2671 ccm",
+    "no": "AZB / AGB   V6",
+    "date": "10.1997 - 09.2001",
+    "turbo_OEM": [
+      "5303 970 0017",
+      "5303 970 0017"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S4 2.2 Turbo",
+    "power": "230 HP",
+    "capacity": "2226 ccm",
+    "no": "AAN     5 Zyl.",
+    "date": "08.1991 - 07.1994",
+    "turbo_OEM": [
+      "5324 970 7000",
+      "5324 970 7000"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S4 left side",
+    "power": "265 HP",
+    "capacity": "2671 ccm",
+    "no": "AZB / AGB V6",
+    "date": "10.1997 - 09.2001",
+    "turbo_OEM": [
+      "5303 970 0016",
+      "5303 970 0016"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "Sport Quattro 2,14 (85)",
+    "power": "306 HP",
+    "capacity": "2144 ccm",
+    "no": "KW   5 Zyl.",
+    "date": "05.1984 - 07.1987",
+    "turbo_OEM": [
+      "5327 970 6486",
+      "5327 970 6486"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S3 2.0 TFSI (8P/PA)",
+    "power": "265 HP",
+    "capacity": "1984 ccm",
+    "no": "BHZ",
+    "date": "from 10.2006",
+    "turbo_OEM": [
+      "5304 970 0064",
+      "5304 970 0064"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S6 2.2",
+    "power": "230 HP",
+    "capacity": "2226 ccm",
+    "no": "AAN",
+    "date": "06.1994 - 07.1997",
+    "turbo_OEM": [
+      "5324 970 7000",
+      "5324 970 7000"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S5 2.0 TFSI",
+    "power": "180 HP",
+    "capacity": "1984 ccm",
+    "no": "CDNB",
+    "date": "08.2008 - 04.2012",
+    "turbo_OEM": [
+      "06H145702"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S5 2.0 TFSI",
+    "power": "211 HP",
+    "capacity": "1984 ccm",
+    "no": "CDNC",
+    "date": "08.2008 - 04.2012",
+    "turbo_OEM": [
+      "06H145702Q"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 TFSI (8J)",
+    "power": "160 HP",
+    "capacity": "1798 ccm",
+    "no": "BYT / BZB",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "5303 970 0136",
+      "5303 970 0136",
+      "5303 970 0134",
+      "5303 970 0112"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S2 Coupe (B3)",
+    "power": "220 HP",
+    "capacity": "2226 ccm",
+    "no": "3B   5 Zyl.",
+    "date": "09.1990 - 09.1992",
+    "turbo_OEM": [
+      "5324 970 7000",
+      "5324 970 7000"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S2 Coupe (B3)",
+    "power": "230 HP",
+    "capacity": "2226 ccm",
+    "no": "ABY     5 Zyl.",
+    "date": "10.1992 - 12.1996",
+    "turbo_OEM": [
+      "5324 970 7000",
+      "5324 970 7000"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S3 1.8 T",
+    "power": "210 HP",
+    "capacity": "1781 ccm",
+    "no": "AMK",
+    "date": "from 12.1999",
+    "turbo_OEM": [
+      "5304 970 0022",
+      "5304 970 0022"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S3 1.8 T",
+    "power": "210 HP",
+    "capacity": "1781 ccm",
+    "no": "APY / AMK",
+    "date": "from 03.1999",
+    "turbo_OEM": [
+      "5304 970 0020",
+      "5304 970 0020"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "S3 1.8 T",
+    "power": "210 HP",
+    "capacity": "1781 ccm",
+    "no": "BAM",
+    "date": "from 09.2000",
+    "turbo_OEM": [
+      "5304 970 0023",
+      "5304 970 0023"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "150 HP",
+    "capacity": "1781 ccm",
+    "no": "AJQ APP",
+    "date": "from 10.1998",
+    "turbo_OEM": [
+      "5303 970 0035",
+      "5303 970 0035",
+      "5303 970 0026",
+      "5303 970 0026"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "163 HP",
+    "capacity": "1781 ccm",
+    "no": "BVP",
+    "date": "09.2005 - 04.2006",
+    "turbo_OEM": [
+      "5303 970 0052",
+      "5303 970 0052"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "180 HP",
+    "capacity": "1781 ccm",
+    "no": "AUM AUQ ARY",
+    "date": "07.1999 - 04.2006",
+    "turbo_OEM": [
+      "5303 970 0052",
+      "5303 970 0052"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "190 HP",
+    "capacity": "1781 ccm",
+    "no": "AUM AUQ ARY",
+    "date": "09.2005 - 04.2006",
+    "turbo_OEM": [
+      "5303 970 0052",
+      "5303 970 0052"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "225 HP",
+    "capacity": "1781 ccm",
+    "no": "AMK APX",
+    "date": "from 12.1999",
+    "turbo_OEM": [
+      "5304 970 0022",
+      "5304 970 0022"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "225 HP",
+    "capacity": "1781 ccm",
+    "no": "APX",
+    "date": "from 10.1998",
+    "turbo_OEM": [
+      "5304 970 0020",
+      "5304 970 0020"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "225 HP",
+    "capacity": "1781 ccm",
+    "no": "BAM BFV",
+    "date": "from 09.2000",
+    "turbo_OEM": [
+      "5304 970 0023",
+      "5304 970 0023"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "TT 1.8 T (8N)",
+    "power": "240 HP",
+    "capacity": "1781 ccm",
+    "no": "BAM BFV",
+    "date": "01.2005 - 04.2006",
+    "turbo_OEM": [
+      "5304 970 0023",
+      "5304 970 0023"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "RS 6 plus (C5) right side",
+    "power": "480 HP",
+    "capacity": "4172 ccm",
+    "no": "BCY Biturbo",
+    "date": "04.2004 - 12.2004",
+    "turbo_OEM": [
+      "5304 970 0029",
+      "5304 970 0029"
+    ]
+  },
+  {
+    "mark": "Audi",
+    "model": "RS 6 plus (C5) left side",
+    "power": "480 HP",
+    "capacity": "4172 ccm",
+    "no": "BCY Biturbo",
+    "date": "04.2004 - 12.2004",
+    "turbo_OEM": [
+      "5304 970 0028",
+      "5304 970 0028"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF .430",
+    "power": "430 HP",
+    "capacity": "12580 ccm",
+    "no": "XF280M",
+    "date": "from 01.1997",
+    "turbo_OEM": [
+      "706844-0004",
+      "706844-0002",
+      "706844-0001"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF .430",
+    "power": "430 HP",
+    "capacity": "12580 ccm",
+    "no": "XF315M",
+    "date": "from 02.1997",
+    "turbo_OEM": [
+      "452229-0001"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "3300",
+    "power": "310 HP",
+    "capacity": "11600 ccm",
+    "no": "DKX1160",
+    "date": "from 01.1985",
+    "turbo_OEM": [
+      "5336 970 6455",
+      "5336 970 6455"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "3300",
+    "power": "330 HP",
+    "capacity": "11600 ccm",
+    "no": "DKX1160",
+    "date": "from 01.1981",
+    "turbo_OEM": [
+      "5333 970 6450",
+      "5333 970 6450",
+      "3525145"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "3300",
+    "power": "330 HP",
+    "capacity": "11600 ccm",
+    "no": "DKX1160",
+    "date": "from 01.1983",
+    "turbo_OEM": [
+      "5336 970 6454"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "3600",
+    "power": "300 HP",
+    "capacity": "11600 ccm",
+    "no": "DKZE1160",
+    "date": "from 01.1984",
+    "turbo_OEM": [
+      "5336 970 6449",
+      "5336 970 6449",
+      "3525144"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "3600",
+    "power": "310 HP",
+    "capacity": "11600 ccm",
+    "no": "DKS1160",
+    "date": "from 01.1981",
+    "turbo_OEM": [
+      "5336 970 6451",
+      "5336 970 6451"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "1700",
+    "power": "177 HP",
+    "capacity": "6240 ccm",
+    "no": "620DNT",
+    "date": "from 02.1986",
+    "turbo_OEM": [
+      "466780-0001",
+      "3580770"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF .480",
+    "power": "480 HP",
+    "capacity": "12580 ccm",
+    "no": "XF355M",
+    "date": "from 02.2000",
+    "turbo_OEM": [
+      "452281-0013"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "2100",
+    "power": "218 HP",
+    "capacity": "8270 ccm",
+    "no": "DHT825",
+    "date": "----",
+    "turbo_OEM": [
+      "465942-0013"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "2300",
+    "power": "218 HP",
+    "capacity": "8270 ccm",
+    "no": "DHT825",
+    "date": "----",
+    "turbo_OEM": [
+      "465942-0013"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "400",
+    "power": "97 HP",
+    "capacity": "2500 ccm",
+    "no": "152A / XD3S/XD3T",
+    "date": "from 10.1980",
+    "turbo_OEM": [
+      "5324 970 6075",
+      "5324 970 6085",
+      "465318-0003"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "M550d 3.0 (F10 / F11)",
+    "power": "381 HP",
+    "capacity": "2993 ccm",
+    "no": "N57D30S1",
+    "date": "from 03.2012",
+    "turbo_OEM": [
+      "5303 970 0364",
+      "5303 970 0310",
+      "5303 971 0364",
+      "5303 971 0310",
+      "5303 970 0365",
+      "5303 970 0323",
+      "5303 970 0285",
+      "1273 970 0010",
+      "1273 970 0009",
+      "1273 971 0010",
+      "1273 971 0009"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "X1 20 i (E84)",
+    "power": "184 HP",
+    "capacity": "1997 ccm",
+    "no": "N20B20",
+    "date": "from 09.2011",
+    "turbo_OEM": [
+      "49U77-02003",
+      "49477-02003",
+      "49477-02004",
+      "49477-02005",
+      "49477-02051"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF .380",
+    "power": "430 HP",
+    "capacity": "12580 ccm",
+    "no": "XF280M",
+    "date": "from 02.1997",
+    "turbo_OEM": [
+      "452229-0002"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "X1 23dX (E84)",
+    "power": "204 HP",
+    "capacity": "1995 ccm",
+    "no": "N47D20",
+    "date": "from 01.2009",
+    "turbo_OEM": [
+      "5435 970 0026",
+      "5435 970 0026",
+      "5316 970 0016",
+      "5316 971 0016",
+      "5316 970 0009",
+      "5316 970 0009"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "Mini Cooper S (R55 R56 R57)",
+    "power": "175 HP",
+    "capacity": "1598 ccm",
+    "no": "EP6DTS N14",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "5303 970 0163",
+      "5303 970 0163",
+      "5303 970 0181",
+      "5303 970 0181",
+      "5303 970 0118",
+      "5303 970 0118"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "Mini Cooper S (R55 R56 R57)",
+    "power": "211 HP",
+    "capacity": "1598 ccm",
+    "no": "EP6 HP N14 JCW",
+    "date": "from 08.2008",
+    "turbo_OEM": [
+      "5303 970 0146",
+      "5303 970 0146"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "X3  2.0 d (F25)",
+    "power": "184 HP",
+    "capacity": "1995 ccm",
+    "no": "N47D20",
+    "date": "from 10.2010",
+    "turbo_OEM": [
+      "49335-00635",
+      "49335-00610",
+      "49335-00600",
+      "49335-00583",
+      "49335-00582",
+      "49335-00581",
+      "49335-00580",
+      "49335-00561",
+      "49335-00560",
+      "49335-00512",
+      "49335-00511/510"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "Mini One D (R50)",
+    "power": "75 HP",
+    "capacity": "1364 ccm",
+    "no": "W17",
+    "date": "06.2002 - 12.2006",
+    "turbo_OEM": [
+      "17201-33010",
+      "17201-33020",
+      "1720133010",
+      "1720133020"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "Mini One D (R50)",
+    "power": "88 HP",
+    "capacity": "1364 ccm",
+    "no": "469F W17",
+    "date": "01.2005 - 12.2006",
+    "turbo_OEM": [
+      "755925-0001",
+      "755925-0001"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF .475",
+    "power": "475 HP",
+    "capacity": "12580 ccm",
+    "no": "XE355C",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "452281-0008"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "X1 28 i (E84)",
+    "power": "245 HP",
+    "capacity": "1997 ccm",
+    "no": "N20B20",
+    "date": "from 03.2011",
+    "turbo_OEM": [
+      "49U77-02003",
+      "49477-02003",
+      "49477-02004",
+      "49477-02005",
+      "49477-02051"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "760 i (F01 / F02 / F03)",
+    "power": "544 HP",
+    "capacity": "5972 ccm",
+    "no": "V12",
+    "date": "from 09.2009",
+    "turbo_OEM": [
+      "821720-0002",
+      "821720-0002",
+      "821720-2",
+      "821721-0002",
+      "821721-0002",
+      "821721-2"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "X3 2.0 d (E83 / E83N)",
+    "power": "150 HP",
+    "capacity": "1995 ccm",
+    "no": "M47TU",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "750431-0013",
+      "750431-0012",
+      "750431-9012",
+      "750431-0009",
+      "750431-0009",
+      "717478-6/5",
+      "717478-4/3",
+      "717478-2/1"
+    ]
+  },
+  {
+    "mark": "BMW",
+    "model": "X3 2.0 d (E83 / E83N)",
+    "power": "150 HP",
+    "capacity": "1995 ccm",
+    "no": "M47Tu",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "762965-0020",
+      "762965-0017",
+      "762965-0009",
+      "762965-0008",
+      "762965-0007",
+      "762965-0003",
+      "762965-0002/1",
+      "763091-0004"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Aggregat",
+    "power": "449 HP",
+    "capacity": "17180 ccm",
+    "no": "D9408TIE",
+    "date": "from 07.1995",
+    "turbo_OEM": [
+      "5329 970 6410",
+      "5329 970 6411"
+    ]
+  },
+  {
+    "mark": "Komatsu",
+    "model": "WA700",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "N/A",
+    "date": "from 08.2002",
+    "turbo_OEM": [
+      "319179",
+      "319167"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Industriemotor",
+    "power": "136 HP",
+    "capacity": "5600 ccm",
+    "no": "D904T/TB",
+    "date": "from 07.1991",
+    "turbo_OEM": [
+      "313133",
+      "313191",
+      "3580566"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Industriemotor",
+    "power": "279 HP",
+    "capacity": "6370 ccm",
+    "no": "OM906LA-E2",
+    "date": "from 08.1999",
+    "turbo_OEM": [
+      "5327 970 7111"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Industriemotor right side",
+    "power": "234 HP",
+    "capacity": "12000 ccm",
+    "no": "D9306T/TB",
+    "date": "from 10.1990",
+    "turbo_OEM": [
+      "312801",
+      "312828"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Mobilkran LTM 1060/1080",
+    "power": "408 HP",
+    "capacity": "12880 ccm",
+    "no": "D9406TI",
+    "date": "from 08.1993",
+    "turbo_OEM": [
+      "5327 970 6614",
+      "5327 970 6614",
+      "5327 970 6613"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "131 HP",
+    "capacity": "5610 ccm",
+    "no": "D904T",
+    "date": "from 01.1986",
+    "turbo_OEM": [
+      "5327 970 5721",
+      "5327 970 5720",
+      "313191",
+      "3580566"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "158 HP",
+    "capacity": "6640 ccm",
+    "no": "D924TE",
+    "date": "from 02.1996",
+    "turbo_OEM": [
+      "5327 970 6214",
+      "5327 970 6215"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "163 HP",
+    "capacity": "6110 ccm",
+    "no": "D914TI",
+    "date": "from 05.1989",
+    "turbo_OEM": [
+      "5327 970 6207"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "180 HP",
+    "capacity": "6640 ccm",
+    "no": "D924TIEA2",
+    "date": "from 09.1996",
+    "turbo_OEM": [
+      "5327 970 6619",
+      "5327 970 6619"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "204 HP",
+    "capacity": "7000 ccm",
+    "no": "D934",
+    "date": "from 05.2005",
+    "turbo_OEM": [
+      "5327 970 7188",
+      "5327 970 7188"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "230 HP",
+    "capacity": "8410 ccm",
+    "no": "D906TI",
+    "date": "from 11.1986",
+    "turbo_OEM": [
+      "5327 970 6701"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "245 HP",
+    "capacity": "9160 ccm",
+    "no": "D916TI",
+    "date": "from 07.1993",
+    "turbo_OEM": [
+      "314219",
+      "314072"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "245 HP",
+    "capacity": "9160 ccm",
+    "no": "D926TI",
+    "date": "from 11.1994",
+    "turbo_OEM": [
+      "315055",
+      "314830"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "258 HP",
+    "capacity": "12000 ccm",
+    "no": "D9306",
+    "date": "from 01.1990",
+    "turbo_OEM": [
+      "5326 970 6027"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "360 HP",
+    "capacity": "15930 ccm",
+    "no": "D9308T",
+    "date": "from 01.1993",
+    "turbo_OEM": [
+      "5327 970 6210",
+      "5327 970 6208"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "362 HP",
+    "capacity": "12880 ccm",
+    "no": "D9406TIE",
+    "date": "from 10.1995",
+    "turbo_OEM": [
+      "5327 970 6616",
+      "5327 970 6615"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "367 HP",
+    "capacity": "9960 ccm",
+    "no": "D926TIEA4",
+    "date": "from 06.2001",
+    "turbo_OEM": [
+      "5329 970 6719",
+      "5329 970 6719"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "408 HP",
+    "capacity": "10500 ccm",
+    "no": "D936 / R944C",
+    "date": "from 11.2008",
+    "turbo_OEM": [
+      "5329 970 6918",
+      "5329 970 6918"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "449 HP",
+    "capacity": "17180 ccm",
+    "no": "D9408TI",
+    "date": "from 05.1994",
+    "turbo_OEM": [
+      "5327 970 6608",
+      "5327 970 6607"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "449 HP",
+    "capacity": "17180 ccm",
+    "no": "D9408TIE",
+    "date": "from 07.1995",
+    "turbo_OEM": [
+      "5329 970 6410",
+      "5329 970 6411"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "544 HP",
+    "capacity": "17180 ccm",
+    "no": "D9408TI",
+    "date": "from 07.1994",
+    "turbo_OEM": [
+      "5329 970 6709"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "544 HP",
+    "capacity": "17180 ccm",
+    "no": "D9408TI",
+    "date": "from 07.1995",
+    "turbo_OEM": [
+      "5329 970 6713"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Baumaschine",
+    "power": "598 HP",
+    "capacity": "17180 ccm",
+    "no": "D9408TI-E",
+    "date": "from 05.2000",
+    "turbo_OEM": [
+      "5329 970 7007",
+      "5329 971 7007"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Planierraupe",
+    "power": "180 HP",
+    "capacity": "9160 ccm",
+    "no": "D916T",
+    "date": "from 06.1994",
+    "turbo_OEM": [
+      "5327 970 6212"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Planierraupe L541",
+    "power": "160 HP",
+    "capacity": "8410 ccm",
+    "no": "D906T",
+    "date": "from 12.1986",
+    "turbo_OEM": [
+      "5327 970 6426",
+      "5327 970 6420"
+    ]
+  },
+  {
+    "mark": "Mack",
+    "model": "LKW",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "N/A",
+    "date": "from 07.1981",
+    "turbo_OEM": [
+      "186301"
+    ]
+  },
+  {
+    "mark": "Lotus",
+    "model": "ESPRIT 16V",
+    "power": "288 HP",
+    "capacity": "2200 ccm",
+    "no": "N/A",
+    "date": "from 01.1991",
+    "turbo_OEM": [
+      "465133-0003"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "C-MAX 1.6 TDCi",
+    "power": "109 HP",
+    "capacity": "1560 ccm",
+    "no": "DV6TED4",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "753420-0006",
+      "753420-0005",
+      "753420-0004",
+      "753420-0004",
+      "753420-0002",
+      "750030-0002",
+      "740821-0002",
+      "1479055"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "C-MAX 1.6 TDCi",
+    "power": "90 HP",
+    "capacity": "1560 ccm",
+    "no": "HHJA / HHUB",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "49131-05212",
+      "49131-05210"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Escort IV 1,6 Turbo RS (GAF,AWF,ABFT)",
+    "power": "132 HP",
+    "capacity": "1597 ccm",
+    "no": "LNB / 1.6CVH",
+    "date": "01.1986 - 07.1990",
+    "turbo_OEM": [
+      "466944-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "F250 Powerstroke",
+    "power": "275 HP",
+    "capacity": "7300 ccm",
+    "no": "Power Stroke",
+    "date": "01.1999 - 12.2003",
+    "turbo_OEM": [
+      "702012-0012",
+      "702012-0012"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "F250 Powerstroke",
+    "power": "325 HP",
+    "capacity": "6000 ccm",
+    "no": "Navistar",
+    "date": "01.2003 - 01.2007",
+    "turbo_OEM": [
+      "743250-0013",
+      "743250-0013"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "F250 Powerstroke",
+    "power": "350 HP",
+    "capacity": "6400 ccm",
+    "no": "V114 Power Stroke",
+    "date": "from 02.2006",
+    "turbo_OEM": [
+      "176013",
+      "176466",
+      "177100"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta V 1.8 Di",
+    "power": "75 HP",
+    "capacity": "1753 ccm",
+    "no": "Duratorq DI",
+    "date": "01.2000 - 11.2001",
+    "turbo_OEM": [
+      "802419-0001",
+      "703863-0002",
+      "703863-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta III 1,6 Turbo",
+    "power": "131 HP",
+    "capacity": "1598 ccm",
+    "no": "1.6 CVH / LHA",
+    "date": "03.1990 - 10.1992",
+    "turbo_OEM": [
+      "465187-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus I 1.8 TDCi",
+    "power": "101 HP",
+    "capacity": "1753 ccm",
+    "no": "TDCi",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "802418-0001",
+      "802418-9001",
+      "713517-0016",
+      "713517-0015",
+      "713517-0012",
+      "713517-0011",
+      "713517-0010",
+      "713517-0007/8/9"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus I 1.8 TDCi",
+    "power": "115 HP",
+    "capacity": "1753 ccm",
+    "no": "TDCi",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "802418-0001",
+      "802418-9001",
+      "713517-0016",
+      "713517-0015",
+      "713517-0012",
+      "713517-0011",
+      "713517-0010",
+      "713517-0007/8/9"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta VI 1.6 TDCi",
+    "power": "90 HP",
+    "capacity": "1560 ccm",
+    "no": "DV6ATED4",
+    "date": "from 01.2005",
+    "turbo_OEM": [
+      "49173-07508",
+      "49173-07507",
+      "49173-07506",
+      "49173-07504",
+      "49173-07503",
+      "49173-07502",
+      "49173-07522",
+      "49173-07516"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta VI 1.6 TDCi",
+    "power": "90 HP",
+    "capacity": "1560 ccm",
+    "no": "HHJA / HHUB",
+    "date": "01.2003 - 10.2008",
+    "turbo_OEM": [
+      "49131-05212",
+      "49131-05210"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta VI 1.4 TDCi",
+    "power": "68 HP",
+    "capacity": "1398 ccm",
+    "no": "DV4TD",
+    "date": "01.2002 - 10.2008",
+    "turbo_OEM": [
+      "5435 970 0009",
+      "5435 970 0007",
+      "5435 970 0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta VIII 1.6 l TDCi",
+    "power": "95 HP",
+    "capacity": "1560 ccm",
+    "no": "TZJA",
+    "date": "from 02.2010",
+    "turbo_OEM": [
+      "49373-02003",
+      "49373-02002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Escort V RS Cosworth 4x4 (GAL)",
+    "power": "220 HP",
+    "capacity": "1994 ccm",
+    "no": "N5F  / 16V",
+    "date": "08.1992 - 01.1995",
+    "turbo_OEM": [
+      "452059-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus I 1.4 TDCi",
+    "power": "90 HP",
+    "capacity": "1400 ccm",
+    "no": "DV4TED4 F3V PSA",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "VVP2",
+      "VF30A004",
+      "G0500V30A01443"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus I 1.8 TDDi",
+    "power": "90 HP",
+    "capacity": "1753 ccm",
+    "no": "BHDB / C9DB",
+    "date": "from 08.1999",
+    "turbo_OEM": [
+      "802419-0006",
+      "706499-0004",
+      "706499-0002",
+      "706499-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus I 1.8 TDDi",
+    "power": "90 HP",
+    "capacity": "1753 ccm",
+    "no": "C9DC",
+    "date": "10.1998 - 11.2004",
+    "turbo_OEM": [
+      "452244-0005",
+      "452244-0005"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "F350 Powerstroke",
+    "power": "275 HP",
+    "capacity": "7300 ccm",
+    "no": "Power Stroke",
+    "date": "01.1999 - 12.2003",
+    "turbo_OEM": [
+      "702012-0012",
+      "702012-0012"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "F350 Powerstroke",
+    "power": "325 HP",
+    "capacity": "6000 ccm",
+    "no": "Navistar",
+    "date": "01.2003 - 01.2007",
+    "turbo_OEM": [
+      "743250-0013",
+      "743250-0013"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II 2.5 ST",
+    "power": "225 HP",
+    "capacity": "2521 ccm",
+    "no": "RNC 2P25-LT",
+    "date": "from 11.2005",
+    "turbo_OEM": [
+      "5304 970 0033",
+      "5304 998 0033",
+      "5304 970 0033"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II 1.8 TDCi",
+    "power": "115 HP",
+    "capacity": "1753 ccm",
+    "no": "KKDA DuraTorq Lynx",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "763647-0021",
+      "763647-0019",
+      "763647-0014"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II 1.8 TDCi",
+    "power": "115 HP",
+    "capacity": "1800 ccm",
+    "no": "LYNX",
+    "date": "from 04.2005",
+    "turbo_OEM": [
+      "742110-0007",
+      "742110-0007",
+      "742110-0006",
+      "742110-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II RS",
+    "power": "305 HP",
+    "capacity": "2521 ccm",
+    "no": "RNC-RS",
+    "date": "from 01.2009",
+    "turbo_OEM": [
+      "5316 998 0010",
+      "5316 970 0010",
+      "5316 970 0010",
+      "53169980010",
+      "53169700010",
+      "53169880010"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fiesta VIII 1.6 Ti-VCT",
+    "power": "182 HP",
+    "capacity": "1596 ccm",
+    "no": "EcoBoost",
+    "date": "from 02.2013",
+    "turbo_OEM": [
+      "5303 998 0288",
+      "5303 970 0288",
+      "5303 970 0269",
+      "5303 970 0259",
+      "5303 970 0240",
+      "5303 970 0237",
+      "5303 970 0198",
+      "5303 970 0154"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Fusion 1.6 TDCi",
+    "power": "90 HP",
+    "capacity": "1560 ccm",
+    "no": "DV6ATED4",
+    "date": "from 01.2005",
+    "turbo_OEM": [
+      "49173-07508",
+      "49173-07507",
+      "49173-07506",
+      "49173-07504",
+      "49173-07503",
+      "49173-07502",
+      "49173-07522",
+      "49173-07516"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus III 1.0 EcoBoost",
+    "power": "100 HP",
+    "capacity": "998 ccm",
+    "no": "3 zyl. EcoBoost",
+    "date": "from 02.2012",
+    "turbo_OEM": [
+      "1761181",
+      "CM5G6K682HB"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus III 1.0 EcoBoost",
+    "power": "125 HP",
+    "capacity": "998 ccm",
+    "no": "3 zyl. EcoBoost",
+    "date": "from 02.2012",
+    "turbo_OEM": [
+      "1761178",
+      "CM5G6K682GB"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy II 1.8 TDCi",
+    "power": "125 HP",
+    "capacity": "1753 ccm",
+    "no": "QYBA",
+    "date": "from 05.2006",
+    "turbo_OEM": [
+      "763647-0021",
+      "763647-0019",
+      "763647-0014"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 1.8 TDCi",
+    "power": "90 HP",
+    "capacity": "1798 ccm",
+    "no": "QYBA",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "763647-0021",
+      "763647-0019",
+      "763647-0014"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.0 TDDi",
+    "power": "115 HP",
+    "capacity": "2000 ccm",
+    "no": "Duratorq DI",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "704226-0007",
+      "704226-0007"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus I 2.0 RS",
+    "power": "215 HP",
+    "capacity": "1988 ccm",
+    "no": "Duratec Turbo",
+    "date": "from 01.2002",
+    "turbo_OEM": [
+      "722979-0003",
+      "722979-0003"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo II 1.8 TD",
+    "power": "90 HP",
+    "capacity": "1753 ccm",
+    "no": "RFN",
+    "date": "09.1996 - 11.2000",
+    "turbo_OEM": [
+      "452124-0006",
+      "452124-0006",
+      "452124-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo IV 2.0 SCTi",
+    "power": "203 HP",
+    "capacity": "1976 ccm",
+    "no": "EcoBoost",
+    "date": "from 05.2010",
+    "turbo_OEM": [
+      "5303 998 0288",
+      "5303 970 0288",
+      "5303 970 0269",
+      "5303 970 0259",
+      "5303 970 0240",
+      "5303 970 0237",
+      "5303 970 0198",
+      "5303 970 0154"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.2 TDCi",
+    "power": "155 HP",
+    "capacity": "2200 ccm",
+    "no": "Puma",
+    "date": "01.2004 - 01.2007",
+    "turbo_OEM": [
+      "758226-0010",
+      "758226-0008",
+      "758226-0010",
+      "758226-0008",
+      "758226-0004",
+      "752233-0007",
+      "752233-0003",
+      "752233-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Probe 2,2 GT (ECP)",
+    "power": "147 HP",
+    "capacity": "2184 ccm",
+    "no": "2,2 12V",
+    "date": "03.1991 - 12.1992",
+    "turbo_OEM": [
+      "VJ11",
+      "VB130022"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo IV 2.2 TDCi",
+    "power": "175 HP",
+    "capacity": "2179 ccm",
+    "no": "DW12B EU4",
+    "date": "from 01.2007",
+    "turbo_OEM": [
+      "753544-0020",
+      "753544-0017",
+      "753544-0020",
+      "753544-0017"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Orion III 1,8 TD (GAL)",
+    "power": "90 HP",
+    "capacity": "1753 ccm",
+    "no": "RFD/RFK",
+    "date": "03.1992 - 12.1993",
+    "turbo_OEM": [
+      "452014-0006",
+      "452014-0005",
+      "452014-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Ranger 2.8",
+    "power": "128 HP",
+    "capacity": "2800 ccm",
+    "no": "HS2.8 HT",
+    "date": "from 01.2002",
+    "turbo_OEM": [
+      "724652-0001",
+      "724652-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Ranger 2.5",
+    "power": "109 HP",
+    "capacity": "2500 ccm",
+    "no": "N/A",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "708258-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-Max 1.8 TDCi",
+    "power": "125 HP",
+    "capacity": "1798 ccm",
+    "no": "QYBA",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "763647-0021",
+      "763647-0019",
+      "763647-0014"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo IV 2.0 TDCi",
+    "power": "163 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10C PSA",
+    "date": "from 01.2010",
+    "turbo_OEM": [
+      "783583-0004",
+      "783583-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo IV 2.5 Turbo",
+    "power": "220 HP",
+    "capacity": "2521 ccm",
+    "no": "RNC 2P25-LT",
+    "date": "01.2007 - 11.2010",
+    "turbo_OEM": [
+      "5304 970 0033",
+      "5304 998 0033",
+      "5304 970 0033"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-Max 2.5 Turbo",
+    "power": "220 HP",
+    "capacity": "2521 ccm",
+    "no": "RNC 2P25-LT",
+    "date": "from 11.2005",
+    "turbo_OEM": [
+      "5304 970 0033",
+      "5304 998 0033",
+      "5304 970 0033"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-Max 2.2 TDCi",
+    "power": "175 HP",
+    "capacity": "2179 ccm",
+    "no": "DW12B EU4",
+    "date": "01.2008 - 04.2010",
+    "turbo_OEM": [
+      "753544-0020",
+      "753544-0017",
+      "753544-0020",
+      "753544-0017"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Sierra 1,8 TD (GBG,GB4)",
+    "power": "75 HP",
+    "capacity": "1753 ccm",
+    "no": "RFA/RFB/RFL",
+    "date": "08.1988 - 02.1993",
+    "turbo_OEM": [
+      "465137-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Scorpio II 2,5 TD (GFR,GGR)",
+    "power": "115 HP",
+    "capacity": "2500 ccm",
+    "no": "SCC",
+    "date": "10.1994 - 08.1998",
+    "turbo_OEM": [
+      "VA58A",
+      "VA180056",
+      "VC180056"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Scorpio II 2,5 TD (GFR,GGR)",
+    "power": "125 HP",
+    "capacity": "2500 ccm",
+    "no": "SCD",
+    "date": "from 09.1996",
+    "turbo_OEM": [
+      "VA58A",
+      "VA180056",
+      "VC180056"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-Max 2.0 SCTi",
+    "power": "203 HP",
+    "capacity": "1976 ccm",
+    "no": "EcoBoost",
+    "date": "from 05.2010",
+    "turbo_OEM": [
+      "5303 998 0288",
+      "5303 970 0288",
+      "5303 970 0269",
+      "5303 970 0259",
+      "5303 970 0240",
+      "5303 970 0237",
+      "5303 970 0198",
+      "5303 970 0154"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-MAX 2.0 TDCi",
+    "power": "140 HP",
+    "capacity": "1997 ccm",
+    "no": "QXWA, QXWB, UFWA",
+    "date": "01.2006 - 12.2008",
+    "turbo_OEM": [
+      "760774-0003",
+      "728768-0004",
+      "728768-0005",
+      "753847-0002",
+      "753847-0006",
+      "753847-0002",
+      "760774-0003",
+      "1483819"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-Max 2.0 TDCi",
+    "power": "163 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10C PSA",
+    "date": "from 01.2010",
+    "turbo_OEM": [
+      "783583-0004",
+      "783583-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "S-Max  1.8 TDCi",
+    "power": "90 HP",
+    "capacity": "1798 ccm",
+    "no": "DuraTorq Lynx",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "763647-0021",
+      "763647-0019",
+      "763647-0014"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Sierra 2,0 RS Cosworth (GBC,GBG)",
+    "power": "204 HP",
+    "capacity": "1993 ccm",
+    "no": "16V N5A / N5B",
+    "date": "11.1987 - 01.1990",
+    "turbo_OEM": [
+      "466962-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Taurus SHO EcoBoost",
+    "power": "370 HP",
+    "capacity": "3496 ccm",
+    "no": "iVTC",
+    "date": "01.2010 - 12.2013",
+    "turbo_OEM": [
+      "790318-0006",
+      "790318-0006",
+      "790317-0006",
+      "790317-0003",
+      "790317-0006",
+      "790317-0003"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Sierra RS500",
+    "power": "220 HP",
+    "capacity": "1986 ccm",
+    "no": "2.0 16V",
+    "date": "from 01.1986",
+    "turbo_OEM": [
+      "709381-0001",
+      "L494900-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 1.8 TDCI",
+    "power": "90 HP",
+    "capacity": "1800 ccm",
+    "no": "BHDB / C9DB",
+    "date": "from 08.1999",
+    "turbo_OEM": [
+      "802419-0006",
+      "706499-0004",
+      "706499-0002",
+      "706499-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.0 Di 75",
+    "power": "75 HP",
+    "capacity": "2000 ccm",
+    "no": "DuraTorq",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "802419-0003",
+      "709035-0005",
+      "709035-0005",
+      "709035-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Sierra 2,0 16V Cosworth 4x4",
+    "power": "220 HP",
+    "capacity": "1993 ccm",
+    "no": "N5C/N5D",
+    "date": "01.1990 - 02.1993",
+    "turbo_OEM": [
+      "465189-0003",
+      "465189-0003"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.0 Di 85",
+    "power": "85 HP",
+    "capacity": "2000 ccm",
+    "no": "DuraTorq",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "802419-0005",
+      "726194-0005",
+      "726194-0004",
+      "726194-0003",
+      "726194-0002",
+      "726194-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 3.2 TDCi",
+    "power": "200 HP",
+    "capacity": "3195 ccm",
+    "no": "5CYL DuraTorq",
+    "date": "from 01.2008",
+    "turbo_OEM": [
+      "773098-0002",
+      "773098-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 3.0 Turbo",
+    "power": "279 HP",
+    "capacity": "3000 ccm",
+    "no": "SI6T",
+    "date": "from 03.2008",
+    "turbo_OEM": [
+      "5316 970 0015"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.0 TDCi",
+    "power": "130 HP",
+    "capacity": "2000 ccm",
+    "no": "Duratorq DI",
+    "date": "from 06.2002",
+    "turbo_OEM": [
+      "714467-0014",
+      "714467-9014",
+      "714467-0013",
+      "714467-0012",
+      "714467-0008",
+      "714467-0007",
+      "714467-0003/4/5"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.0 TDCi",
+    "power": "85 / 100 HP",
+    "capacity": "2000 ccm",
+    "no": "DuraTorq",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "802419-0004",
+      "714716-0003",
+      "714716-0003"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "228",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "N/A",
+    "date": "----",
+    "turbo_OEM": [
+      "VM15L",
+      "VB130091",
+      "VC130091",
+      "VA130091",
+      "NN130077",
+      "VM6L",
+      "VM14R",
+      "VA130090",
+      "VC130090",
+      "NN130076",
+      "VM5R"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.0 Di 100",
+    "power": "100 HP",
+    "capacity": "2000 ccm",
+    "no": "DuraTorq",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "802419-0005",
+      "726194-0005",
+      "726194-0004",
+      "726194-0003",
+      "726194-0002",
+      "726194-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 2.4 TDCi",
+    "power": "140 HP",
+    "capacity": "2400 ccm",
+    "no": "Puma",
+    "date": "from 03.2006",
+    "turbo_OEM": [
+      "752610-0032",
+      "752610-0025",
+      "752610-0015",
+      "752610-0012",
+      "752610-0010"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "Bi Turbo 222",
+    "power": "N/A",
+    "capacity": "2000 ccm",
+    "no": "N/A",
+    "date": "----",
+    "turbo_OEM": [
+      "VM8L",
+      "VM17L",
+      "NN130081",
+      "VA130093",
+      "VM7R",
+      "VM16R",
+      "NN130080",
+      "VA130092"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Generator",
+    "power": "131 HP",
+    "capacity": "5610 ccm",
+    "no": "D904T",
+    "date": "from 01.1986",
+    "turbo_OEM": [
+      "5327 970 5721",
+      "5327 970 5720",
+      "313191",
+      "3580566"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Generator",
+    "power": "204 HP",
+    "capacity": "9960 ccm",
+    "no": "G926TI",
+    "date": "from 03.2000",
+    "turbo_OEM": [
+      "5327 970 6620"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Generator",
+    "power": "299 HP",
+    "capacity": "9960 ccm",
+    "no": "D926TI",
+    "date": "from 12.1995",
+    "turbo_OEM": [
+      "5329 970 6714"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Generator",
+    "power": "300 HP",
+    "capacity": "9960 ccm",
+    "no": "D926TIE",
+    "date": "from 02.1997",
+    "turbo_OEM": [
+      "5329 970 6715"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Generator",
+    "power": "340 HP",
+    "capacity": "11950 ccm",
+    "no": "G946",
+    "date": "from 01.2013",
+    "turbo_OEM": [
+      "1280 970 0007",
+      "1280 970 0007"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "228 Karif",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "N/A",
+    "date": "----",
+    "turbo_OEM": [
+      "VM21L",
+      "VC130077",
+      "VE130077",
+      "VB130077",
+      "VA130077",
+      "VM13L",
+      "VM20R",
+      "VC130076",
+      "VE130076",
+      "VB130076",
+      "VA130076",
+      "VM12R"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "Quattroporte IV",
+    "power": "335 HP",
+    "capacity": "3200 ccm",
+    "no": "AM578",
+    "date": "01.1996 - 01.2000",
+    "turbo_OEM": [
+      "VM36R",
+      "VA660027",
+      "VM37L",
+      "VA660028",
+      "VB660028"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "3200 GT",
+    "power": "368 HP",
+    "capacity": "3217 ccm",
+    "no": "AM 585",
+    "date": "01.1998 - 01.2001",
+    "turbo_OEM": [
+      "VM39L",
+      "VA660055",
+      "VM38R",
+      "VA660054"
+    ]
+  },
+  {
+    "mark": "Maserati",
+    "model": "Shamal",
+    "power": "326 HP",
+    "capacity": "3200 ccm",
+    "no": "AM 479",
+    "date": "01.1989 - 01.1996",
+    "turbo_OEM": [
+      "VM22R",
+      "VC180029",
+      "VM23L",
+      "VC180030"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Dedra",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "Alfa 146",
+    "date": "----",
+    "turbo_OEM": [
+      "VL8",
+      "VA180074",
+      "VB180074"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Dedra /Station Wag. 1,9 TDS (835)",
+    "power": "90 HP",
+    "capacity": "1929 ccm",
+    "no": "835A4.000, 835A4.046, 160D1.000",
+    "date": "04.1989 - 07.1999",
+    "turbo_OEM": [
+      "5316 970 6003"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Dedra 2,0 Turbo (835AQ)",
+    "power": "177 HP",
+    "capacity": "1995 ccm",
+    "no": "835A8.000",
+    "date": "11.1990 - 06.1994",
+    "turbo_OEM": [
+      "465103-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 1.9 Turbo DS",
+    "power": "80 HP",
+    "capacity": "1929 ccm",
+    "no": "831D1.000",
+    "date": "10.1986 - 12.1989",
+    "turbo_OEM": [
+      "5316 970 6000"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 1.6 HF Turbo",
+    "power": "131 HP",
+    "capacity": "1585 ccm",
+    "no": "831A7.000",
+    "date": "10.1983 - 12.1986",
+    "turbo_OEM": [
+      "466194-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 1.6 HF Turbo",
+    "power": "132 HP",
+    "capacity": "1585 ccm",
+    "no": "831B7.046 / 831B3.000",
+    "date": "04.1987 - 03.1989",
+    "turbo_OEM": [
+      "466728-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta II 2.0 16V Turbo",
+    "power": "186 HP",
+    "capacity": "1995 ccm",
+    "no": "836A2.000",
+    "date": "06.1993 - 07.1996",
+    "turbo_OEM": [
+      "465103-0004",
+      "465103-0004"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta II 2.0 16V Turbo",
+    "power": "193 HP",
+    "capacity": "1995 ccm",
+    "no": "175A4.000",
+    "date": "07.1996 - 12.1999",
+    "turbo_OEM": [
+      "465103-0004",
+      "465103-0004"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Dedra 2,0 HF Integrale/4WD (835)",
+    "power": "165 und 169 HP",
+    "capacity": "1995 ccm",
+    "no": "835A7.046 / 835A7.000",
+    "date": "11.1990 - 07.1999",
+    "turbo_OEM": [
+      "465103-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 2.0 HF Int16V Evo 4WD",
+    "power": "211 HP",
+    "capacity": "1995 ccm",
+    "no": "831E5.000",
+    "date": "06.1993 - 01.1994",
+    "turbo_OEM": [
+      "465103-0004",
+      "465103-0004"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 2.0 HF Integrale 4WD",
+    "power": "177 HP",
+    "capacity": "1995 ccm",
+    "no": "831C5.046",
+    "date": "12.1986 - 12.1992",
+    "turbo_OEM": [
+      "465103-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta I 2.0 HF Integrale 4WD",
+    "power": "181 HP",
+    "capacity": "1995 ccm",
+    "no": "831C5.000",
+    "date": "10.1987 - 02.1989",
+    "turbo_OEM": [
+      "466384-0006"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta III 1.6 16V JTD",
+    "power": "120 HP",
+    "capacity": "1598 ccm",
+    "no": "Multijet",
+    "date": "from 09.2008",
+    "turbo_OEM": [
+      "784521-0001",
+      "784521-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta III 1.4 TB 16V",
+    "power": "120 HP",
+    "capacity": "1368 ccm",
+    "no": "1.4 T-Jet 16V",
+    "date": "from 09.2008",
+    "turbo_OEM": [
+      "VL37"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Kappa 2.0 LS 16V Turbo",
+    "power": "205 HP",
+    "capacity": "1995 ccm",
+    "no": "2000 IE. TB 16V (M3)",
+    "date": "from 02.1995",
+    "turbo_OEM": [
+      "454059-0004"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta III 1.8 DI T-Jet 16V",
+    "power": "200 HP",
+    "capacity": "1742 ccm",
+    "no": "844 DI T-Jet 16V",
+    "date": "from 02.2009",
+    "turbo_OEM": [
+      "5303 970 0149",
+      "5303 970 0149"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta III 2.0 Multijet 16V",
+    "power": "165 HP",
+    "capacity": "1956 ccm",
+    "no": "2.0 Multijet 16V",
+    "date": "from 09.2008",
+    "turbo_OEM": [
+      "788290-0001",
+      "781351-0001",
+      "788290-0001",
+      "781351-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Kappa 2.4 JTD",
+    "power": "136 HP",
+    "capacity": "2387 ccm",
+    "no": "838A8.000   5 Zyl.",
+    "date": "from 06.1998",
+    "turbo_OEM": [
+      "701900-0002",
+      "701900-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Delta II 1.9 TD",
+    "power": "90 HP",
+    "capacity": "1929 ccm",
+    "no": "160D1.000 / 835A4.000",
+    "date": "from 10.1994",
+    "turbo_OEM": [
+      "VL4",
+      "VD130011",
+      "5316 970 6003"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Musa 1.6 16v Multijet",
+    "power": "120 HP",
+    "capacity": "1598 ccm",
+    "no": "Multijet",
+    "date": "from 09.2008",
+    "turbo_OEM": [
+      "784521-0001",
+      "784521-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Kappa 2.4 TDS",
+    "power": "124 HP",
+    "capacity": "2387 ccm",
+    "no": "838A3.000 / 838A7.000   5 Zyl.",
+    "date": "from 08.1994",
+    "turbo_OEM": [
+      "VL11",
+      "VA180098"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Musa 1.9 8v Multijet",
+    "power": "100 HP",
+    "capacity": "1910 ccm",
+    "no": "Multijet 8V",
+    "date": "01.2003 - 12.2007",
+    "turbo_OEM": [
+      "VL35",
+      "VL25"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Musa 1.3 16v Multijet",
+    "power": "69 HP",
+    "capacity": "1248 ccm",
+    "no": "16v Multijet",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "5435 970 0005",
+      "5435 970 0005"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Musa 1.3 16v Multijet",
+    "power": "90 HP",
+    "capacity": "1248 ccm",
+    "no": "MultiJet",
+    "date": "from 07.2004",
+    "turbo_OEM": [
+      "5435 970 0014",
+      "5435 970 0014"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Thema 2500 Turbo D (834)",
+    "power": "101 HP",
+    "capacity": "2428 ccm",
+    "no": "8144.91",
+    "date": "11.1984 - 09.1990",
+    "turbo_OEM": [
+      "5326 970 6482",
+      "466868-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Prisma 1,9 Turbo Diesel (831 AB)",
+    "power": "80 HP",
+    "capacity": "1928 ccm",
+    "no": "831D1.000",
+    "date": "05.1985 - 12.1989",
+    "turbo_OEM": [
+      "5316 970 6002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Phedra 2.2 HDi FAP",
+    "power": "170 HP",
+    "capacity": "2179 ccm",
+    "no": "DW12B",
+    "date": "from 01.2007",
+    "turbo_OEM": [
+      "778088-0001",
+      "769901-0003",
+      "769901-0003",
+      "769901-0002",
+      "769901-0001",
+      "769393-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Thesis 2.4 JTD",
+    "power": "140 HP",
+    "capacity": "2400 ccm",
+    "no": "2400 JTD 5C 10V",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "710812-0002",
+      "710812-0002",
+      "710812-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Thesis 2.4 JTD",
+    "power": "140 HP",
+    "capacity": "2400 ccm",
+    "no": "M20 2400 JTD 5C 10V",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "765277-0001",
+      "717662-0002",
+      "717662-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Thesis 2.4 JTD",
+    "power": "175 HP",
+    "capacity": "2400 ccm",
+    "no": "20V Euro IV",
+    "date": "from 01.2002",
+    "turbo_OEM": [
+      "765277-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Thema 2000 i.e.16V Turbo (834)",
+    "power": "177 HP",
+    "capacity": "1995 ccm",
+    "no": "834C1.246",
+    "date": "04.1989 - 03.1993",
+    "turbo_OEM": [
+      "465103-0005"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Zeta 2.2 HDI",
+    "power": "128 HP",
+    "capacity": "2200 ccm",
+    "no": "DW12TED4S",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "707240-0003",
+      "707240-0002",
+      "707240-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Zeta 2.2 HDI",
+    "power": "129 HP",
+    "capacity": "2200 ccm",
+    "no": "DW12TED4S",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "707240-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Ypsilon 1.3 Multijet 16V",
+    "power": "105 HP",
+    "capacity": "1248 ccm",
+    "no": "SJTD",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "5435 970 0024",
+      "5435 970 0024"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Ypsilon 1.3 Multijet 16V",
+    "power": "69 HP",
+    "capacity": "1248 ccm",
+    "no": "16v Multijet",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "5435 970 0005",
+      "5435 970 0005"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Ypsilon 1.3 Multijet 16V",
+    "power": "90 HP",
+    "capacity": "1248 ccm",
+    "no": "MultiJet",
+    "date": "from 07.2004",
+    "turbo_OEM": [
+      "5435 970 0014",
+      "5435 970 0014"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Zeta 2.0 Turbo",
+    "power": "147 HP",
+    "capacity": "1998 ccm",
+    "no": "RGX",
+    "date": "from 05.1995",
+    "turbo_OEM": [
+      "454162-0002",
+      "454162-0001",
+      "454162-0001",
+      "465439-0002"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "3 1.6 DI",
+    "power": "109 HP",
+    "capacity": "1600 ccm",
+    "no": "DV6TED4",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "753420-0006",
+      "753420-0005",
+      "753420-0004",
+      "753420-0004",
+      "753420-0002",
+      "750030-0002",
+      "740821-0002",
+      "740821-0001"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "3 2.2 MZR-CD",
+    "power": "185 HP",
+    "capacity": "2184 ccm",
+    "no": "MZR-CD",
+    "date": "from 12.2008",
+    "turbo_OEM": [
+      "VJ40"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323 Rally",
+    "power": "N/A",
+    "capacity": "1600 ccm",
+    "no": "P233",
+    "date": "----",
+    "turbo_OEM": [
+      "VJ17",
+      "NB150048"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323 DiTD",
+    "power": "101 HP",
+    "capacity": "1998 ccm",
+    "no": "RF-TDI",
+    "date": "01.2000 - 05.2004",
+    "turbo_OEM": [
+      "VJ30"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323 DiTD",
+    "power": "90 HP",
+    "capacity": "2000 ccm",
+    "no": "J25A",
+    "date": "01.1998 - 01.2000",
+    "turbo_OEM": [
+      "VJ27",
+      "VA410047"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323",
+    "power": "140 HP",
+    "capacity": "1600 ccm",
+    "no": "P316 mit KAT",
+    "date": "from 01.1987",
+    "turbo_OEM": [
+      "VJ14",
+      "NB150061"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323",
+    "power": "150 HP",
+    "capacity": "1600 ccm",
+    "no": "P233NEC",
+    "date": "from 12.1986",
+    "turbo_OEM": [
+      "VJ9",
+      "NB150060"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323",
+    "power": "163 HP",
+    "capacity": "1840 ccm",
+    "no": "BP55",
+    "date": "from 11.1990",
+    "turbo_OEM": [
+      "VJ21",
+      "VB130068"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "323 GT-R",
+    "power": "185 HP",
+    "capacity": "1840 ccm",
+    "no": "BPC8",
+    "date": "from 01.1991",
+    "turbo_OEM": [
+      "VJ23",
+      "VB680011",
+      "VA680011"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "6 2.2 MZR-CD",
+    "power": "185 HP",
+    "capacity": "2184 ccm",
+    "no": "MZR-CD",
+    "date": "from 12.2008",
+    "turbo_OEM": [
+      "VJ40"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "626 DiTD",
+    "power": "100 HP",
+    "capacity": "2000 ccm",
+    "no": "J25A RF",
+    "date": "from 01.1999",
+    "turbo_OEM": [
+      "VJ27",
+      "VA410047"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "626 DiTD",
+    "power": "110 HP",
+    "capacity": "2000 ccm",
+    "no": "J25A RF",
+    "date": "from 01.1999",
+    "turbo_OEM": [
+      "VJ27",
+      "VA410047"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "626 DiTD",
+    "power": "136 HP",
+    "capacity": "2000 ccm",
+    "no": "RF4F",
+    "date": "from 01.1997",
+    "turbo_OEM": [
+      "VJ30"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "5 2.0 CD",
+    "power": "110 HP",
+    "capacity": "1998 ccm",
+    "no": "GG - GY",
+    "date": "from 03.2006",
+    "turbo_OEM": [
+      "VJ37"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "5 2.0 CD",
+    "power": "122 HP",
+    "capacity": "1998 ccm",
+    "no": "GG - GY",
+    "date": "from 03.2006",
+    "turbo_OEM": [
+      "VJ37"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "5 2.0 CD",
+    "power": "143 HP",
+    "capacity": "2000 ccm",
+    "no": "MZ-CD",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "VJ36"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "626",
+    "power": "147 HP",
+    "capacity": "2184 ccm",
+    "no": "P148",
+    "date": "03.1991 - 12.1992",
+    "turbo_OEM": [
+      "VJ11",
+      "VB130022"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "B2500",
+    "power": "109 HP",
+    "capacity": "2500 ccm",
+    "no": "115 J97A",
+    "date": "from 01.1996",
+    "turbo_OEM": [
+      "VJ33",
+      "VJ26",
+      "VA430013",
+      "VB430013"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "6 CD",
+    "power": "122 HP",
+    "capacity": "1998 ccm",
+    "no": "GG - GY",
+    "date": "from 03.2006",
+    "turbo_OEM": [
+      "VJ37"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "6 CD",
+    "power": "141 HP",
+    "capacity": "1998 ccm",
+    "no": "MZ-CD",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "VJ36"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Argenta 2500 TD (132A)",
+    "power": "90 HP",
+    "capacity": "2445 ccm",
+    "no": "8144.61.500.81",
+    "date": "07.1983 - 08.1985",
+    "turbo_OEM": [
+      "5326 970 6481"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Brava 1.9 TD 75S (182.AF/BF)",
+    "power": "75 HP",
+    "capacity": "1910 ccm",
+    "no": "182A8.000",
+    "date": "from 03.1996",
+    "turbo_OEM": [
+      "454080-0002",
+      "454080-0004",
+      "700999-0001",
+      "454006-0002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Brava 1.9 JTD 105",
+    "power": "105 HP",
+    "capacity": "1910 ccm",
+    "no": "182B4.000",
+    "date": "from 12.1998",
+    "turbo_OEM": [
+      "701796-0001",
+      "701796-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "500 TwinAir",
+    "power": "85 HP",
+    "capacity": "875 ccm",
+    "no": "TwinAir",
+    "date": "from 09.2010",
+    "turbo_OEM": [
+      "49373-03003",
+      "49373-03001",
+      "49373-03000"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Bravo 1,9 TD 75S (182.AF/BF)",
+    "power": "75 HP",
+    "capacity": "1910 ccm",
+    "no": "182A8.000",
+    "date": "from 03.1996",
+    "turbo_OEM": [
+      "454080-0002",
+      "454080-0004"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Bravo 1,9 TD 100S(182.AF/BF)",
+    "power": "101 HP",
+    "capacity": "1910 ccm",
+    "no": "182A7.000",
+    "date": "03.1996 - 03.1997",
+    "turbo_OEM": [
+      "454080-0004"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Bravo I 1.9 IDI",
+    "power": "105 HP",
+    "capacity": "1900 ccm",
+    "no": "M724MT19T",
+    "date": "01.1999 - 12.2002",
+    "turbo_OEM": [
+      "701370-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Bravo I 1.9 JTD",
+    "power": "105 HP",
+    "capacity": "1910 ccm",
+    "no": "182B4.000",
+    "date": "from 12.1998",
+    "turbo_OEM": [
+      "701796-0001",
+      "701796-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Croma I 2.0 T",
+    "power": "150 HP",
+    "capacity": "1995 ccm",
+    "no": "N/A",
+    "date": "06.1986 - 06.1991",
+    "turbo_OEM": [
+      "466384-0003"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Doblo 1.3 JTD",
+    "power": "69 HP",
+    "capacity": "1248 ccm",
+    "no": "16v Multijet",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "5435 970 0005",
+      "5435 970 0005"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Doblo 1.3 JTD",
+    "power": "85 HP",
+    "capacity": "1248 ccm",
+    "no": "MultiJet",
+    "date": "from 07.2004",
+    "turbo_OEM": [
+      "5435 970 0014",
+      "5435 970 0014"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Croma I 1.9 TD",
+    "power": "N/A",
+    "capacity": "1900 ccm",
+    "no": "TD 25",
+    "date": "01.1991 - 01.1992",
+    "turbo_OEM": [
+      "465475-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato I 2.5 TD",
+    "power": "92 HP",
+    "capacity": "2445 ccm",
+    "no": "8144.21",
+    "date": "01.1986 - 08.1990",
+    "turbo_OEM": [
+      "5326 970 6084"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato I 2.5 TD",
+    "power": "95 HP",
+    "capacity": "2499 ccm",
+    "no": "8140.27",
+    "date": "07.1990 - 03.1994",
+    "turbo_OEM": [
+      "5314 970 7005",
+      "465489-0002",
+      "465489-0005"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato",
+    "power": "136 HP",
+    "capacity": "2300 ccm",
+    "no": "DI F1A",
+    "date": "from 09.2005",
+    "turbo_OEM": [
+      "5303 970 0102",
+      "5303 970 0102"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Croma II 1.9 JTD",
+    "power": "120 HP",
+    "capacity": "1910 ccm",
+    "no": "Z19DT",
+    "date": "from 03.2005",
+    "turbo_OEM": [
+      "767835-0001",
+      "755042-0003",
+      "755042-9003",
+      "755042-0002",
+      "755373-0001",
+      "752814-0001",
+      "740080-0002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Croma II 1.9 JTD",
+    "power": "150 HP",
+    "capacity": "1910 ccm",
+    "no": "16V Euro 4",
+    "date": "from 03.2005",
+    "turbo_OEM": [
+      "773720-0001",
+      "773720-0001",
+      "766340-0001",
+      "755046-0003",
+      "755046-0002",
+      "755046-0001",
+      "740067-0002",
+      "755046-9002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato II 2.5 TDI",
+    "power": "109 und 115 HP",
+    "capacity": "2500 ccm",
+    "no": "8140.47/R",
+    "date": "03.1989 - 08.1998",
+    "turbo_OEM": [
+      "5314 970 7016",
+      "466974-0007"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato II 2.0 JTD",
+    "power": "84 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10UTD RHV",
+    "date": "06.2001 - 12.2006",
+    "turbo_OEM": [
+      "5303 970 0061"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato II 2.8 JTD",
+    "power": "128 HP",
+    "capacity": "2800 ccm",
+    "no": "8140.43S",
+    "date": "01.2001 - 12.2006",
+    "turbo_OEM": [
+      "5303 970 0081",
+      "5303 970 0054",
+      "49377-07050",
+      "49377-07052"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato II 2.8 JTD",
+    "power": "145 HP",
+    "capacity": "2800 ccm",
+    "no": "8140.43N",
+    "date": "06.2004 - 12.2006",
+    "turbo_OEM": [
+      "750510-0001",
+      "750510-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato III 2.2 100 Multijet",
+    "power": "100 HP",
+    "capacity": "2198 ccm",
+    "no": "4HV PSA",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "49131-05212",
+      "49131-05210"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ducato III 2.3 130 Multijet",
+    "power": "130 HP",
+    "capacity": "2287 ccm",
+    "no": "F1AE0481N",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "5303 970 0116",
+      "5303 970 0116"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "C-MAX 1.0 EcoBoost",
+    "power": "100 HP",
+    "capacity": "998 ccm",
+    "no": "3 zyl. EcoBoost",
+    "date": "from 02.2012",
+    "turbo_OEM": [
+      "1761181",
+      "CM5G6K682HB"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "C-MAX 1.0 EcoBoost",
+    "power": "125 HP",
+    "capacity": "998 ccm",
+    "no": "3 zyl. EcoBoost",
+    "date": "from 02.2012",
+    "turbo_OEM": [
+      "1761178",
+      "CM5G6K682GB"
+    ]
+  },
+  {
+    "mark": "Mercedes-NFZ",
+    "model": "Industriemotor",
+    "power": "170 HP",
+    "capacity": "4250 ccm",
+    "no": "OM904LA-E2",
+    "date": "from 10.2000",
+    "turbo_OEM": [
+      "5316 970 7113",
+      "5316 970 7113"
+    ]
+  },
+  {
+    "mark": "Mercedes-NFZ",
+    "model": "Industriemotor",
+    "power": "490 HP",
+    "capacity": "12820 ccm",
+    "no": "OM460LA-EPA98",
+    "date": "from 12.2005",
+    "turbo_OEM": [
+      "1487 970 0008",
+      "1487 970 0008",
+      "5641 197 0012"
+    ]
+  },
+  {
+    "mark": "Mercedes-NFZ",
+    "model": "Industriemotor",
+    "power": "653 HP",
+    "capacity": "15930 ccm",
+    "no": "OM502LA-Euromot 3a",
+    "date": "from 03.2006",
+    "turbo_OEM": [
+      "5641 970 0016",
+      "5641 970 0016"
+    ]
+  },
+  {
+    "mark": "Mercedes-NFZ",
+    "model": "Industriemotor",
+    "power": "N/A",
+    "capacity": "2900 ccm",
+    "no": "OM602",
+    "date": "from 01.1996",
+    "turbo_OEM": [
+      "454169-0001",
+      "454169-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Fiorino II 1.7 TD",
+    "power": "63 HP",
+    "capacity": "1698 ccm",
+    "no": "146D7.000",
+    "date": "from 01.1997",
+    "turbo_OEM": [
+      "466856-0003",
+      "466856-0002",
+      "466856-0003",
+      "466856-0004"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Grande Punto 1.3 JTD",
+    "power": "75 HP",
+    "capacity": "1248 ccm",
+    "no": "DPF",
+    "date": "from 07.2005",
+    "turbo_OEM": [
+      "5435 970 0018",
+      "5435 970 0018"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Grande Punto 1.3 JTD",
+    "power": "90 HP",
+    "capacity": "1248 ccm",
+    "no": "MultiJet",
+    "date": "from 07.2004",
+    "turbo_OEM": [
+      "5435 970 0014",
+      "5435 970 0014"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Grande Punto Assetto Corse 190",
+    "power": "190 HP",
+    "capacity": "1368 ccm",
+    "no": "Assetto Corse 190",
+    "date": "from 01.2009",
+    "turbo_OEM": [
+      "811311-0001",
+      "799502-0002",
+      "799502-0001",
+      "811311-0001",
+      "799502-0002",
+      "799502-0001",
+      "788195-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Idea 1.6 JTD",
+    "power": "120 HP",
+    "capacity": "1598 ccm",
+    "no": "Multijet",
+    "date": "from 09.2008",
+    "turbo_OEM": [
+      "784521-0001",
+      "784521-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Linea 1.3 JTD",
+    "power": "90 HP",
+    "capacity": "1248 ccm",
+    "no": "MultiJet",
+    "date": "from 07.2004",
+    "turbo_OEM": [
+      "5435 970 0014",
+      "5435 970 0014"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Punto III 1.6 JTD",
+    "power": "120 HP",
+    "capacity": "1598 ccm",
+    "no": "Multijet",
+    "date": "from 09.2008",
+    "turbo_OEM": [
+      "784521-0001",
+      "784521-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Grande Punto 1.9 JTDM",
+    "power": "120 HP",
+    "capacity": "1910 ccm",
+    "no": "M737AT19Z",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "767837-0001",
+      "767837-9002",
+      "767837-0001",
+      "754821-0001",
+      "760822-0001",
+      "760822-0002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Grande Punto 1.9 JTDM",
+    "power": "130 HP",
+    "capacity": "1910 ccm",
+    "no": "M737AT19Z",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "767837-0001",
+      "767837-9002",
+      "767837-0001",
+      "754821-0001",
+      "760822-0001",
+      "760822-0002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Punto I 1.4 GT Turbo (176)",
+    "power": "131 HP",
+    "capacity": "1372 ccm",
+    "no": "176B6.000",
+    "date": "09.1996 - 09.1999",
+    "turbo_OEM": [
+      "VL7",
+      "VB180047",
+      "VC180047"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Punto I 1.4 GT Turbo (176)",
+    "power": "133 HP",
+    "capacity": "1372 ccm",
+    "no": "176A4.000",
+    "date": "01.1994 - 09.1996",
+    "turbo_OEM": [
+      "VL7",
+      "VB180047",
+      "VC180047"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Punto II 1.3 JTD",
+    "power": "69 HP",
+    "capacity": "1248 ccm",
+    "no": "16v Multijet",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "5435 970 0005",
+      "5435 970 0005"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Scudo 2.0 Multijet 120",
+    "power": "120 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10U TED 4 FAP",
+    "date": "from 01.2007",
+    "turbo_OEM": [
+      "782053-0001",
+      "782053-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Scudo 2.0 Multijet 120",
+    "power": "120 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10UTED4",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "764609-0001",
+      "764609-0001",
+      "758021-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy II 2.2 TDCi",
+    "power": "175 HP",
+    "capacity": "2179 ccm",
+    "no": "DW12B EU4",
+    "date": "from 01.2008",
+    "turbo_OEM": [
+      "753544-0020",
+      "753544-0017",
+      "753544-0020",
+      "753544-0017"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo I 1.8 TD",
+    "power": "88 und 90 HP",
+    "capacity": "1753 ccm",
+    "no": "RFM/RFN",
+    "date": "06.1993 - 08.1996",
+    "turbo_OEM": [
+      "452063-0002",
+      "452063-0003"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ulysse II 2.0 JTD",
+    "power": "109 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10ATED4",
+    "date": "01.2002 - 10.2006",
+    "turbo_OEM": [
+      "713667-0003",
+      "713667-0003",
+      "713667-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Tipo 1,9 TD (160.AW)",
+    "power": "80 HP",
+    "capacity": "1929 ccm",
+    "no": "160B6.046",
+    "date": "03.1992 - 06.1993",
+    "turbo_OEM": [
+      "5316 970 6003"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ulysse II 2.0 HDi Multijet",
+    "power": "136 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10BTED4 FAP",
+    "date": "from 01.2007",
+    "turbo_OEM": [
+      "760220-0003",
+      "760220-0003"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ulysse I 2.0 JTD",
+    "power": "109 HP",
+    "capacity": "2000 ccm",
+    "no": "DW 10ATED 2S",
+    "date": "from 01.1999",
+    "turbo_OEM": [
+      "706978-0001",
+      "706978-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Ulysse I 2.0 JTD",
+    "power": "109 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10ATED4",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "713667-0003",
+      "713667-0003",
+      "713667-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "UNO  1.4 Turbo I.E. Racing",
+    "power": "112 HP",
+    "capacity": "1372 ccm",
+    "no": "146A8.046   mit Kat !",
+    "date": "10.1989 - 09.1993",
+    "turbo_OEM": [
+      "VL5",
+      "VB180014"
+    ]
+  },
+  {
+    "mark": "MWM",
+    "model": "TD 226-4",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "Fendt Schlepper",
+    "date": "from 01.1981",
+    "turbo_OEM": [
+      "5326 970 6081"
+    ]
+  },
+  {
+    "mark": "Mercedes-LKW",
+    "model": "OM 904 LA",
+    "power": "122 HP",
+    "capacity": "4250 ccm",
+    "no": "N/A",
+    "date": "from 12.1995",
+    "turbo_OEM": [
+      "5316 970 7013",
+      "5316 970 7013",
+      "5316 970 7028",
+      "5316 970 7028"
+    ]
+  },
+  {
+    "mark": "Mercedes-LKW",
+    "model": "OM 904 LA",
+    "power": "136 HP",
+    "capacity": "4250 ccm",
+    "no": "N/A",
+    "date": "from 12.1995",
+    "turbo_OEM": [
+      "5316 970 7013",
+      "5316 970 7013",
+      "5316 970 7028"
+    ]
+  },
+  {
+    "mark": "Mercedes-LKW",
+    "model": "OM 904 LA",
+    "power": "136 HP",
+    "capacity": "4250 ccm",
+    "no": "OM904LA-E2",
+    "date": "from 09.2000",
+    "turbo_OEM": [
+      "5316 970 7028",
+      "5316 970 7028"
+    ]
+  },
+  {
+    "mark": "Mercedes-LKW",
+    "model": "OM 904 LA",
+    "power": "170 HP",
+    "capacity": "4300 ccm",
+    "no": "N/A",
+    "date": "from 08.1995",
+    "turbo_OEM": [
+      "5316 970 7030",
+      "5316 970 7008",
+      "5316 970 7003"
+    ]
+  },
+  {
+    "mark": "Smart-MCC",
+    "model": "Smart 0,6 (MC01) XH",
+    "power": "45 HP",
+    "capacity": "599 ccm",
+    "no": "M160R3   3 Zyl.",
+    "date": "03.1998 - 01.2004",
+    "turbo_OEM": [
+      "708116-0001",
+      "454197-0001",
+      "704487-0001"
+    ]
+  },
+  {
+    "mark": "Smart-MCC",
+    "model": "Smart 0,6 (MC01) XH",
+    "power": "55 HP",
+    "capacity": "599 ccm",
+    "no": "M160R3   3 Zyl.",
+    "date": "03.1998 - 01.2004",
+    "turbo_OEM": [
+      "708116-0001",
+      "454197-0001",
+      "704487-0001"
+    ]
+  },
+  {
+    "mark": "Mercedes-LKW",
+    "model": "NFZ",
+    "power": "140 HP",
+    "capacity": "3970 ccm",
+    "no": "OM364LAE2",
+    "date": "from 06.1994",
+    "turbo_OEM": [
+      "5316 970 6401",
+      "5316 970 6401"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Thema Stat.Wag.2000i.e.Turbo (834)",
+    "power": "141 HP",
+    "capacity": "1995 ccm",
+    "no": "834B2.246",
+    "date": "02.1989 - 05.1992",
+    "turbo_OEM": [
+      "465103-0003"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "Bus",
+    "power": "329 HP",
+    "capacity": "11600 ccm",
+    "no": "DKS1160",
+    "date": "from 03.1987",
+    "turbo_OEM": [
+      "5336 970 6460",
+      "5336 970 6460"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "Bus",
+    "power": "408 HP",
+    "capacity": "12910 ccm",
+    "no": "MX300",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "1387 998 0066",
+      "1387 970 0066",
+      "1387 970 0030",
+      "1387 970 0030",
+      "1387 970 0009",
+      "1387 970 0009",
+      "1387 970 0004",
+      "1387 970 0004"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "Bus",
+    "power": "462 HP",
+    "capacity": "12910 ccm",
+    "no": "MX340",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "1387 998 0066",
+      "1387 970 0066",
+      "1387 970 0030",
+      "1387 970 0030",
+      "1387 970 0009",
+      "1387 970 0009",
+      "1387 970 0004",
+      "1387 970 0004"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "381 HP",
+    "capacity": "12580 ccm",
+    "no": "XE250C/280C Euro 3",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "5331 970 7144",
+      "5331 970 7134",
+      "5331 970 7120"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "381 HP",
+    "capacity": "12580 ccm",
+    "no": "XE280C Euro 3",
+    "date": "from 02.2001",
+    "turbo_OEM": [
+      "5331 970 7145",
+      "5331 970 7145",
+      "5331 970 7135",
+      "5331 970 7135",
+      "5331 970 7124",
+      "5331 970 7124",
+      "5331 970 7121",
+      "5331 970 7121"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "381 HP",
+    "capacity": "12580 ccm",
+    "no": "XF280M Euro 2",
+    "date": "from 04.1999",
+    "turbo_OEM": [
+      "5331 970 7143",
+      "5331 970 7143",
+      "5331 970 7133",
+      "5331 970 7133",
+      "5331 970 7119"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "428 HP",
+    "capacity": "12580 ccm",
+    "no": "XE315",
+    "date": "from 02.2001",
+    "turbo_OEM": [
+      "5331 970 7145",
+      "5331 970 7145",
+      "5331 970 7135",
+      "5331 970 7135",
+      "5331 970 7124",
+      "5331 970 7124",
+      "5331 970 7121",
+      "5331 970 7121"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "430 HP",
+    "capacity": "12580 ccm",
+    "no": "XE315C",
+    "date": "from 02.1999",
+    "turbo_OEM": [
+      "706844-0007",
+      "706844-0007",
+      "706844-0006",
+      "706844-0005",
+      "706844-0003"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "430 HP",
+    "capacity": "12580 ccm",
+    "no": "XF250M",
+    "date": "from 02.1999",
+    "turbo_OEM": [
+      "706844-0004",
+      "706844-0002",
+      "706844-0001"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "430 HP",
+    "capacity": "12580 ccm",
+    "no": "XF315M",
+    "date": "from 02.1999",
+    "turbo_OEM": [
+      "706844-0007",
+      "706844-0007",
+      "706844-0006",
+      "706844-0005",
+      "706844-0003",
+      "706844-0004",
+      "706844-0002",
+      "706844-0001"
+    ]
+  },
+  {
+    "mark": "DAF",
+    "model": "95XF",
+    "power": "480 HP",
+    "capacity": "12580 ccm",
+    "no": "XE355",
+    "date": "from 02.2001",
+    "turbo_OEM": [
+      "5331 970 7145",
+      "5331 970 7145",
+      "5331 970 7135",
+      "5331 970 7135",
+      "5331 970 7124",
+      "5331 970 7124",
+      "5331 970 7121",
+      "5331 970 7121"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Escort 1,8 TD",
+    "power": "70 HP",
+    "capacity": "1753 ccm",
+    "no": "RVA",
+    "date": "12.1995 - 02.1999",
+    "turbo_OEM": [
+      "452084-0011",
+      "452084-0009",
+      "452084-0007",
+      "452084-0004",
+      "452084-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Escort 1,8 TD",
+    "power": "90 HP",
+    "capacity": "1753 ccm",
+    "no": "RFD / RFK",
+    "date": "01.1993 - 07.2000",
+    "turbo_OEM": [
+      "452014-0006",
+      "452014-0005",
+      "452014-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II 1.6 TDCi",
+    "power": "109 HP",
+    "capacity": "1600 ccm",
+    "no": "DV6TED4",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "753420-0006",
+      "753420-0005",
+      "753420-0004",
+      "753420-0004",
+      "753420-0002",
+      "750030-0002",
+      "740821-0002",
+      "1479055"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II 1.6 TDCi",
+    "power": "90 HP",
+    "capacity": "1560 ccm",
+    "no": "HHDA",
+    "date": "from 01.2005",
+    "turbo_OEM": [
+      "49173-07508",
+      "49173-07507",
+      "49173-07506",
+      "49173-07504",
+      "49173-07503",
+      "49173-07502",
+      "49173-07522",
+      "49173-07516"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Focus II 1.6 TDCi",
+    "power": "90 HP",
+    "capacity": "1560 ccm",
+    "no": "HHJA / HHUB",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "49131-05212",
+      "49131-05210"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.0 TDCi",
+    "power": "115 HP",
+    "capacity": "2000 ccm",
+    "no": "Duratorq DI",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "802419-0002",
+      "708618-0011",
+      "708618-0009",
+      "708618-0007",
+      "708618-0006",
+      "708618-0005",
+      "708618-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.0 TDCi",
+    "power": "130 HP",
+    "capacity": "2000 ccm",
+    "no": "Duratorq DI",
+    "date": "from 06.2002",
+    "turbo_OEM": [
+      "714467-0014",
+      "714467-9014",
+      "714467-0013",
+      "714467-0012",
+      "714467-0008",
+      "714467-0007",
+      "714467-0003/4/5"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.0 TDCi",
+    "power": "130 HP",
+    "capacity": "2000 ccm",
+    "no": "Puma",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "728680-0015",
+      "728680-0013",
+      "728680-0010",
+      "728680-0009",
+      "728680-0007"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.0 TDCi",
+    "power": "136 HP",
+    "capacity": "2000 ccm",
+    "no": "DW10BTED",
+    "date": "01.2004 - 01.2007",
+    "turbo_OEM": [
+      "760774-0003",
+      "728768-0004",
+      "728768-0005",
+      "753847-0002",
+      "753847-0006",
+      "753847-0002",
+      "760774-0003",
+      "1483819"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Mondeo III 2.0 TDCi",
+    "power": "90 HP",
+    "capacity": "2000 ccm",
+    "no": "Duratorq DI",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "802419-0002",
+      "708618-0011",
+      "708618-0009",
+      "708618-0007",
+      "708618-0006",
+      "708618-0005",
+      "708618-0004"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "110 HP",
+    "capacity": "1896 ccm",
+    "no": "AFN",
+    "date": "01.1996 - 11.1997",
+    "turbo_OEM": [
+      "454183-0004",
+      "454183-0003",
+      "454183-0002",
+      "454183-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "110 HP",
+    "capacity": "1896 ccm",
+    "no": "AFN",
+    "date": "11.1997 - 05.1999",
+    "turbo_OEM": [
+      "701855-0005",
+      "701855-0005",
+      "701855-0003",
+      "701855-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "115 HP",
+    "capacity": "1896 ccm",
+    "no": "AUY/AJM",
+    "date": "04.2000 - 08.2006",
+    "turbo_OEM": [
+      "713673-0006",
+      "713673-9006",
+      "713673-0005",
+      "713673-0004",
+      "713673-0001/2/3",
+      "454232-0011",
+      "454232-0002/6"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "115 HP",
+    "capacity": "1896 ccm",
+    "no": "AVG",
+    "date": "05.1999 - 03.2000",
+    "turbo_OEM": [
+      "701855-0006",
+      "701855-9006",
+      "701855-0006",
+      "701855-0004",
+      "701855-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "130 HP",
+    "capacity": "1896 ccm",
+    "no": "ASZ",
+    "date": "01.2003 - 08.2006",
+    "turbo_OEM": [
+      "5439 970 0047",
+      "5439 970 0005"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "150 HP",
+    "capacity": "1896 ccm",
+    "no": "BTB",
+    "date": "01.2005 - 08.2006",
+    "turbo_OEM": [
+      "5439 970 0047",
+      "5439 970 0047",
+      "5439 970 0050",
+      "5439 970 0050"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "90 HP",
+    "capacity": "1896 ccm",
+    "no": "1Z / AHU",
+    "date": "11.1995 - 03.2000",
+    "turbo_OEM": [
+      "5303 970 0006",
+      "454083-0001",
+      "454083-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Galaxy 1.9 TDI",
+    "power": "90 HP",
+    "capacity": "1896 ccm",
+    "no": "ANU",
+    "date": "04.2000 - 08.2006",
+    "turbo_OEM": [
+      "5303 970 0036"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Scorpio I 2,5 TD (GAE,GGE)",
+    "power": "116 HP",
+    "capacity": "2500 ccm",
+    "no": "SCB",
+    "date": "08.1993 - 09.1994",
+    "turbo_OEM": [
+      "VA58A",
+      "VA180056",
+      "VC180056"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Scorpio I 2,5 TD (GAE,GGE)",
+    "power": "92 HP",
+    "capacity": "2498 ccm",
+    "no": "SFA/SFB",
+    "date": "06.1988 - 09.1994",
+    "turbo_OEM": [
+      "5324 970 6075",
+      "5324 970 6085",
+      "465318-0003"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit Connect 1.8 TDCI",
+    "power": "110 HP",
+    "capacity": "1753 ccm",
+    "no": "Duratorq",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "758532-0019",
+      "758532-0012",
+      "758532-0019",
+      "758532-0012"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit Connect 1.8 TDCI",
+    "power": "90 HP",
+    "capacity": "1753 ccm",
+    "no": "BHDB",
+    "date": "from 01.2002",
+    "turbo_OEM": [
+      "802419-0006",
+      "706499-0004",
+      "706499-0002",
+      "706499-0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit Connect 1.8 TDCI",
+    "power": "90 HP",
+    "capacity": "1800 ccm",
+    "no": "Duratorq",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "756919-0002",
+      "756919-0003",
+      "756919-0003",
+      "756919-0002"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit IV 2.5 TD",
+    "power": "100 HP",
+    "capacity": "2496 ccm",
+    "no": "FT 190 4EB/4EA/4EC",
+    "date": "from 09.1991",
+    "turbo_OEM": [
+      "5304 970 0001"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit IV 2.5 TD",
+    "power": "117 HP",
+    "capacity": "2496 ccm",
+    "no": "N/A",
+    "date": "from 04.1999",
+    "turbo_OEM": [
+      "5304 970 0017"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit IV 2.5 TD",
+    "power": "75 / 85 HP",
+    "capacity": "2496 ccm",
+    "no": "4HC / 4GD",
+    "date": "from 04.1998",
+    "turbo_OEM": [
+      "5304 970 0008"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit IV 2.5 TD",
+    "power": "85 HP",
+    "capacity": "2496 ccm",
+    "no": "4GA/4GB/4GC",
+    "date": "08.1994 - 08.1997",
+    "turbo_OEM": [
+      "5304 970 0006"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 2.2 TDCi",
+    "power": "115 HP",
+    "capacity": "2198 ccm",
+    "no": "Duratorq TDCi",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "767933-0015",
+      "767933-0008",
+      "767933-0015",
+      "767933-0008"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 2.2 TDCi",
+    "power": "130 HP",
+    "capacity": "2200 ccm",
+    "no": "Duratorq",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "753519-0009",
+      "753519-0007",
+      "753519-0007"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 2.2 TDCi",
+    "power": "140 HP",
+    "capacity": "2198 ccm",
+    "no": "Duratorq TDCi",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "767933-0015",
+      "767933-0008",
+      "767933-0015",
+      "767933-0008"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit VI 2.2 TDCi",
+    "power": "85 HP",
+    "capacity": "2198 ccm",
+    "no": "Duratorq TDCi",
+    "date": "from 01.2006",
+    "turbo_OEM": [
+      "49131-05313",
+      "49S31-05313",
+      "49131-05312",
+      "49131-05310"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Mobilkran",
+    "power": "150 HP",
+    "capacity": "6110 ccm",
+    "no": "D914T",
+    "date": "from 09.1991",
+    "turbo_OEM": [
+      "5327 970 5721",
+      "5327 970 5722"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Mobilkran",
+    "power": "286 HP",
+    "capacity": "9960 ccm",
+    "no": "D926TI",
+    "date": "from 04.1992",
+    "turbo_OEM": [
+      "5329 970 6707",
+      "5329 970 6708"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Mobilkran",
+    "power": "367 HP",
+    "capacity": "11940 ccm",
+    "no": "D9306TI",
+    "date": "from 06.1992",
+    "turbo_OEM": [
+      "5327 970 6611"
+    ]
+  },
+  {
+    "mark": "Liebherr",
+    "model": "Mobilkran",
+    "power": "367 PS HP",
+    "capacity": "11940 ccm",
+    "no": "D9306TI",
+    "date": "from 06.1992",
+    "turbo_OEM": [
+      "5327 970 6612"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Lybra 1.9 JTD",
+    "power": "105 HP",
+    "capacity": "1910 ccm",
+    "no": "AR32302",
+    "date": "from 07.1999",
+    "turbo_OEM": [
+      "701796-0001",
+      "701796-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Lybra 1.9 JTD",
+    "power": "120 HP",
+    "capacity": "1900 ccm",
+    "no": "M737AT19Z",
+    "date": "from 01.2005",
+    "turbo_OEM": [
+      "777251-0001S",
+      "777251-0001",
+      "736168-0003",
+      "736168-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Lybra 1.9 JTD",
+    "power": "140 HP",
+    "capacity": "1900 ccm",
+    "no": "M724.19 16Ventil",
+    "date": "from 01.2003",
+    "turbo_OEM": [
+      "716665-0002",
+      "716665-9003",
+      "716665-0002",
+      "716665-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Lybra 2.4 JTD",
+    "power": "135 HP",
+    "capacity": "2387 ccm",
+    "no": "AR 32501/839 A5.000",
+    "date": "from 10.1999",
+    "turbo_OEM": [
+      "VL18",
+      "VA430048"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Lybra 2.4 JTD",
+    "power": "140 HP",
+    "capacity": "2400 ccm",
+    "no": "M722.KT.24",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "710811-0002",
+      "710811-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Lybra 2.4 JTD",
+    "power": "166 HP",
+    "capacity": "2387 ccm",
+    "no": "M722.24",
+    "date": "from 05.2003",
+    "turbo_OEM": [
+      "717661-0001",
+      "750639-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Phedra 2.0 JTD",
+    "power": "109 HP",
+    "capacity": "2000 ccm",
+    "no": "DW10ATED4",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "713667-0003",
+      "713667-0003",
+      "713667-0001"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Phedra 2.0 JTD",
+    "power": "120 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10UTED4",
+    "date": "from 06.2006",
+    "turbo_OEM": [
+      "764609-0001",
+      "764609-0001",
+      "758021-0002"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Phedra 2.0 JTD",
+    "power": "136 HP",
+    "capacity": "1997 ccm",
+    "no": "DW10BTED4 FAP",
+    "date": "from 01.2007",
+    "turbo_OEM": [
+      "760220-0003",
+      "760220-0003"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "100 HP",
+    "capacity": "1910 ccm",
+    "no": "M724.19.X 8valve",
+    "date": "01.2005 - 10.2006",
+    "turbo_OEM": [
+      "712766-0002",
+      "712766-9002",
+      "712766-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "115 HP",
+    "capacity": "1910 ccm",
+    "no": "M724.19.X 8valve",
+    "date": "01.2000 - 10.2005",
+    "turbo_OEM": [
+      "712766-0002",
+      "712766-9002",
+      "712766-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "120 HP",
+    "capacity": "1910 ccm",
+    "no": "M737AT19Z",
+    "date": "from 01.2005",
+    "turbo_OEM": [
+      "777251-0001S",
+      "777251-0001",
+      "736168-0003",
+      "736168-0002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "120 HP",
+    "capacity": "1910 ccm",
+    "no": "Z19DT",
+    "date": "01.2002 - 10.2005",
+    "turbo_OEM": [
+      "767835-0001",
+      "755042-0003",
+      "755042-9003",
+      "755042-0002",
+      "755373-0001",
+      "752814-0001",
+      "740080-0002"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "140 HP",
+    "capacity": "1910 ccm",
+    "no": "M724.19 16Ventil",
+    "date": "01.2003 - 10.2005",
+    "turbo_OEM": [
+      "716665-0002",
+      "716665-9003",
+      "716665-0002",
+      "716665-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "150 HP",
+    "capacity": "1910 ccm",
+    "no": "16V JTD Multijet",
+    "date": "01.2005 - 10.2007",
+    "turbo_OEM": [
+      "777250-0001",
+      "777250-0001",
+      "760497-0002",
+      "760497-0001"
+    ]
+  },
+  {
+    "mark": "Fiat",
+    "model": "Stilo 1.9 JTD",
+    "power": "80 HP",
+    "capacity": "1910 ccm",
+    "no": "L4",
+    "date": "01.1999 - 10.2002",
+    "turbo_OEM": [
+      "VL20",
+      "VA410059"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "F 8",
+    "power": "280 HP",
+    "capacity": "N/A",
+    "no": "D2566MTUH",
+    "date": "----",
+    "turbo_OEM": [
+      "4027787",
+      "3525086",
+      "3525145",
+      "3525147",
+      "3525156",
+      "3545741"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "F 8",
+    "power": "320 HP",
+    "capacity": "N/A",
+    "no": "D2542MTE",
+    "date": "----",
+    "turbo_OEM": [
+      "5336 970 6456",
+      "5232 970 3273"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "F 8",
+    "power": "500 HP",
+    "capacity": "18270 ccm",
+    "no": "D2840LF01/04/06",
+    "date": "----",
+    "turbo_OEM": [
+      "3528568"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "156 HP",
+    "capacity": "4580 ccm",
+    "no": "D0824LF05",
+    "date": "from 11.1998",
+    "turbo_OEM": [
+      "5326 970 6208",
+      "5326 970 6208"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "159 HP",
+    "capacity": "4580 ccm",
+    "no": "D0824LFL01",
+    "date": "from 07.1993",
+    "turbo_OEM": [
+      "5326 970 6202",
+      "5326 970 6202"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "190-270 HP",
+    "capacity": "6870 ccm",
+    "no": "D0836LOH03",
+    "date": "----",
+    "turbo_OEM": [
+      "3593920"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "218 HP",
+    "capacity": "N/A",
+    "no": "D0836LUH02",
+    "date": "----",
+    "turbo_OEM": [
+      "3592005",
+      "4033201",
+      "3592070",
+      "3592069"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "280 HP",
+    "capacity": "6871 ccm",
+    "no": "D0836LOH02",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "3595937",
+      "4033373",
+      "3595938"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "280 HP",
+    "capacity": "11970 ccm",
+    "no": "D2542MLE - MDR635",
+    "date": "from 01.1979",
+    "turbo_OEM": [
+      "5336 970 6703",
+      "5232 970 3279",
+      "182296"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "290 HP",
+    "capacity": "9970 ccm",
+    "no": "D2865LF25",
+    "date": "from 01.1995",
+    "turbo_OEM": [
+      "315309",
+      "314974"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "292 HP",
+    "capacity": "9790 ccm",
+    "no": "D2865LF25, D2865LUH09 Euro 1",
+    "date": "from 11.1995",
+    "turbo_OEM": [
+      "315207",
+      "315186"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "310 HP",
+    "capacity": "11970 ccm",
+    "no": "D2866LUH23/24/27/28",
+    "date": "from 08.1999",
+    "turbo_OEM": [
+      "317830",
+      "317602"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "360 HP",
+    "capacity": "11970 ccm",
+    "no": "D2866LUH23/24/27/28 Euro 3",
+    "date": "from 08.1999",
+    "turbo_OEM": [
+      "317831",
+      "317603",
+      "317644"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "510 HP",
+    "capacity": "12820 ccm",
+    "no": "D2876LOH21",
+    "date": "from 06.2005",
+    "turbo_OEM": [
+      "5331 970 7505",
+      "5331 970 7505",
+      "5331 971 7505",
+      "5331 972 7505"
+    ]
+  },
+  {
+    "mark": "MAN",
+    "model": "Bus",
+    "power": "N/A",
+    "capacity": "N/A",
+    "no": "D0836LE501",
+    "date": "----",
+    "turbo_OEM": [
+      "3592723"
+    ]
+  },
+  {
+    "mark": "MWM",
+    "model": "Traktor",
+    "power": "155 HP",
+    "capacity": "6240 ccm",
+    "no": "TD226B-6",
+    "date": "from 05.1988",
+    "turbo_OEM": [
+      "5327 970 6403",
+      "5327 970 6403"
+    ]
+  },
+  {
+    "mark": "MWM",
+    "model": "Traktor",
+    "power": "75 HP",
+    "capacity": "3120 ccm",
+    "no": "TD226B-3",
+    "date": "from 10.1991",
+    "turbo_OEM": [
+      "5314 970 6417",
+      "5314 970 6417",
+      "5314 970 6416",
+      "5314 970 6416"
+    ]
+  },
+  {
+    "mark": "MWM",
+    "model": "Traktor",
+    "power": "97 HP",
+    "capacity": "4160 ccm",
+    "no": "TD226B4",
+    "date": "from 07.1992",
+    "turbo_OEM": [
+      "5324 970 6409",
+      "5324 970 6408"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.4 TDCi",
+    "power": "120 HP",
+    "capacity": "2400 ccm",
+    "no": "PUMA F4FA",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "49135-06000"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.4 TDCi",
+    "power": "125 HP",
+    "capacity": "2400 ccm",
+    "no": "PUMA",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "49135-06037",
+      "49135-06035",
+      "49135-06030"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.4 TDCi",
+    "power": "137 HP",
+    "capacity": "2402 ccm",
+    "no": "H9FA",
+    "date": "from 01.2005",
+    "turbo_OEM": [
+      "49377-00510",
+      "49377-00500",
+      "49T77-00510"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.4 TDCi",
+    "power": "75 HP",
+    "capacity": "2400 ccm",
+    "no": "PUMA",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "49135-06020"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Transit V 2.4 TDCi",
+    "power": "90 HP",
+    "capacity": "2400 ccm",
+    "no": "Puma",
+    "date": "from 01.2000",
+    "turbo_OEM": [
+      "49135-06015",
+      "49135-06010"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Kuga 2.0 TDCi",
+    "power": "136 HP",
+    "capacity": "2000 ccm",
+    "no": "DW10BTED",
+    "date": "from 01.2004",
+    "turbo_OEM": [
+      "760774-0003",
+      "728768-0004",
+      "728768-0005",
+      "753847-0002",
+      "753847-0006",
+      "753847-0002",
+      "760774-0003"
+    ]
+  },
+  {
+    "mark": "Ford",
+    "model": "Kuga 2.0 TDCi",
+    "power": "136 HP",
+    "capacity": "2000 ccm",
+    "no": "G6DG",
+    "date": "from 03.2008",
+    "turbo_OEM": [
+      "765993-0004S",
+      "765993-0004"
+    ]
+  },
+  {
+    "mark": "Mazda",
+    "model": "MPV TD",
+    "power": "115 HP",
+    "capacity": "2500 ccm",
+    "no": "J82Y",
+    "date": "05.1996 - 12.1999",
+    "turbo_OEM": [
+      "VJ25",
+      "VB430012"
+    ]
+  },
+  {
+    "mark": "Komatsu",
+    "model": "WA480",
+    "power": "296 HP",
+    "capacity": "11000 ccm",
+    "no": "SAA6D125E-3",
+    "date": "from 04.2003",
+    "turbo_OEM": [
+      "319460",
+      "319448",
+      "319460",
+      "319448"
+    ]
+  },
+  {
+    "mark": "Lancia",
+    "model": "Phedra 2.2 JTD",
+    "power": "128 HP",
+    "capacity": "2179 ccm",
+    "no": "DW12TED4S",
+    "date": "from 01.2001",
+    "turbo_OEM": [
+      "707240-0003",
+      "707240-0002",
+      "707240-0002"
+    ]
+  }
+]
