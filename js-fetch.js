@@ -14,7 +14,7 @@ async function getBrands() {
     $(`option`).each(function (i, brand) {
         const $brand = $(brand)
         allBrands.push($brand.text())
-        
+
         return allBrands
     })
     fs.writeFile(`./brands.json`, JSON.stringify(allBrands, null, 2))
@@ -37,11 +37,11 @@ function getModels() {
             .map(x =>
                 x.map(x =>
                     x.trim()).filter(x => x != ''))
-            .map((x,i) => { return { nr: i, marka: x[0], model: x[1].replace(/ /gi, '%20') } })
+            .map((x, i) => { return { nr: i, marka: x[0], model: x[1].replace(/ /gi, '%20') } })
         console.log(allModels)
-        fs.writeFile(`./Models.json`, JSON.stringify(allModels, null, 2))
+        fs.writeFile(`./models.json`, JSON.stringify(allModels, null, 2))
         return allModels
-        
+
     })
 }
 //http://kodeturbo.com/index.php?do=cars2&marka=Alfa-Romeo&model=145%201.9%20JTD
@@ -58,9 +58,10 @@ function getModelsParameters() {
                 inAllParameters.push($parameter.text())
             }
             console.log(inAllParameters)
-
+            fs.writeFile(`./Parameters.json`, JSON.stringify(inAllParameters, null, 2))
             return inAllParameters
         })
+
     })
 }
 
