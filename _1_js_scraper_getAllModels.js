@@ -16,7 +16,10 @@ async function getBrands() {
     allBrands.push($brand.text())
     return allBrands
   })
-  fs.writeFile(`./data/Brands.json`, JSON.stringify(allBrands, null, 2))
+  fs.writeFile(`./data/Brands.json`, JSON.stringify(allBrands, null, 2), (err) => {
+    if (err) throw err;
+    console.log('The file has been saved!')
+  })
   console.log(allBrands)
 }
 
@@ -38,9 +41,11 @@ function getModels() {
           x.trim()).filter(x => x != ''))
       .map((x, i) => { return { nr: i, marka: x[0], model: x[1].replace(/ /gi, '%20') } })
     console.log(allModels)
-    fs.writeFile(`./data/Models.json`, JSON.stringify(allModels, null, 2))
+    fs.writeFile(`./data/Models.json`, JSON.stringify(allModels, null, 2), (err) => {
+      if (err) throw err
+      console.log('The file has been saved!')
+    })
     return allModels
-
   })
 }
 

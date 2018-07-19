@@ -19,7 +19,7 @@ function getTurbParameters(data) {
     data.forEach(async function (marka) {
       try {
         const turbo = await fetch(`${url[0]}${url[6]}${marka}${url[7]}`).then(resp => resp.text())
-        const $ = cheerio.load(turbo)
+        const $ = await cheerio.load(turbo)
 
         $(`tr`).each(function (i, turbo) {
           const $turbo = $(turbo)
@@ -44,7 +44,10 @@ function getTurbParameters(data) {
             KODE_CHRA: x[11].trim()
           }
         })
-        fs.writeFile(`./data/TurboOEMParameters.json`, JSON.stringify(turboOem, null, 2))
+        fs.writeFile(`./data/TurboOEMParameters.json`, JSON.stringify(turboOem, null, 2), (err) => {
+          if (err) throw err
+          console.log('The file has been saved!')
+        })
         return turboOem
       } catch (error) {
         console.log(`message Error: ${error}`);

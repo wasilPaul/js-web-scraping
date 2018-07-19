@@ -16,7 +16,7 @@ function getModelsParameters(data) {
     data.forEach(async function (marka) {
       try {
         const parameter = await fetch(`${url[0]}${url[2]}${marka.marka}${url[4]}${marka.model}`).then(resp => resp.text())
-        const $ = cheerio.load(parameter)
+        const $ = await cheerio.load(parameter)
 
         $(`tr`).each(function (i, parameter) {
           const $parameter = $(parameter)
@@ -37,7 +37,10 @@ function getModelsParameters(data) {
             turbo_OEM: x.slice(7, x.length).map(x => x.trim()).filter(x => x != '')
           }
         })
-        fs.writeFile(`./data/Parameters.json`, JSON.stringify(modelsParameters, null, 2))
+        fs.writeFile(`./data/Parameters.json`, JSON.stringify(modelsParameters, null, 2), (err) => {
+          if (err) throw err
+          console.log('The file has been saved!')
+        })
         return modelsParameters
       } catch (error) {
         console.log(`message Error: ${error}`);
