@@ -37,7 +37,7 @@ function getModelsParameters(data) {
             turbo_OEM: x.slice(7, x.length).map(x => x.trim()).filter(x => x != '')
           }
         })
-        //fs.writeFile(`./data/Parameters.json`, JSON.stringify(modelsParameters, null, 2))
+        fs.writeFile(`./data/Parameters.json`, JSON.stringify(modelsParameters, null, 2))
         return modelsParameters
       } catch (error) {
         console.log(`message Error: ${error}`);

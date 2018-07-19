@@ -14,7 +14,6 @@ async function getBrands() {
   $(`option`).each(function (i, brand) {
     const $brand = $(brand)
     allBrands.push($brand.text())
-
     return allBrands
   })
   fs.writeFile(`./data/Brands.json`, JSON.stringify(allBrands, null, 2))
@@ -44,14 +43,10 @@ function getModels() {
 
   })
 }
-//http://kodeturbo.com/index.php?do=cars2&marka=Alfa-Romeo&model=145%201.9%20JTD
 
 async function getALL() {
   await getBrands()
   await getModels()
-
-
 }
 
 getALL()
-

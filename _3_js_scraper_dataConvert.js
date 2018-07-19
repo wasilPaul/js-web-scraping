@@ -20,5 +20,3 @@ getAllTurboNumber(jsonData)
 console.log(turboNumbers)
 
 fs.writeFile(`./data/TurboNrOEM.json`, JSON.stringify(turboNumbers, null, 2))
-
-
