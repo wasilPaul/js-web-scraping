@@ -12,7 +12,7 @@ const getAllTurboNumber = allParameters =>
       allNr.concat(...modelNr.turbo_OEM), [])
     .filter((nr, idx, allArray) => allArray.indexOf(nr) == idx)
     .sort()
-    .map(x => x.replace(/ /gi, `%`))
+    .map(x => x.replace(/ /gi, `-`))
     .map(auto => turboNumbers.push(auto));
 
 getAllTurboNumber(jsonData)

@@ -6,7 +6,7 @@ const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&
 
 const data = fs.readFileSync(`./data/TurboNrOEM.json`)
 
-const jsonData = JSON.parse(data).slice(600,800)
+const jsonData = JSON.parse(data).slice(1400,1600)
 
 let turboOem = []
 
@@ -44,7 +44,7 @@ function getTurbParameters(data) {
             KODE_CHRA: x[11].trim()
           }
         })
-        fs.writeFile(`./data/TurboOEMParameters42.json`, JSON.stringify(turboOem, null, 2), (err) => {
+        fs.writeFile(`./data/TurboOEMParameters82.json`, JSON.stringify(turboOem, null, 2), (err) => {
           if (err) throw err
           console.log('The file has been saved!')
         })

@@ -2,11 +2,11 @@ const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const fs = require('fs')
 
-const data = fs.readFileSync(`./data/TurboOEMParameters42.json`)
+const data = fs.readFileSync(`./data/TurboNrOEM.json`)
 
 const jsonData = JSON.parse(data)
 
-console.log(jsonData.length)
+console.log(jsonData.slice(1800,2000))
 
 
 // const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`]
