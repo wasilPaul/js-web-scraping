@@ -43,7 +43,7 @@ function getModelsParameters(data) {
         })
         return modelsParameters
       } catch (error) {
-        console.log(`message Error: ${error}`);
+        console.error(`message Error: ${error}`);
       }
     })
   }

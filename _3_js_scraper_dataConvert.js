@@ -19,4 +19,7 @@ getAllTurboNumber(jsonData)
 
 console.log(turboNumbers)
 
-fs.writeFile(`./data/TurboNrOEM.json`, JSON.stringify(turboNumbers, null, 2))
+fs.writeFile(`./data/TurboNrOEM.json`, JSON.stringify(turboNumbers, null, 2), (err) => {
+  if (err) throw err
+  console.log('The file has been saved!')
+})

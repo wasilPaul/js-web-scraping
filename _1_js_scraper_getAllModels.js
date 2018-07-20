@@ -27,13 +27,13 @@ function getModels() {
   const inAllModels = []
   allBrands.forEach(async function (brand) {
     const model = await fetch(`${url[0]}${url[1]}${brand}${url[3]}`).then(resp => resp.text())
-    const $ = cheerio.load(model)
+    const $ = await cheerio.load(model)
     $(`tr`).each(function (i, model) {
       if (i != 0) {
         const $model = $(model)
         inAllModels.push($model.text().split('\n'))
       }
-      //return inAllModels
+      return inAllModels
     })
     allModels = inAllModels
       .map(x =>
