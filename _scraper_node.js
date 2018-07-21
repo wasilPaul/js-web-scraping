@@ -1,0 +1,5 @@
+const cheerio = require(`cheerio`)
+const express = require(`expresss`)
+const fs = require(`fs`)
+const path = require(`path`)
+const request = require(`request`)
