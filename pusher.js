@@ -18,11 +18,17 @@ function dataPusher(data) {
                     },
                     body: JSON.stringify(turbo)
                 })
+                .then(handleErrors)
                 .then(res => res.json())
                 .then(res => console.log(res))
+                .catch(error => console.error(error))
         )
-
     }
+}
+
+function handleErrors(response) {
+    if (!response.ok) throw Error(response.statusText)
+    return response
 }
 
 dataPusher(jsonData)
