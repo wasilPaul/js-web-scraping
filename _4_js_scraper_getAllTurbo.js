@@ -6,7 +6,7 @@ const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&
 
 const data = fs.readFileSync(`./data/TurboNrOEM.json`)
 
-const jsonData = JSON.parse(data).slice(4200,data.length)
+const jsonData = JSON.parse(data)
 
 let turboOem = []
 
