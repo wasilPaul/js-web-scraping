@@ -4,7 +4,7 @@ const cheerio = require('cheerio')
 
 const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`, `?szukaj=`, '&go=SEARCH+%C2%BB&do=search']
 
-const data = fs.readFileSync(`./data/TurboNrOEM.json`)
+const data = fs.readFileSync(`./data/notFind.json`)
 
 const jsonData = JSON.parse(data)
 
@@ -44,7 +44,7 @@ function getTurbParameters(data) {
             KODE_CHRA: x[11].trim()
           }
         })
-        fs.writeFile(`./data/TurboOEMParameters222.json`, JSON.stringify(turboOem, null, 2), (err) => {
+        fs.writeFile(`./data/TurboOEMParameters223.json`, JSON.stringify(turboOem, null, 2), (err) => {
           if (err) throw err
           console.log('The file has been saved!')
         })
