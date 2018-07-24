@@ -5,7 +5,7 @@ const data = fs.readFileSync(`../js-scraper_data/data/allData.json`)
 
 
 const jsonTurbo = JSON.parse(turbo)
-const jsonData = JSON.parse(data).map(x => x.turboOEM)
+const jsonData = JSON.parse(data).map(x => x.turboOEM).map(x => x.replace(/ /gi, `-`))
 
 console.log(jsonData[1], jsonTurbo[1])
 if (jsonData && jsonData.length && jsonTurbo && jsonTurbo.length) {
