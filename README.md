@@ -1,4 +1,4 @@
-Simple JS Web Scraper
+#Simple JS Web Scraper
 
 1. Clone repo.
 2. Use `npm install` command (fs, node-fetch, cheerio).

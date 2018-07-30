@@ -1,7 +1,7 @@
 const fs = require(`fs`)
 const fetch = require('node-fetch')
 
-const data = fs.readFileSync(`../js-scraper_data/data/allData.json`)
+const data = fs.readFileSync(`../js-scraper_data/data/allDataHanged.json`)
 //../js-scraper_data/data/allData.json`
 const jsonData = JSON.parse(data)
 
@@ -9,7 +9,7 @@ function dataPusher(data) {
     if (data && data.length) {
         console.log(JSON.stringify(data[0]))
         data.forEach(async (turbo) =>
-            await fetch(`https://..............firebaseio.com/turbo.json`,
+            await fetch(`https://turbo-direct-project.firebaseio.com/turbo.json`,
                 {
                     method: `POST`,
                     headers: {

@@ -1,7 +1,7 @@
 const cheerio = require(`cheerio`)
 const request = require(`request`)
 
-const url = `http://kodeturbo.com/index.php`
+const url = `http://..../index.php`
 
 request(url, function (error, resp, body) {
     if (error) {

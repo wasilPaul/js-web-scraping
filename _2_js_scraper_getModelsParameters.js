@@ -2,7 +2,7 @@ let fs = require(`fs`)
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 
-const url = [`http://kodeturbo.com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`]
+const url = [`http://......com/index.php`, `?marka=`, `?do=cars2&marka=`, `&do=cars`, `&model=`, `?do=turbo&oem=`]
 
 const data = fs.readFileSync(`./data/Models.json`)
 
